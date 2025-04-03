@@ -1,0 +1,42 @@
+# Problem transportowania dźwigów - dane
+# Karol Janic
+
+set miasta := Opole Brzeg Nysa Prudnik StrzelceOpolskie Kozle Raciborz;
+
+set typy := 1 2;
+
+param odleglosci:
+                    Opole    Brzeg    Nysa    Prudnik    StrzelceOpolskie    Kozle    Raciborz :=
+Opole               0        44       59      52         33                  47       78
+Brzeg               44       0        54      81         100                 94       128
+Nysa                59       54       0       28         96                  74       88
+Prudnik             52       81       28      0          69                  48       62
+StrzelceOpolskie    33       100      96      69         0                   25       61
+Kozle               47       94       74      48         25                  0        35
+Raciborz            78       128      88      62         61                  35       0;
+
+param koszty :=
+1  1
+2  1.2;
+
+param brak:
+                    1              2 :=
+Opole               0              2
+Brzeg               10             0
+Nysa                0              0
+Prudnik             4              0
+StrzelceOpolskie    0              4
+Kozle               8              2
+Raciborz            0              1;  
+
+param nadmiar:
+                    1              2 :=
+Opole               7              0
+Brzeg               0              1
+Nysa                6              2
+Prudnik             0              10
+StrzelceOpolskie    5              0
+Kozle               0              0
+Raciborz            0              0;  
+
+end;

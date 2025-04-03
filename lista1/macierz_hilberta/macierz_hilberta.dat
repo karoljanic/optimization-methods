@@ -1,0 +1,6 @@
+# Problem programowania liniowego z macierzą Hilberta - dane
+# Karol Janic
+
+param n := 7;
+
+end;

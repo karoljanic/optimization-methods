@@ -1,0 +1,69 @@
+# Problem planowania zajęć - dane 1
+# Karol Janic
+
+set dni := 1 2 3 4 5;
+set zajecia := Algebra Analiza Fizyka ChemiaMineralow ChemiaOrganiczna;
+set grupy := Gr1 Gr2 Gr3 Gr4;
+
+param dni_zajec:
+                    Gr1     Gr2     Gr3     Gr4 :=
+Algebra             1       2       3       3
+Analiza             1       2       3       4
+Fizyka              2       2       4       4
+ChemiaMineralow     1       1       4       5
+ChemiaOrganiczna    1       1       5       5;
+
+param poczatki_zajec:
+                    Gr1     Gr2     Gr3     Gr4 :=
+Algebra             13      10      10      11
+Analiza             13      10      11      8
+Fizyka              8       10      15      17
+ChemiaMineralow     8       8       13      13
+ChemiaOrganiczna    9       10.5    11      13;
+
+param konce_zajec:
+                    Gr1     Gr2     Gr3     Gr4 :=
+Algebra             15      12      12      13
+Analiza             15      12      13      10
+Fizyka              11      13      18      20
+ChemiaMineralow     10      10      15      15
+ChemiaOrganiczna    10.5    12      12.5    14.5;
+
+param preferencje:
+                    Gr1     Gr2     Gr3     Gr4 :=
+Algebra             5       4       10      5
+Analiza             4       4       5       6
+Fizyka              3       5       7       8
+ChemiaMineralow     10      10      7       5
+ChemiaOrganiczna    0       5       3       4;
+
+param maksymalna_dzienna_liczba_godzin := 4;
+
+param poczatek_przerwy_obiadowej := 12;
+param koniec_przerwy_obiadowej := 14;
+param dlugosc_obiadu := 1;
+
+set treningi := Tr1 Tr2 Tr3;
+
+param dni_treningow :=
+    Tr1 1
+    Tr2 3
+    Tr3 3;
+
+param poczatki_treningow :=
+    Tr1 13
+    Tr2 11
+    Tr3 13;
+
+param konce_treningow :=
+    Tr1 15
+    Tr2 13
+    Tr3 15;
+
+param minimalna_liczba_treningow := 1;
+
+set dni_wolne := ;
+
+param minimalna_preferencja := 0;
+
+end;

@@ -1,0 +1,114 @@
+# Problem proporcji w procesie rafinacji ropy naftowej - dane
+# Karol Janic
+
+set rodzaje_ropy := B1 B2;
+set etapy_produkcji := destylacja1 destylacja2 kraking;
+set rodzaje_produktow := paliwoSilnikowe paliwoDomowe paliwoCiezkie;
+set produkty := benzyna olej destylat resztki;
+
+param cena_ropy :=
+    B1 1300
+    B2 1500;
+
+param wejscia_ropy :
+                B1      B2 :=
+destylacja1     1       0
+destylacja2     0       1
+kraking         0       0;
+
+param przeplyw_produkcji := 
+[* , *, B1] :
+                destylacja1     destylacja2     kraking :=
+destylacja1     0               0               0
+destylacja2     0               0               0
+kraking         0               0               0
+[* , *, B2] :
+                destylacja1     destylacja2     kraking :=
+destylacja1     0               0               0
+destylacja2     0               0               0
+kraking         0               0               0
+[* , *, benzyna] :
+                destylacja1     destylacja2     kraking :=
+destylacja1     0               0               0
+destylacja2     0               0               0
+kraking         0               0               0
+
+[* , *, olej] :
+                destylacja1     destylacja2     kraking :=
+destylacja1     0               0               0
+destylacja2     0               0               0
+kraking         0               0               0
+
+[* , *, destylat] :
+                destylacja1     destylacja2     kraking :=
+destylacja1     0               0               1
+destylacja2     0               0               1
+kraking         0               0               0
+
+[* , *, resztki] :
+                destylacja1     destylacja2     kraking :=
+destylacja1     0               0               0
+destylacja2     0               0               0
+kraking         0               0               0;
+
+param wydajnosc_produkcji:
+                benzyna    olej    destylat    resztki :=
+destylacja1     0.15       0.40    0.15        0.15
+destylacja2     0.10       0.35    0.20        0.25
+kraking         0.50       0.20    0.00        0.06;
+
+param koszty_produkcji :=
+    destylacja1 10
+    destylacja2 10
+    kraking 20;
+
+param przeplyw_do_zbiornikow := 
+[* , *, B1] :
+                paliwoSilnikowe     paliwoDomowe     paliwoCiezkie :=
+destylacja1     0                   0                0
+destylacja2     0                   0                0
+kraking         0                   0                0
+[* , *, B2] :
+                paliwoSilnikowe     paliwoDomowe     paliwoCiezkie :=
+destylacja1     0                   0                0
+destylacja2     0                   0                0
+kraking         0                   0                0
+[* , *, benzyna] :
+                paliwoSilnikowe     paliwoDomowe     paliwoCiezkie :=
+destylacja1     1                   0                0
+destylacja2     1                   0                0
+kraking         1                   0                0
+
+[* , *, olej] :
+                paliwoSilnikowe     paliwoDomowe     paliwoCiezkie :=
+destylacja1     0                   1                1
+destylacja2     0                   1                1
+kraking         0                   1                0
+
+[* , *, destylat] :
+                paliwoSilnikowe     paliwoDomowe     paliwoCiezkie :=
+destylacja1     0                   0                1
+destylacja2     0                   0                1
+kraking         0                   0                0
+
+[* , *, resztki] :
+                paliwoSilnikowe     paliwoDomowe     paliwoCiezkie :=
+destylacja1     0                   0                1
+destylacja2     0                   0                1
+kraking         0                   0                1;
+
+param limit_siarki_olejow_opalowych := 0.005;
+param zawartosc_siarki_destylacji :=
+    B1 0.002
+    B2 0.012;
+
+param zawartosc_siarki_krakingu :=
+    B1 0.003
+    B2 0.025;
+
+param zapotrzebowanie := 
+    paliwoSilnikowe 200000
+    paliwoDomowe 400000
+    paliwoCiezkie 250000;
+
+end;
