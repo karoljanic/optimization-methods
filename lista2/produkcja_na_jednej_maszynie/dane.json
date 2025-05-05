@@ -1,0 +1,14 @@
+{
+    "zadania": [
+        { "numer": 1, "czas": 4, "waga": 5, "gotowosc": 0 },
+        { "numer": 2, "czas": 3, "waga": 2, "gotowosc": 2 },
+        { "numer": 3, "czas": 2, "waga": 7, "gotowosc": 5 },
+        { "numer": 4, "czas": 6, "waga": 4, "gotowosc": 3 },
+        { "numer": 5, "czas": 5, "waga": 1, "gotowosc": 7 },
+        { "numer": 6, "czas": 1, "waga": 9, "gotowosc": 0 },
+        { "numer": 7, "czas": 7, "waga": 3, "gotowosc": 4 },
+        { "numer": 8, "czas": 2, "waga": 6, "gotowosc": 6 },
+        { "numer": 9, "czas": 3, "waga": 8, "gotowosc": 1 },
+        { "numer": 10, "czas": 4, "waga": 2, "gotowosc": 8 }
+      ]
+}

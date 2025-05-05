@@ -1,0 +1,14 @@
+{
+    "liczba-maszyn": 3,
+    "zadania": [
+        { "numer": 1, "czas": 1, "poprzednicy": [] },
+        { "numer": 2, "czas": 2, "poprzednicy": [] },
+        { "numer": 3, "czas": 1, "poprzednicy": [] },
+        { "numer": 4, "czas": 2, "poprzednicy": [1, 2, 3] },
+        { "numer": 5, "czas": 1, "poprzednicy": [2, 3] },
+        { "numer": 6, "czas": 1, "poprzednicy": [4] },
+        { "numer": 7, "czas": 3, "poprzednicy": [4, 5] },
+        { "numer": 8, "czas": 6, "poprzednicy": [5] },
+        { "numer": 9, "czas": 2, "poprzednicy": [6, 7] }
+      ]
+}

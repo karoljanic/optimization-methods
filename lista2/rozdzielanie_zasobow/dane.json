@@ -1,0 +1,15 @@
+{
+    "zasoby": [
+        { "typ": 1, "limit": 30 }
+    ],
+    "zadania": [
+        { "numer": 1, "czas": 50, "poprzednicy": [],        "zapotrzebowanie": [ { "zasob": 1, "ilosc": 9 }] },
+        { "numer": 2, "czas": 47, "poprzednicy": [1],       "zapotrzebowanie": [ { "zasob": 1, "ilosc": 17 }] },
+        { "numer": 3, "czas": 55, "poprzednicy": [1],       "zapotrzebowanie": [ { "zasob": 1, "ilosc": 11 }] },
+        { "numer": 4, "czas": 46, "poprzednicy": [1],       "zapotrzebowanie": [ { "zasob": 1, "ilosc": 4 }] },
+        { "numer": 5, "czas": 32, "poprzednicy": [2],       "zapotrzebowanie": [ { "zasob": 1, "ilosc": 13 }] },
+        { "numer": 6, "czas": 57, "poprzednicy": [3, 4],    "zapotrzebowanie": [ { "zasob": 1, "ilosc": 7 }] },
+        { "numer": 7, "czas": 15, "poprzednicy": [4],       "zapotrzebowanie": [ { "zasob": 1, "ilosc": 7 }] },
+        { "numer": 8, "czas": 62, "poprzednicy": [5, 6, 7], "zapotrzebowanie": [ { "zasob": 1, "ilosc": 17 }] }
+    ]
+}

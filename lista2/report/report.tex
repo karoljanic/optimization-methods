@@ -1,0 +1,78 @@
+\documentclass{article}
+\usepackage[top=3cm, bottom=3cm, left = 2cm, right = 2cm]{geometry} 
+\geometry{a4paper} 
+\usepackage[T1]{polski}
+\usepackage[utf8]{inputenc}
+\usepackage{titling}
+\usepackage{caption}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage[parfill]{parskip}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{pgfplots}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{amsmath}
+
+\renewcommand\maketitlehooka{\null\mbox{}\vfill}
+\renewcommand\maketitlehookd{\vfill\null}
+
+\floatname{algorithm}{Algorytm}
+\algrenewcommand\algorithmicrequire{\textbf{Input:}}
+\algrenewcommand\algorithmicensure{\textbf{Output:}}
+
+\title{Metody Optymalizacji}
+\author{Karol Janic}
+\date{1 maja 2025}
+
+\begin{document}
+
+\begin{titlingpage}
+    \maketitle
+\end{titlingpage}
+
+\tableofcontents
+
+\newpage
+
+\section{Zadanie 1}
+\subsection{Cel}
+Celem zadania jest zaplanowanie produkcji desek w tartatu w taki sposób aby zminimalzować liczbę odpadów.
+Deski mają stałą szerokośc i należy poprzecinać je w taki sposób aby zaspokoić zapotrzebowanie klientów na deski, które mogą być krótsze.
+
+\subsection{Model}
+Model parametryzowany jest szerokością desek $L \in \mathcal{R}_+$ (w calach), z której produkowane są wyroby oraz zapotrzebowaniem wyrażonym ciągiem par $(l_i, n_i)$, gdzie $1 \leq i \leq N$, $l_i$ jest szerokością deski a $n_i$ ich liczbą.
+
+\subsubsection{Zmienne decyzyjne}
+Całkowitoliczbowe zmienne decyzyjne $x_m$, gdzie $1 \leq m \leq M$ o wartościach nieujemnych określają dla każdego numeru cięcia $m$ liczbę desek pociętych w ten sposób.
+
+\subsubsection{Funkcja celu}
+Funkcją celu jest minimalizacja sumy odpadów po cięciach: $\displaystyle \sum_{m=1}^{M} x_m \cdot C_m^r$
+
+\subsubsection{Ograniczenia}
+Jedyna grupa ograniczeń wymusza spełnienie zapotrzebowania na każdą szerokośc deski:
+\begin{equation*}
+    \sum_{m=1}^M C_m^{l_i} \leq n_i, \qquad \qquad \qquad 1 \leq i \leq N
+\end{equation*}
+
+\subsection{Dane}
+Zadana została długość deski $L = 22$ oraz zapotrzebowanie \ref{fig:zad1}.
+\begin{figure}[h]
+    \centering
+    \begin{tabular}{l|ccc}
+        $i$ & 1 & 2 & 3 \\
+        \hline
+        $l_i$ & 3 & 5 & 7 \\
+        \hline
+        $n_i$ & 80 & 120 & 110 \\
+    \end{tabular}
+    \caption{Zapotrzebowanie na deski}
+    \label{fig:zad1}
+\end{figure}
+
+\subsection{Wyniki}
+Zapisano model programowania liniowego i wyznaczono optymalne rozwiązanie dla danych. 
+Wyniki przedstawiono w tabeli \ref{tab:zad1}. Taka produkcja nie generuje odpadów.
+
+\end{document}
