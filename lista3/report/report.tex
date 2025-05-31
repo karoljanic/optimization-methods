@@ -1,0 +1,84 @@
+\documentclass{article}
+\usepackage[top=3cm, bottom=3cm, left = 2cm, right = 2cm]{geometry} 
+\geometry{a4paper} 
+\usepackage[T1]{polski}
+\usepackage[utf8]{inputenc}
+\usepackage{titling}
+\usepackage{caption}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage[parfill]{parskip}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{pgfplots}
+\usepackage{stmaryrd}
+\usepackage{textcomp}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+
+\renewcommand\maketitlehooka{\null\mbox{}\vfill}
+\renewcommand\maketitlehookd{\vfill\null}
+
+\floatname{algorithm}{Algorytm}
+\algrenewcommand\algorithmicrequire{\textbf{Input:}}
+\algrenewcommand\algorithmicensure{\textbf{Output:}}
+
+\title{Metody Optymalizacji}
+\author{Karol Janic}
+\date{1 czerwca 2025}
+
+\begin{document}
+
+\begin{titlingpage}
+    \maketitle
+\end{titlingpage}
+
+\tableofcontents
+
+\newpage
+
+\section{Zadanie}
+\subsection{Cel}
+Celem zadanie jest implementacja i eksperymentalne zbadanie algorytmu 2-aproksymacyjnego dla problemu szeregowania zadań na niezależnych maszynach,
+którego celem jest minimalizacja maksymalnego czasu zakończenia zadań (makespan).
+
+\subsection{Model}
+Zadane jest $n$ zadań i $m$ maszyn. Każde zadanie $i$ ma czas wykonania $p_i^j$ na maszynie $j$. 
+Problem możemy sformułować jako model programowania całkowitoliczbowego z funkcją celu:
+\begin{equation}
+    \min T
+\end{equation}
+oraz ograniczeniami:
+\begin{equation}
+    \sum_{j=1}^{m} x_i^j = 1 \quad \quad \qquad \forall i \in \{1, \ldots, n\}
+\end{equation}
+\begin{equation}
+    \sum_{i=1}^{n} p_i^j x_i^j \leq T \quad \quad \quad \forall j \in \{1, \ldots, m\}
+\end{equation}
+
+gdzie $x_i^j$ to zmienna binarna, która jest równa 1, jeśli zadanie $i$ jest przypisane do maszyny $j$, a 0 w przeciwnym przypadku
+
+\subsection{Aproksymacja}
+Algorytm 2-aproksymacyjny dla tego problemu składa się z kilku kroków. Pierszy krok polega na określeniu zakresu makespanu w którym on się znajduje przy użyciu algorytmu zachłannego. 
+Następnie przy pomocy wyszukiwania binarnego i zrelaksowanego modelu programowania całkowitoliczbowego znajdujemy graniczną wartość makespanu $T^*$ oraz odpowiadające mu rozwiązanie.
+Ostatnim krokiem jest doprowadzenie rozwiązania do postaci całkowitoliczbowej poprzez iteracyjne przypisywanie zadań do maszyn, ponieważ zrelaksowany model może rozdzielać pojedyncze zadania pomiędzy kilka maszyn.
+Zrelaksowany model uruchamiany jest na ograniczonym przestrzeni rozwiązań - rozważane są tylko te maszyny i zadania, które mają czasy wykonania mniejsze niż $T$. Interesuje nas wyłącznie odpowiedź, czy istnieje rozwiązanie, które spełnia ograniczenia dla danego $T$.
+
+\subsection{Dane}
+Eksperymenty przeprowadzono na zbiorach danych ze strony \texttt{http://soa.iti.es/problem-instances}. Składały się one z 7 grup problemów, z których każda zawierała 200 instancji problemu.
+Wartości czasów wykonania zadań były losowane z rozkładu jednostajnego na przedziale na różnych przedziałach - od kilkudziesięciu do kilku tysięcy jednostek czasu.
+
+\subsection{Wyniki i wnioski}
+Otrzymane wyniki porównano z najlepszymi znanymi rozwiązaniami dla tych instancji. 
+Na wykresie \ref{fig:results} przedstawiono ratio otrzymanych rozwiązań do najlepszych znanych rozwiązań dla każdej instancji problemu.
+Łatwo zauważyć, że dla każdej instancji otrzymane rozwiązanie jest co najwyżej dwukrotnie gorsze od najlepszego znanego rozwiązania, co wskazuje na poprawność algorytmu i jego 2-aproksymacyjność.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{../approximation_ratio_plot.png}
+    \caption{Wyniki eksperymentów - ratio otrzymanych rozwiązań do najlepszych znanych rozwiązań}
+    \label{fig:results}
+\end{figure}
+
+
+\end{document}

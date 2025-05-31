@@ -1,0 +1,2800 @@
+Processing test case: RCmax/instancias1a100/1011.txt
+987.0 vs 977.0 -> 1.0102354145342887
+Processing test case: RCmax/instancias1a100/1012.txt
+910.0 vs 905.0 -> 1.0055248618784531
+Processing test case: RCmax/instancias1a100/1013.txt
+1001.0 vs 978.0 -> 1.0235173824130879
+Processing test case: RCmax/instancias1a100/1014.txt
+991.0 vs 960.0 -> 1.0322916666666666
+Processing test case: RCmax/instancias1a100/1015.txt
+968.0 vs 964.0 -> 1.004149377593361
+Processing test case: RCmax/instancias1a100/1016.txt
+987.0 vs 974.0 -> 1.013347022587269
+Processing test case: RCmax/instancias1a100/1017.txt
+985.0 vs 942.0 -> 1.045647558386412
+Processing test case: RCmax/instancias1a100/1018.txt
+1032.0 vs 990.0 -> 1.0424242424242425
+Processing test case: RCmax/instancias1a100/1019.txt
+976.0 vs 937.0 -> 1.0416221985058698
+Processing test case: RCmax/instancias1a100/1020.txt
+1013.0 vs 986.0 -> 1.0273833671399595
+Processing test case: RCmax/instancias1a100/1021.txt
+268.0 vs 258.0 -> 1.0387596899224807
+Processing test case: RCmax/instancias1a100/1022.txt
+286.0 vs 267.0 -> 1.0711610486891385
+Processing test case: RCmax/instancias1a100/1023.txt
+269.0 vs 253.0 -> 1.0632411067193677
+Processing test case: RCmax/instancias1a100/1024.txt
+289.0 vs 266.0 -> 1.086466165413534
+Processing test case: RCmax/instancias1a100/1025.txt
+289.0 vs 276.0 -> 1.0471014492753623
+Processing test case: RCmax/instancias1a100/1026.txt
+279.0 vs 267.0 -> 1.0449438202247192
+Processing test case: RCmax/instancias1a100/1027.txt
+293.0 vs 279.0 -> 1.050179211469534
+Processing test case: RCmax/instancias1a100/1028.txt
+291.0 vs 272.0 -> 1.0698529411764706
+Processing test case: RCmax/instancias1a100/1029.txt
+283.0 vs 267.0 -> 1.0599250936329587
+Processing test case: RCmax/instancias1a100/1030.txt
+276.0 vs 260.0 -> 1.0615384615384615
+Processing test case: RCmax/instancias1a100/1031.txt
+138.0 vs 129.0 -> 1.069767441860465
+Processing test case: RCmax/instancias1a100/1032.txt
+149.0 vs 137.0 -> 1.0875912408759123
+Processing test case: RCmax/instancias1a100/1033.txt
+147.0 vs 123.0 -> 1.1951219512195121
+Processing test case: RCmax/instancias1a100/1034.txt
+136.0 vs 126.0 -> 1.0793650793650793
+Processing test case: RCmax/instancias1a100/1035.txt
+146.0 vs 128.0 -> 1.140625
+Processing test case: RCmax/instancias1a100/1036.txt
+140.0 vs 125.0 -> 1.12
+Processing test case: RCmax/instancias1a100/1037.txt
+145.0 vs 128.0 -> 1.1328125
+Processing test case: RCmax/instancias1a100/1038.txt
+142.0 vs 126.0 -> 1.126984126984127
+Processing test case: RCmax/instancias1a100/1039.txt
+143.0 vs 128.0 -> 1.1171875
+Processing test case: RCmax/instancias1a100/1040.txt
+135.0 vs 127.0 -> 1.062992125984252
+Processing test case: RCmax/instancias1a100/1041.txt
+94.0 vs 74.0 -> 1.2702702702702702
+Processing test case: RCmax/instancias1a100/1042.txt
+87.0 vs 74.0 -> 1.1756756756756757
+Processing test case: RCmax/instancias1a100/1043.txt
+90.0 vs 77.0 -> 1.1688311688311688
+Processing test case: RCmax/instancias1a100/1044.txt
+83.0 vs 75.0 -> 1.1066666666666667
+Processing test case: RCmax/instancias1a100/1045.txt
+88.0 vs 77.0 -> 1.1428571428571428
+Processing test case: RCmax/instancias1a100/1046.txt
+85.0 vs 75.0 -> 1.1333333333333333
+Processing test case: RCmax/instancias1a100/1047.txt
+95.0 vs 77.0 -> 1.2337662337662338
+Processing test case: RCmax/instancias1a100/1048.txt
+92.0 vs 75.0 -> 1.2266666666666666
+Processing test case: RCmax/instancias1a100/1049.txt
+94.0 vs 76.0 -> 1.236842105263158
+Processing test case: RCmax/instancias1a100/1050.txt
+88.0 vs 74.0 -> 1.1891891891891893
+Processing test case: RCmax/instancias1a100/1051.txt
+58.0 vs 51.0 -> 1.1372549019607843
+Processing test case: RCmax/instancias1a100/1052.txt
+65.0 vs 49.0 -> 1.3265306122448979
+Processing test case: RCmax/instancias1a100/1053.txt
+62.0 vs 51.0 -> 1.2156862745098038
+Processing test case: RCmax/instancias1a100/1054.txt
+60.0 vs 51.0 -> 1.1764705882352942
+Processing test case: RCmax/instancias1a100/1055.txt
+57.0 vs 51.0 -> 1.1176470588235294
+Processing test case: RCmax/instancias1a100/1056.txt
+62.0 vs 51.0 -> 1.2156862745098038
+Processing test case: RCmax/instancias1a100/1057.txt
+75.0 vs 50.0 -> 1.5
+Processing test case: RCmax/instancias1a100/1058.txt
+62.0 vs 53.0 -> 1.169811320754717
+Processing test case: RCmax/instancias1a100/1059.txt
+74.0 vs 54.0 -> 1.3703703703703705
+Processing test case: RCmax/instancias1a100/1060.txt
+60.0 vs 52.0 -> 1.1538461538461537
+Processing test case: RCmax/instancias1a100/111.txt
+152.0 vs 117.0 -> 1.2991452991452992
+Processing test case: RCmax/instancias1a100/112.txt
+99.0 vs 87.0 -> 1.1379310344827587
+Processing test case: RCmax/instancias1a100/113.txt
+121.0 vs 98.0 -> 1.2346938775510203
+Processing test case: RCmax/instancias1a100/114.txt
+126.0 vs 115.0 -> 1.0956521739130434
+Processing test case: RCmax/instancias1a100/115.txt
+141.0 vs 104.0 -> 1.3557692307692308
+Processing test case: RCmax/instancias1a100/116.txt
+117.0 vs 101.0 -> 1.1584158415841583
+Processing test case: RCmax/instancias1a100/117.txt
+137.0 vs 114.0 -> 1.2017543859649122
+Processing test case: RCmax/instancias1a100/118.txt
+131.0 vs 103.0 -> 1.2718446601941749
+Processing test case: RCmax/instancias1a100/119.txt
+129.0 vs 114.0 -> 1.131578947368421
+Processing test case: RCmax/instancias1a100/120.txt
+131.0 vs 98.0 -> 1.336734693877551
+Processing test case: RCmax/instancias1a100/121.txt
+46.0 vs 30.0 -> 1.5333333333333334
+Processing test case: RCmax/instancias1a100/122.txt
+58.0 vs 36.0 -> 1.6111111111111112
+Processing test case: RCmax/instancias1a100/123.txt
+42.0 vs 32.0 -> 1.3125
+Processing test case: RCmax/instancias1a100/124.txt
+49.0 vs 33.0 -> 1.4848484848484849
+Processing test case: RCmax/instancias1a100/125.txt
+55.0 vs 31.0 -> 1.7741935483870968
+Processing test case: RCmax/instancias1a100/126.txt
+51.0 vs 29.0 -> 1.7586206896551724
+Processing test case: RCmax/instancias1a100/127.txt
+52.0 vs 35.0 -> 1.4857142857142858
+Processing test case: RCmax/instancias1a100/128.txt
+45.0 vs 30.0 -> 1.5
+Processing test case: RCmax/instancias1a100/129.txt
+44.0 vs 30.0 -> 1.4666666666666666
+Processing test case: RCmax/instancias1a100/130.txt
+45.0 vs 29.0 -> 1.5517241379310345
+Processing test case: RCmax/instancias1a100/131.txt
+29.0 vs 19.0 -> 1.5263157894736843
+Processing test case: RCmax/instancias1a100/132.txt
+37.0 vs 23.0 -> 1.608695652173913
+Processing test case: RCmax/instancias1a100/133.txt
+25.0 vs 16.0 -> 1.5625
+Processing test case: RCmax/instancias1a100/134.txt
+33.0 vs 18.0 -> 1.8333333333333333
+Processing test case: RCmax/instancias1a100/135.txt
+23.0 vs 16.0 -> 1.4375
+Processing test case: RCmax/instancias1a100/136.txt
+46.0 vs 24.0 -> 1.9166666666666667
+Processing test case: RCmax/instancias1a100/137.txt
+26.0 vs 17.0 -> 1.5294117647058822
+Processing test case: RCmax/instancias1a100/138.txt
+32.0 vs 19.0 -> 1.6842105263157894
+Processing test case: RCmax/instancias1a100/139.txt
+30.0 vs 16.0 -> 1.875
+Processing test case: RCmax/instancias1a100/140.txt
+30.0 vs 17.0 -> 1.7647058823529411
+Processing test case: RCmax/instancias1a100/141.txt
+18.0 vs 10.0 -> 1.8
+Processing test case: RCmax/instancias1a100/142.txt
+18.0 vs 12.0 -> 1.5
+Processing test case: RCmax/instancias1a100/143.txt
+19.0 vs 12.0 -> 1.5833333333333333
+Processing test case: RCmax/instancias1a100/144.txt
+16.0 vs 10.0 -> 1.6
+Processing test case: RCmax/instancias1a100/145.txt
+20.0 vs 11.0 -> 1.8181818181818181
+Processing test case: RCmax/instancias1a100/146.txt
+18.0 vs 12.0 -> 1.5
+Processing test case: RCmax/instancias1a100/147.txt
+23.0 vs 14.0 -> 1.6428571428571428
+Processing test case: RCmax/instancias1a100/148.txt
+22.0 vs 13.0 -> 1.6923076923076923
+Processing test case: RCmax/instancias1a100/149.txt
+30.0 vs 23.0 -> 1.3043478260869565
+Processing test case: RCmax/instancias1a100/150.txt
+22.0 vs 14.0 -> 1.5714285714285714
+Processing test case: RCmax/instancias1a100/151.txt
+14.0 vs 8.0 -> 1.75
+Processing test case: RCmax/instancias1a100/152.txt
+22.0 vs 13.0 -> 1.6923076923076923
+Processing test case: RCmax/instancias1a100/153.txt
+18.0 vs 10.0 -> 1.8
+Processing test case: RCmax/instancias1a100/154.txt
+17.0 vs 11.0 -> 1.5454545454545454
+Processing test case: RCmax/instancias1a100/155.txt
+14.0 vs 9.0 -> 1.5555555555555556
+Processing test case: RCmax/instancias1a100/156.txt
+18.0 vs 10.0 -> 1.8
+Processing test case: RCmax/instancias1a100/157.txt
+14.0 vs 8.0 -> 1.75
+Processing test case: RCmax/instancias1a100/158.txt
+16.0 vs 11.0 -> 1.4545454545454546
+Processing test case: RCmax/instancias1a100/159.txt
+12.0 vs 9.0 -> 1.3333333333333333
+Processing test case: RCmax/instancias1a100/160.txt
+14.0 vs 9.0 -> 1.5555555555555556
+Processing test case: RCmax/instancias1a100/211.txt
+221.0 vs 204.0 -> 1.0833333333333333
+Processing test case: RCmax/instancias1a100/212.txt
+227.0 vs 204.0 -> 1.1127450980392157
+Processing test case: RCmax/instancias1a100/213.txt
+209.0 vs 197.0 -> 1.0609137055837563
+Processing test case: RCmax/instancias1a100/214.txt
+210.0 vs 195.0 -> 1.0769230769230769
+Processing test case: RCmax/instancias1a100/215.txt
+257.0 vs 218.0 -> 1.1788990825688073
+Processing test case: RCmax/instancias1a100/216.txt
+195.0 vs 183.0 -> 1.0655737704918034
+Processing test case: RCmax/instancias1a100/217.txt
+210.0 vs 189.0 -> 1.1111111111111112
+Processing test case: RCmax/instancias1a100/218.txt
+220.0 vs 198.0 -> 1.1111111111111112
+Processing test case: RCmax/instancias1a100/219.txt
+210.0 vs 197.0 -> 1.0659898477157361
+Processing test case: RCmax/instancias1a100/220.txt
+235.0 vs 206.0 -> 1.1407766990291262
+Processing test case: RCmax/instancias1a100/221.txt
+93.0 vs 55.0 -> 1.690909090909091
+Processing test case: RCmax/instancias1a100/222.txt
+83.0 vs 58.0 -> 1.4310344827586208
+Processing test case: RCmax/instancias1a100/223.txt
+68.0 vs 53.0 -> 1.2830188679245282
+Processing test case: RCmax/instancias1a100/224.txt
+83.0 vs 60.0 -> 1.3833333333333333
+Processing test case: RCmax/instancias1a100/225.txt
+77.0 vs 55.0 -> 1.4
+Processing test case: RCmax/instancias1a100/226.txt
+82.0 vs 59.0 -> 1.3898305084745763
+Processing test case: RCmax/instancias1a100/227.txt
+73.0 vs 58.0 -> 1.2586206896551724
+Processing test case: RCmax/instancias1a100/228.txt
+101.0 vs 56.0 -> 1.8035714285714286
+Processing test case: RCmax/instancias1a100/229.txt
+92.0 vs 58.0 -> 1.5862068965517242
+Processing test case: RCmax/instancias1a100/230.txt
+71.0 vs 54.0 -> 1.3148148148148149
+Processing test case: RCmax/instancias1a100/231.txt
+45.0 vs 27.0 -> 1.6666666666666667
+Processing test case: RCmax/instancias1a100/232.txt
+41.0 vs 27.0 -> 1.5185185185185186
+Processing test case: RCmax/instancias1a100/233.txt
+45.0 vs 28.0 -> 1.6071428571428572
+Processing test case: RCmax/instancias1a100/234.txt
+41.0 vs 27.0 -> 1.5185185185185186
+Processing test case: RCmax/instancias1a100/235.txt
+36.0 vs 24.0 -> 1.5
+Processing test case: RCmax/instancias1a100/236.txt
+46.0 vs 31.0 -> 1.4838709677419355
+Processing test case: RCmax/instancias1a100/237.txt
+38.0 vs 27.0 -> 1.4074074074074074
+Processing test case: RCmax/instancias1a100/238.txt
+38.0 vs 28.0 -> 1.3571428571428572
+Processing test case: RCmax/instancias1a100/239.txt
+47.0 vs 29.0 -> 1.6206896551724137
+Processing test case: RCmax/instancias1a100/240.txt
+44.0 vs 30.0 -> 1.4666666666666666
+Processing test case: RCmax/instancias1a100/241.txt
+30.0 vs 17.0 -> 1.7647058823529411
+Processing test case: RCmax/instancias1a100/242.txt
+31.0 vs 17.0 -> 1.8235294117647058
+Processing test case: RCmax/instancias1a100/243.txt
+25.0 vs 16.0 -> 1.5625
+Processing test case: RCmax/instancias1a100/244.txt
+29.0 vs 17.0 -> 1.7058823529411764
+Processing test case: RCmax/instancias1a100/245.txt
+34.0 vs 19.0 -> 1.7894736842105263
+Processing test case: RCmax/instancias1a100/246.txt
+28.0 vs 18.0 -> 1.5555555555555556
+Processing test case: RCmax/instancias1a100/247.txt
+25.0 vs 18.0 -> 1.3888888888888888
+Processing test case: RCmax/instancias1a100/248.txt
+32.0 vs 17.0 -> 1.8823529411764706
+Processing test case: RCmax/instancias1a100/249.txt
+23.0 vs 14.0 -> 1.6428571428571428
+Processing test case: RCmax/instancias1a100/250.txt
+28.0 vs 18.0 -> 1.5555555555555556
+Processing test case: RCmax/instancias1a100/251.txt
+23.0 vs 13.0 -> 1.7692307692307692
+Processing test case: RCmax/instancias1a100/252.txt
+29.0 vs 16.0 -> 1.8125
+Processing test case: RCmax/instancias1a100/253.txt
+22.0 vs 12.0 -> 1.8333333333333333
+Processing test case: RCmax/instancias1a100/254.txt
+22.0 vs 12.0 -> 1.8333333333333333
+Processing test case: RCmax/instancias1a100/255.txt
+24.0 vs 13.0 -> 1.8461538461538463
+Processing test case: RCmax/instancias1a100/256.txt
+16.0 vs 12.0 -> 1.3333333333333333
+Processing test case: RCmax/instancias1a100/257.txt
+25.0 vs 13.0 -> 1.9230769230769231
+Processing test case: RCmax/instancias1a100/258.txt
+20.0 vs 12.0 -> 1.6666666666666667
+Processing test case: RCmax/instancias1a100/259.txt
+22.0 vs 13.0 -> 1.6923076923076923
+Processing test case: RCmax/instancias1a100/260.txt
+22.0 vs 12.0 -> 1.8333333333333333
+Processing test case: RCmax/instancias1a100/511.txt
+513.0 vs 501.0 -> 1.0239520958083832
+Processing test case: RCmax/instancias1a100/512.txt
+491.0 vs 484.0 -> 1.0144628099173554
+Processing test case: RCmax/instancias1a100/513.txt
+513.0 vs 500.0 -> 1.026
+Processing test case: RCmax/instancias1a100/514.txt
+520.0 vs 469.0 -> 1.1087420042643923
+Processing test case: RCmax/instancias1a100/515.txt
+532.0 vs 503.0 -> 1.0576540755467196
+Processing test case: RCmax/instancias1a100/516.txt
+510.0 vs 497.0 -> 1.0261569416498995
+Processing test case: RCmax/instancias1a100/517.txt
+481.0 vs 455.0 -> 1.0571428571428572
+Processing test case: RCmax/instancias1a100/518.txt
+524.0 vs 467.0 -> 1.1220556745182013
+Processing test case: RCmax/instancias1a100/519.txt
+506.0 vs 490.0 -> 1.0326530612244897
+Processing test case: RCmax/instancias1a100/520.txt
+502.0 vs 483.0 -> 1.0393374741200827
+Processing test case: RCmax/instancias1a100/521.txt
+153.0 vs 135.0 -> 1.1333333333333333
+Processing test case: RCmax/instancias1a100/522.txt
+149.0 vs 130.0 -> 1.146153846153846
+Processing test case: RCmax/instancias1a100/523.txt
+148.0 vs 137.0 -> 1.0802919708029197
+Processing test case: RCmax/instancias1a100/524.txt
+154.0 vs 138.0 -> 1.1159420289855073
+Processing test case: RCmax/instancias1a100/525.txt
+165.0 vs 147.0 -> 1.1224489795918366
+Processing test case: RCmax/instancias1a100/526.txt
+146.0 vs 134.0 -> 1.0895522388059702
+Processing test case: RCmax/instancias1a100/527.txt
+159.0 vs 132.0 -> 1.2045454545454546
+Processing test case: RCmax/instancias1a100/528.txt
+165.0 vs 136.0 -> 1.213235294117647
+Processing test case: RCmax/instancias1a100/529.txt
+156.0 vs 137.0 -> 1.1386861313868613
+Processing test case: RCmax/instancias1a100/530.txt
+136.0 vs 124.0 -> 1.096774193548387
+Processing test case: RCmax/instancias1a100/531.txt
+81.0 vs 62.0 -> 1.3064516129032258
+Processing test case: RCmax/instancias1a100/532.txt
+77.0 vs 68.0 -> 1.1323529411764706
+Processing test case: RCmax/instancias1a100/533.txt
+82.0 vs 67.0 -> 1.2238805970149254
+Processing test case: RCmax/instancias1a100/534.txt
+78.0 vs 66.0 -> 1.1818181818181819
+Processing test case: RCmax/instancias1a100/535.txt
+87.0 vs 67.0 -> 1.2985074626865671
+Processing test case: RCmax/instancias1a100/536.txt
+78.0 vs 64.0 -> 1.21875
+Processing test case: RCmax/instancias1a100/537.txt
+80.0 vs 61.0 -> 1.3114754098360655
+Processing test case: RCmax/instancias1a100/538.txt
+80.0 vs 66.0 -> 1.2121212121212122
+Processing test case: RCmax/instancias1a100/539.txt
+79.0 vs 63.0 -> 1.253968253968254
+Processing test case: RCmax/instancias1a100/540.txt
+90.0 vs 68.0 -> 1.3235294117647058
+Processing test case: RCmax/instancias1a100/541.txt
+54.0 vs 39.0 -> 1.3846153846153846
+Processing test case: RCmax/instancias1a100/542.txt
+55.0 vs 39.0 -> 1.4102564102564104
+Processing test case: RCmax/instancias1a100/543.txt
+54.0 vs 39.0 -> 1.3846153846153846
+Processing test case: RCmax/instancias1a100/544.txt
+59.0 vs 39.0 -> 1.5128205128205128
+Processing test case: RCmax/instancias1a100/545.txt
+57.0 vs 39.0 -> 1.4615384615384615
+Processing test case: RCmax/instancias1a100/546.txt
+45.0 vs 38.0 -> 1.1842105263157894
+Processing test case: RCmax/instancias1a100/547.txt
+57.0 vs 39.0 -> 1.4615384615384615
+Processing test case: RCmax/instancias1a100/548.txt
+60.0 vs 40.0 -> 1.5
+Processing test case: RCmax/instancias1a100/549.txt
+48.0 vs 39.0 -> 1.2307692307692308
+Processing test case: RCmax/instancias1a100/550.txt
+59.0 vs 37.0 -> 1.5945945945945945
+Processing test case: RCmax/instancias1a100/551.txt
+37.0 vs 26.0 -> 1.4230769230769231
+Processing test case: RCmax/instancias1a100/552.txt
+32.0 vs 27.0 -> 1.1851851851851851
+Processing test case: RCmax/instancias1a100/553.txt
+32.0 vs 26.0 -> 1.2307692307692308
+Processing test case: RCmax/instancias1a100/554.txt
+38.0 vs 27.0 -> 1.4074074074074074
+Processing test case: RCmax/instancias1a100/555.txt
+35.0 vs 26.0 -> 1.3461538461538463
+Processing test case: RCmax/instancias1a100/556.txt
+36.0 vs 27.0 -> 1.3333333333333333
+Processing test case: RCmax/instancias1a100/557.txt
+44.0 vs 28.0 -> 1.5714285714285714
+Processing test case: RCmax/instancias1a100/558.txt
+40.0 vs 26.0 -> 1.5384615384615385
+Processing test case: RCmax/instancias1a100/559.txt
+34.0 vs 27.0 -> 1.2592592592592593
+Processing test case: RCmax/instancias1a100/560.txt
+36.0 vs 27.0 -> 1.3333333333333333
+Processing test case: RCmax/instanciasde10a100/1011.txt
+1777.0 vs 1762.0 -> 1.0085130533484676
+Processing test case: RCmax/instanciasde10a100/1012.txt
+1764.0 vs 1754.0 -> 1.0057012542759407
+Processing test case: RCmax/instanciasde10a100/1013.txt
+1830.0 vs 1782.0 -> 1.026936026936027
+Processing test case: RCmax/instanciasde10a100/1014.txt
+1779.0 vs 1761.0 -> 1.010221465076661
+Processing test case: RCmax/instanciasde10a100/1015.txt
+1850.0 vs 1814.0 -> 1.0198456449834619
+Processing test case: RCmax/instanciasde10a100/1016.txt
+1800.0 vs 1765.0 -> 1.019830028328612
+Processing test case: RCmax/instanciasde10a100/1017.txt
+1832.0 vs 1804.0 -> 1.0155210643015522
+Processing test case: RCmax/instanciasde10a100/1018.txt
+1783.0 vs 1776.0 -> 1.0039414414414414
+Processing test case: RCmax/instanciasde10a100/1019.txt
+1758.0 vs 1742.0 -> 1.0091848450057406
+Processing test case: RCmax/instanciasde10a100/1020.txt
+1779.0 vs 1745.0 -> 1.0194842406876792
+Processing test case: RCmax/instanciasde10a100/1021.txt
+723.0 vs 704.0 -> 1.0269886363636365
+Processing test case: RCmax/instanciasde10a100/1022.txt
+714.0 vs 697.0 -> 1.024390243902439
+Processing test case: RCmax/instanciasde10a100/1023.txt
+714.0 vs 696.0 -> 1.0258620689655173
+Processing test case: RCmax/instanciasde10a100/1024.txt
+707.0 vs 695.0 -> 1.0172661870503596
+Processing test case: RCmax/instanciasde10a100/1025.txt
+709.0 vs 690.0 -> 1.027536231884058
+Processing test case: RCmax/instanciasde10a100/1026.txt
+702.0 vs 690.0 -> 1.017391304347826
+Processing test case: RCmax/instanciasde10a100/1027.txt
+715.0 vs 695.0 -> 1.0287769784172662
+Processing test case: RCmax/instanciasde10a100/1028.txt
+706.0 vs 692.0 -> 1.0202312138728324
+Processing test case: RCmax/instanciasde10a100/1029.txt
+709.0 vs 694.0 -> 1.021613832853026
+Processing test case: RCmax/instanciasde10a100/1030.txt
+719.0 vs 704.0 -> 1.0213068181818181
+Processing test case: RCmax/instanciasde10a100/1031.txt
+436.0 vs 424.0 -> 1.028301886792453
+Processing test case: RCmax/instanciasde10a100/1032.txt
+431.0 vs 418.0 -> 1.0311004784688995
+Processing test case: RCmax/instanciasde10a100/1033.txt
+429.0 vs 419.0 -> 1.0238663484486874
+Processing test case: RCmax/instanciasde10a100/1034.txt
+435.0 vs 421.0 -> 1.0332541567695963
+Processing test case: RCmax/instanciasde10a100/1035.txt
+430.0 vs 416.0 -> 1.0336538461538463
+Processing test case: RCmax/instanciasde10a100/1036.txt
+443.0 vs 424.0 -> 1.044811320754717
+Processing test case: RCmax/instanciasde10a100/1037.txt
+441.0 vs 422.0 -> 1.0450236966824644
+Processing test case: RCmax/instanciasde10a100/1038.txt
+436.0 vs 420.0 -> 1.0380952380952382
+Processing test case: RCmax/instanciasde10a100/1039.txt
+429.0 vs 418.0 -> 1.0263157894736843
+Processing test case: RCmax/instanciasde10a100/1040.txt
+432.0 vs 420.0 -> 1.0285714285714285
+Processing test case: RCmax/instanciasde10a100/1041.txt
+309.0 vs 296.0 -> 1.0439189189189189
+Processing test case: RCmax/instanciasde10a100/1042.txt
+304.0 vs 295.0 -> 1.0305084745762711
+Processing test case: RCmax/instanciasde10a100/1043.txt
+306.0 vs 295.0 -> 1.0372881355932204
+Processing test case: RCmax/instanciasde10a100/1044.txt
+308.0 vs 297.0 -> 1.037037037037037
+Processing test case: RCmax/instanciasde10a100/1045.txt
+316.0 vs 300.0 -> 1.0533333333333332
+Processing test case: RCmax/instanciasde10a100/1046.txt
+312.0 vs 300.0 -> 1.04
+Processing test case: RCmax/instanciasde10a100/1047.txt
+311.0 vs 296.0 -> 1.0506756756756757
+Processing test case: RCmax/instanciasde10a100/1048.txt
+308.0 vs 294.0 -> 1.0476190476190477
+Processing test case: RCmax/instanciasde10a100/1049.txt
+309.0 vs 295.0 -> 1.047457627118644
+Processing test case: RCmax/instanciasde10a100/1050.txt
+315.0 vs 300.0 -> 1.05
+Processing test case: RCmax/instanciasde10a100/1051.txt
+236.0 vs 227.0 -> 1.039647577092511
+Processing test case: RCmax/instanciasde10a100/1052.txt
+243.0 vs 228.0 -> 1.0657894736842106
+Processing test case: RCmax/instanciasde10a100/1053.txt
+243.0 vs 229.0 -> 1.0611353711790392
+Processing test case: RCmax/instanciasde10a100/1054.txt
+245.0 vs 230.0 -> 1.065217391304348
+Processing test case: RCmax/instanciasde10a100/1055.txt
+242.0 vs 230.0 -> 1.0521739130434782
+Processing test case: RCmax/instanciasde10a100/1056.txt
+249.0 vs 229.0 -> 1.0873362445414847
+Processing test case: RCmax/instanciasde10a100/1057.txt
+241.0 vs 230.0 -> 1.0478260869565217
+Processing test case: RCmax/instanciasde10a100/1058.txt
+243.0 vs 230.0 -> 1.0565217391304347
+Processing test case: RCmax/instanciasde10a100/1059.txt
+249.0 vs 230.0 -> 1.0826086956521739
+Processing test case: RCmax/instanciasde10a100/1060.txt
+238.0 vs 227.0 -> 1.0484581497797356
+Processing test case: RCmax/instanciasde10a100/111.txt
+234.0 vs 198.0 -> 1.1818181818181819
+Processing test case: RCmax/instanciasde10a100/112.txt
+186.0 vs 173.0 -> 1.0751445086705202
+Processing test case: RCmax/instanciasde10a100/113.txt
+201.0 vs 183.0 -> 1.098360655737705
+Processing test case: RCmax/instanciasde10a100/114.txt
+214.0 vs 173.0 -> 1.2369942196531791
+Processing test case: RCmax/instanciasde10a100/115.txt
+203.0 vs 180.0 -> 1.1277777777777778
+Processing test case: RCmax/instanciasde10a100/116.txt
+213.0 vs 175.0 -> 1.217142857142857
+Processing test case: RCmax/instanciasde10a100/117.txt
+197.0 vs 175.0 -> 1.1257142857142857
+Processing test case: RCmax/instanciasde10a100/118.txt
+196.0 vs 179.0 -> 1.094972067039106
+Processing test case: RCmax/instanciasde10a100/119.txt
+191.0 vs 171.0 -> 1.1169590643274854
+Processing test case: RCmax/instanciasde10a100/120.txt
+234.0 vs 176.0 -> 1.3295454545454546
+Processing test case: RCmax/instanciasde10a100/121.txt
+84.0 vs 71.0 -> 1.1830985915492958
+Processing test case: RCmax/instanciasde10a100/122.txt
+99.0 vs 74.0 -> 1.337837837837838
+Processing test case: RCmax/instanciasde10a100/123.txt
+89.0 vs 74.0 -> 1.2027027027027026
+Processing test case: RCmax/instanciasde10a100/124.txt
+109.0 vs 74.0 -> 1.472972972972973
+Processing test case: RCmax/instanciasde10a100/125.txt
+88.0 vs 71.0 -> 1.2394366197183098
+Processing test case: RCmax/instanciasde10a100/126.txt
+119.0 vs 79.0 -> 1.5063291139240507
+Processing test case: RCmax/instanciasde10a100/127.txt
+95.0 vs 73.0 -> 1.3013698630136987
+Processing test case: RCmax/instanciasde10a100/128.txt
+101.0 vs 75.0 -> 1.3466666666666667
+Processing test case: RCmax/instanciasde10a100/129.txt
+80.0 vs 74.0 -> 1.0810810810810811
+Processing test case: RCmax/instanciasde10a100/130.txt
+129.0 vs 79.0 -> 1.6329113924050633
+Processing test case: RCmax/instanciasde10a100/131.txt
+62.0 vs 47.0 -> 1.3191489361702127
+Processing test case: RCmax/instanciasde10a100/132.txt
+56.0 vs 47.0 -> 1.1914893617021276
+Processing test case: RCmax/instanciasde10a100/133.txt
+71.0 vs 47.0 -> 1.5106382978723405
+Processing test case: RCmax/instanciasde10a100/134.txt
+68.0 vs 48.0 -> 1.4166666666666667
+Processing test case: RCmax/instanciasde10a100/135.txt
+61.0 vs 45.0 -> 1.3555555555555556
+Processing test case: RCmax/instanciasde10a100/136.txt
+64.0 vs 49.0 -> 1.3061224489795917
+Processing test case: RCmax/instanciasde10a100/137.txt
+62.0 vs 47.0 -> 1.3191489361702127
+Processing test case: RCmax/instanciasde10a100/138.txt
+59.0 vs 45.0 -> 1.3111111111111111
+Processing test case: RCmax/instanciasde10a100/139.txt
+58.0 vs 46.0 -> 1.2608695652173914
+Processing test case: RCmax/instanciasde10a100/140.txt
+67.0 vs 48.0 -> 1.3958333333333333
+Processing test case: RCmax/instanciasde10a100/141.txt
+47.0 vs 34.0 -> 1.3823529411764706
+Processing test case: RCmax/instanciasde10a100/142.txt
+48.0 vs 35.0 -> 1.3714285714285714
+Processing test case: RCmax/instanciasde10a100/143.txt
+46.0 vs 34.0 -> 1.3529411764705883
+Processing test case: RCmax/instanciasde10a100/144.txt
+46.0 vs 34.0 -> 1.3529411764705883
+Processing test case: RCmax/instanciasde10a100/145.txt
+42.0 vs 34.0 -> 1.2352941176470589
+Processing test case: RCmax/instanciasde10a100/146.txt
+49.0 vs 36.0 -> 1.3611111111111112
+Processing test case: RCmax/instanciasde10a100/147.txt
+43.0 vs 34.0 -> 1.2647058823529411
+Processing test case: RCmax/instanciasde10a100/148.txt
+49.0 vs 34.0 -> 1.4411764705882353
+Processing test case: RCmax/instanciasde10a100/149.txt
+43.0 vs 34.0 -> 1.2647058823529411
+Processing test case: RCmax/instanciasde10a100/150.txt
+51.0 vs 34.0 -> 1.5
+Processing test case: RCmax/instanciasde10a100/151.txt
+42.0 vs 28.0 -> 1.5
+Processing test case: RCmax/instanciasde10a100/152.txt
+39.0 vs 27.0 -> 1.4444444444444444
+Processing test case: RCmax/instanciasde10a100/153.txt
+37.0 vs 28.0 -> 1.3214285714285714
+Processing test case: RCmax/instanciasde10a100/154.txt
+42.0 vs 30.0 -> 1.4
+Processing test case: RCmax/instanciasde10a100/155.txt
+45.0 vs 30.0 -> 1.5
+Processing test case: RCmax/instanciasde10a100/156.txt
+46.0 vs 30.0 -> 1.5333333333333334
+Processing test case: RCmax/instanciasde10a100/157.txt
+43.0 vs 29.0 -> 1.4827586206896552
+Processing test case: RCmax/instanciasde10a100/158.txt
+47.0 vs 30.0 -> 1.5666666666666667
+Processing test case: RCmax/instanciasde10a100/159.txt
+43.0 vs 30.0 -> 1.4333333333333333
+Processing test case: RCmax/instanciasde10a100/160.txt
+43.0 vs 28.0 -> 1.5357142857142858
+Processing test case: RCmax/instanciasde10a100/211.txt
+369.0 vs 358.0 -> 1.0307262569832403
+Processing test case: RCmax/instanciasde10a100/212.txt
+417.0 vs 368.0 -> 1.1331521739130435
+Processing test case: RCmax/instanciasde10a100/213.txt
+376.0 vs 361.0 -> 1.0415512465373962
+Processing test case: RCmax/instanciasde10a100/214.txt
+401.0 vs 372.0 -> 1.0779569892473118
+Processing test case: RCmax/instanciasde10a100/215.txt
+392.0 vs 359.0 -> 1.0919220055710306
+Processing test case: RCmax/instanciasde10a100/216.txt
+401.0 vs 376.0 -> 1.0664893617021276
+Processing test case: RCmax/instanciasde10a100/217.txt
+369.0 vs 355.0 -> 1.0394366197183098
+Processing test case: RCmax/instanciasde10a100/218.txt
+377.0 vs 359.0 -> 1.0501392757660166
+Processing test case: RCmax/instanciasde10a100/219.txt
+400.0 vs 361.0 -> 1.10803324099723
+Processing test case: RCmax/instanciasde10a100/220.txt
+382.0 vs 349.0 -> 1.0945558739255015
+Processing test case: RCmax/instanciasde10a100/221.txt
+158.0 vs 145.0 -> 1.089655172413793
+Processing test case: RCmax/instanciasde10a100/222.txt
+159.0 vs 144.0 -> 1.1041666666666667
+Processing test case: RCmax/instanciasde10a100/223.txt
+172.0 vs 144.0 -> 1.1944444444444444
+Processing test case: RCmax/instanciasde10a100/224.txt
+160.0 vs 147.0 -> 1.08843537414966
+Processing test case: RCmax/instanciasde10a100/225.txt
+165.0 vs 149.0 -> 1.1073825503355705
+Processing test case: RCmax/instanciasde10a100/226.txt
+156.0 vs 144.0 -> 1.0833333333333333
+Processing test case: RCmax/instanciasde10a100/227.txt
+173.0 vs 144.0 -> 1.2013888888888888
+Processing test case: RCmax/instanciasde10a100/228.txt
+171.0 vs 141.0 -> 1.2127659574468086
+Processing test case: RCmax/instanciasde10a100/229.txt
+160.0 vs 146.0 -> 1.095890410958904
+Processing test case: RCmax/instanciasde10a100/230.txt
+186.0 vs 147.0 -> 1.2653061224489797
+Processing test case: RCmax/instanciasde10a100/231.txt
+99.0 vs 87.0 -> 1.1379310344827587
+Processing test case: RCmax/instanciasde10a100/232.txt
+100.0 vs 87.0 -> 1.1494252873563218
+Processing test case: RCmax/instanciasde10a100/233.txt
+96.0 vs 87.0 -> 1.103448275862069
+Processing test case: RCmax/instanciasde10a100/234.txt
+107.0 vs 89.0 -> 1.202247191011236
+Processing test case: RCmax/instanciasde10a100/235.txt
+105.0 vs 90.0 -> 1.1666666666666667
+Processing test case: RCmax/instanciasde10a100/236.txt
+101.0 vs 87.0 -> 1.160919540229885
+Processing test case: RCmax/instanciasde10a100/237.txt
+103.0 vs 87.0 -> 1.1839080459770115
+Processing test case: RCmax/instanciasde10a100/238.txt
+109.0 vs 88.0 -> 1.2386363636363635
+Processing test case: RCmax/instanciasde10a100/239.txt
+102.0 vs 88.0 -> 1.1590909090909092
+Processing test case: RCmax/instanciasde10a100/240.txt
+98.0 vs 88.0 -> 1.1136363636363635
+Processing test case: RCmax/instanciasde10a100/241.txt
+78.0 vs 65.0 -> 1.2
+Processing test case: RCmax/instanciasde10a100/242.txt
+73.0 vs 63.0 -> 1.1587301587301588
+Processing test case: RCmax/instanciasde10a100/243.txt
+78.0 vs 63.0 -> 1.2380952380952381
+Processing test case: RCmax/instanciasde10a100/244.txt
+79.0 vs 64.0 -> 1.234375
+Processing test case: RCmax/instanciasde10a100/245.txt
+75.0 vs 63.0 -> 1.1904761904761905
+Processing test case: RCmax/instanciasde10a100/246.txt
+80.0 vs 65.0 -> 1.2307692307692308
+Processing test case: RCmax/instanciasde10a100/247.txt
+79.0 vs 64.0 -> 1.234375
+Processing test case: RCmax/instanciasde10a100/248.txt
+74.0 vs 64.0 -> 1.15625
+Processing test case: RCmax/instanciasde10a100/249.txt
+75.0 vs 66.0 -> 1.1363636363636365
+Processing test case: RCmax/instanciasde10a100/250.txt
+76.0 vs 61.0 -> 1.2459016393442623
+Processing test case: RCmax/instanciasde10a100/251.txt
+62.0 vs 51.0 -> 1.2156862745098038
+Processing test case: RCmax/instanciasde10a100/252.txt
+60.0 vs 50.0 -> 1.2
+Processing test case: RCmax/instanciasde10a100/253.txt
+61.0 vs 50.0 -> 1.22
+Processing test case: RCmax/instanciasde10a100/254.txt
+61.0 vs 51.0 -> 1.196078431372549
+Processing test case: RCmax/instanciasde10a100/255.txt
+57.0 vs 50.0 -> 1.14
+Processing test case: RCmax/instanciasde10a100/256.txt
+68.0 vs 51.0 -> 1.3333333333333333
+Processing test case: RCmax/instanciasde10a100/257.txt
+61.0 vs 51.0 -> 1.196078431372549
+Processing test case: RCmax/instanciasde10a100/258.txt
+60.0 vs 49.0 -> 1.2244897959183674
+Processing test case: RCmax/instanciasde10a100/259.txt
+58.0 vs 51.0 -> 1.1372549019607843
+Processing test case: RCmax/instanciasde10a100/260.txt
+58.0 vs 50.0 -> 1.16
+Processing test case: RCmax/instanciasde10a100/511.txt
+873.0 vs 862.0 -> 1.0127610208816706
+Processing test case: RCmax/instanciasde10a100/512.txt
+886.0 vs 876.0 -> 1.0114155251141552
+Processing test case: RCmax/instanciasde10a100/513.txt
+892.0 vs 879.0 -> 1.0147895335608645
+Processing test case: RCmax/instanciasde10a100/514.txt
+893.0 vs 884.0 -> 1.010180995475113
+Processing test case: RCmax/instanciasde10a100/515.txt
+891.0 vs 864.0 -> 1.03125
+Processing test case: RCmax/instanciasde10a100/516.txt
+902.0 vs 901.0 -> 1.0011098779134295
+Processing test case: RCmax/instanciasde10a100/517.txt
+951.0 vs 895.0 -> 1.0625698324022346
+Processing test case: RCmax/instanciasde10a100/518.txt
+938.0 vs 922.0 -> 1.017353579175705
+Processing test case: RCmax/instanciasde10a100/519.txt
+957.0 vs 916.0 -> 1.044759825327511
+Processing test case: RCmax/instanciasde10a100/520.txt
+908.0 vs 893.0 -> 1.0167973124300111
+Processing test case: RCmax/instanciasde10a100/521.txt
+375.0 vs 354.0 -> 1.0593220338983051
+Processing test case: RCmax/instanciasde10a100/522.txt
+358.0 vs 346.0 -> 1.0346820809248556
+Processing test case: RCmax/instanciasde10a100/523.txt
+378.0 vs 359.0 -> 1.052924791086351
+Processing test case: RCmax/instanciasde10a100/524.txt
+367.0 vs 351.0 -> 1.0455840455840455
+Processing test case: RCmax/instanciasde10a100/525.txt
+376.0 vs 348.0 -> 1.0804597701149425
+Processing test case: RCmax/instanciasde10a100/526.txt
+378.0 vs 354.0 -> 1.0677966101694916
+Processing test case: RCmax/instanciasde10a100/527.txt
+367.0 vs 350.0 -> 1.0485714285714285
+Processing test case: RCmax/instanciasde10a100/528.txt
+370.0 vs 350.0 -> 1.0571428571428572
+Processing test case: RCmax/instanciasde10a100/529.txt
+385.0 vs 356.0 -> 1.0814606741573034
+Processing test case: RCmax/instanciasde10a100/530.txt
+375.0 vs 355.0 -> 1.056338028169014
+Processing test case: RCmax/instanciasde10a100/531.txt
+225.0 vs 212.0 -> 1.0613207547169812
+Processing test case: RCmax/instanciasde10a100/532.txt
+222.0 vs 209.0 -> 1.062200956937799
+Processing test case: RCmax/instanciasde10a100/533.txt
+224.6801319609584 vs 213.0 -> 1.0548363002861896
+Processing test case: RCmax/instanciasde10a100/534.txt
+223.0 vs 208.0 -> 1.0721153846153846
+Processing test case: RCmax/instanciasde10a100/535.txt
+219.0 vs 209.0 -> 1.0478468899521531
+Processing test case: RCmax/instanciasde10a100/536.txt
+219.0 vs 212.0 -> 1.0330188679245282
+Processing test case: RCmax/instanciasde10a100/537.txt
+227.0 vs 213.0 -> 1.0657276995305165
+Processing test case: RCmax/instanciasde10a100/538.txt
+226.0 vs 214.0 -> 1.0560747663551402
+Processing test case: RCmax/instanciasde10a100/539.txt
+222.0 vs 211.0 -> 1.052132701421801
+Processing test case: RCmax/instanciasde10a100/540.txt
+228.0 vs 211.0 -> 1.080568720379147
+Processing test case: RCmax/instanciasde10a100/541.txt
+160.0 vs 149.0 -> 1.0738255033557047
+Processing test case: RCmax/instanciasde10a100/542.txt
+172.0 vs 150.0 -> 1.1466666666666667
+Processing test case: RCmax/instanciasde10a100/543.txt
+173.0 vs 150.0 -> 1.1533333333333333
+Processing test case: RCmax/instanciasde10a100/544.txt
+158.0 vs 149.0 -> 1.0604026845637584
+Processing test case: RCmax/instanciasde10a100/545.txt
+161.0 vs 151.0 -> 1.0662251655629138
+Processing test case: RCmax/instanciasde10a100/546.txt
+162.0 vs 150.0 -> 1.08
+Processing test case: RCmax/instanciasde10a100/547.txt
+162.0 vs 152.0 -> 1.0657894736842106
+Processing test case: RCmax/instanciasde10a100/548.txt
+162.0 vs 153.0 -> 1.0588235294117647
+Processing test case: RCmax/instanciasde10a100/549.txt
+161.0 vs 148.0 -> 1.087837837837838
+Processing test case: RCmax/instanciasde10a100/550.txt
+163.0 vs 151.0 -> 1.0794701986754967
+Processing test case: RCmax/instanciasde10a100/551.txt
+134.0 vs 116.0 -> 1.1551724137931034
+Processing test case: RCmax/instanciasde10a100/552.txt
+132.0 vs 118.0 -> 1.11864406779661
+Processing test case: RCmax/instanciasde10a100/553.txt
+132.0 vs 117.0 -> 1.1282051282051282
+Processing test case: RCmax/instanciasde10a100/554.txt
+125.0 vs 118.0 -> 1.0593220338983051
+Processing test case: RCmax/instanciasde10a100/555.txt
+128.0 vs 117.0 -> 1.0940170940170941
+Processing test case: RCmax/instanciasde10a100/556.txt
+131.0 vs 117.0 -> 1.1196581196581197
+Processing test case: RCmax/instanciasde10a100/557.txt
+129.0 vs 119.0 -> 1.084033613445378
+Processing test case: RCmax/instanciasde10a100/558.txt
+131.0 vs 117.0 -> 1.1196581196581197
+Processing test case: RCmax/instanciasde10a100/559.txt
+124.0 vs 116.0 -> 1.0689655172413792
+Processing test case: RCmax/instanciasde10a100/560.txt
+124.0 vs 116.0 -> 1.0689655172413792
+Processing test case: RCmax/instancias100a120/1011.txt
+10242.0 vs 10141.0 -> 1.009959570062124
+Processing test case: RCmax/instancias100a120/1012.txt
+10239.0 vs 10141.0 -> 1.0096637412483975
+Processing test case: RCmax/instancias100a120/1013.txt
+10248.0 vs 10151.0 -> 1.009555708797163
+Processing test case: RCmax/instancias100a120/1014.txt
+10246.0 vs 10151.0 -> 1.00935868387351
+Processing test case: RCmax/instancias100a120/1015.txt
+10153.0 vs 10150.0 -> 1.000295566502463
+Processing test case: RCmax/instancias100a120/1016.txt
+10236.0 vs 10146.0 -> 1.0088704908338262
+Processing test case: RCmax/instancias100a120/1017.txt
+10237.0 vs 10142.0 -> 1.0093669887596135
+Processing test case: RCmax/instancias100a120/1018.txt
+10237.0 vs 10150.0 -> 1.0085714285714287
+Processing test case: RCmax/instancias100a120/1019.txt
+10240.0 vs 10148.0 -> 1.0090658257784786
+Processing test case: RCmax/instancias100a120/1020.txt
+10258.0 vs 10152.0 -> 1.010441292356186
+Processing test case: RCmax/instancias100a120/1021.txt
+5133.0 vs 5030.0 -> 1.0204771371769383
+Processing test case: RCmax/instancias100a120/1022.txt
+5133.0 vs 5032.0 -> 1.0200715421303657
+Processing test case: RCmax/instancias100a120/1023.txt
+5128.0 vs 5028.0 -> 1.0198886237072395
+Processing test case: RCmax/instancias100a120/1024.txt
+5130.0 vs 5030.0 -> 1.0198807157057654
+Processing test case: RCmax/instancias100a120/1025.txt
+5133.0 vs 5032.0 -> 1.0200715421303657
+Processing test case: RCmax/instancias100a120/1026.txt
+5127.0 vs 5028.0 -> 1.019689737470167
+Processing test case: RCmax/instancias100a120/1027.txt
+5128.0 vs 5031.0 -> 1.0192804611409263
+Processing test case: RCmax/instancias100a120/1028.txt
+5131.0 vs 5031.0 -> 1.0198767640628106
+Processing test case: RCmax/instancias100a120/1029.txt
+5132.0 vs 5031.0 -> 1.0200755317034387
+Processing test case: RCmax/instancias100a120/1030.txt
+5130.0 vs 5029.0 -> 1.0200835156094652
+Processing test case: RCmax/instancias100a120/1031.txt
+3420.0 vs 3407.0 -> 1.0038156736131494
+Processing test case: RCmax/instancias100a120/1032.txt
+3420.0 vs 3407.0 -> 1.0038156736131494
+Processing test case: RCmax/instancias100a120/1033.txt
+3415.0 vs 3402.0 -> 1.0038212815990595
+Processing test case: RCmax/instancias100a120/1034.txt
+3421.0 vs 3408.0 -> 1.0038145539906103
+Processing test case: RCmax/instancias100a120/1035.txt
+3415.0 vs 3406.0 -> 1.0026423957721669
+Processing test case: RCmax/instancias100a120/1036.txt
+3417.0 vs 3407.0 -> 1.0029351335485766
+Processing test case: RCmax/instancias100a120/1037.txt
+3414.0 vs 3400.0 -> 1.0041176470588236
+Processing test case: RCmax/instancias100a120/1038.txt
+3415.0 vs 3404.0 -> 1.0032314923619272
+Processing test case: RCmax/instancias100a120/1039.txt
+3421.0 vs 3407.0 -> 1.004109186968007
+Processing test case: RCmax/instancias100a120/1040.txt
+3415.0 vs 3401.0 -> 1.0041164363422523
+Processing test case: RCmax/instancias100a120/1041.txt
+2605.0 vs 2506.0 -> 1.0395051875498802
+Processing test case: RCmax/instancias100a120/1042.txt
+2604.0 vs 2506.0 -> 1.0391061452513966
+Processing test case: RCmax/instancias100a120/1043.txt
+2604.0 vs 2505.0 -> 1.0395209580838323
+Processing test case: RCmax/instancias100a120/1044.txt
+2604.0 vs 2505.0 -> 1.0395209580838323
+Processing test case: RCmax/instancias100a120/1045.txt
+2604.0 vs 2505.0 -> 1.0395209580838323
+Processing test case: RCmax/instancias100a120/1046.txt
+2604.0 vs 2506.0 -> 1.0391061452513966
+Processing test case: RCmax/instancias100a120/1047.txt
+2604.0 vs 2505.0 -> 1.0395209580838323
+Processing test case: RCmax/instancias100a120/1048.txt
+2603.0 vs 2505.0 -> 1.0391217564870259
+Processing test case: RCmax/instancias100a120/1049.txt
+2604.0 vs 2505.0 -> 1.0395209580838323
+Processing test case: RCmax/instancias100a120/1050.txt
+2604.0 vs 2506.0 -> 1.0391061452513966
+Processing test case: RCmax/instancias100a120/1051.txt
+2103.0 vs 2005.0 -> 1.0488778054862844
+Processing test case: RCmax/instancias100a120/1052.txt
+2102.0 vs 2004.0 -> 1.0489021956087825
+Processing test case: RCmax/instancias100a120/1053.txt
+2102.0 vs 2004.0 -> 1.0489021956087825
+Processing test case: RCmax/instancias100a120/1054.txt
+2103.0 vs 2003.0 -> 1.0499251123315028
+Processing test case: RCmax/instancias100a120/1055.txt
+2102.0 vs 2004.0 -> 1.0489021956087825
+Processing test case: RCmax/instancias100a120/1056.txt
+2102.0 vs 2004.0 -> 1.0489021956087825
+Processing test case: RCmax/instancias100a120/1057.txt
+2103.0 vs 2003.0 -> 1.0499251123315028
+Processing test case: RCmax/instancias100a120/1058.txt
+2102.0 vs 2003.0 -> 1.0494258612081877
+Processing test case: RCmax/instancias100a120/1059.txt
+2103.0 vs 2005.0 -> 1.0488778054862844
+Processing test case: RCmax/instancias100a120/1060.txt
+2103.0 vs 2004.0 -> 1.0494011976047903
+Processing test case: RCmax/instancias100a120/111.txt
+1101.0 vs 1014.0 -> 1.0857988165680474
+Processing test case: RCmax/instancias100a120/112.txt
+1116.0 vs 1018.0 -> 1.0962671905697445
+Processing test case: RCmax/instancias100a120/113.txt
+1111.0 vs 1016.0 -> 1.093503937007874
+Processing test case: RCmax/instancias100a120/114.txt
+1115.0 vs 1018.0 -> 1.0952848722986248
+Processing test case: RCmax/instancias100a120/115.txt
+1124.0 vs 1019.0 -> 1.1030421982335623
+Processing test case: RCmax/instancias100a120/116.txt
+1114.0 vs 1015.0 -> 1.097536945812808
+Processing test case: RCmax/instancias100a120/117.txt
+1111.0 vs 1016.0 -> 1.093503937007874
+Processing test case: RCmax/instancias100a120/118.txt
+1109.0 vs 1017.0 -> 1.0904621435594888
+Processing test case: RCmax/instancias100a120/119.txt
+1111.0 vs 1018.0 -> 1.0913555992141455
+Processing test case: RCmax/instancias100a120/120.txt
+1112.0 vs 1015.0 -> 1.095566502463054
+Processing test case: RCmax/instancias100a120/121.txt
+608.0 vs 506.0 -> 1.2015810276679841
+Processing test case: RCmax/instancias100a120/122.txt
+606.0 vs 505.0 -> 1.2
+Processing test case: RCmax/instancias100a120/123.txt
+606.0 vs 505.0 -> 1.2
+Processing test case: RCmax/instancias100a120/124.txt
+603.0 vs 505.0 -> 1.194059405940594
+Processing test case: RCmax/instancias100a120/125.txt
+604.0 vs 506.0 -> 1.1936758893280632
+Processing test case: RCmax/instancias100a120/126.txt
+606.0 vs 508.0 -> 1.1929133858267718
+Processing test case: RCmax/instancias100a120/127.txt
+607.0 vs 505.0 -> 1.201980198019802
+Processing test case: RCmax/instancias100a120/128.txt
+604.0 vs 507.0 -> 1.1913214990138068
+Processing test case: RCmax/instancias100a120/129.txt
+604.0 vs 505.0 -> 1.196039603960396
+Processing test case: RCmax/instancias100a120/130.txt
+605.0 vs 508.0 -> 1.1909448818897639
+Processing test case: RCmax/instancias100a120/131.txt
+405.0 vs 400.0 -> 1.0125
+Processing test case: RCmax/instancias100a120/132.txt
+406.0 vs 400.0 -> 1.015
+Processing test case: RCmax/instancias100a120/133.txt
+406.0 vs 400.0 -> 1.015
+Processing test case: RCmax/instancias100a120/134.txt
+405.0 vs 400.0 -> 1.0125
+Processing test case: RCmax/instancias100a120/135.txt
+404.0 vs 400.0 -> 1.01
+Processing test case: RCmax/instancias100a120/136.txt
+406.0 vs 400.0 -> 1.015
+Processing test case: RCmax/instancias100a120/137.txt
+405.0 vs 400.0 -> 1.0125
+Processing test case: RCmax/instancias100a120/138.txt
+406.0 vs 400.0 -> 1.015
+Processing test case: RCmax/instancias100a120/139.txt
+405.0 vs 400.0 -> 1.0125
+Processing test case: RCmax/instancias100a120/140.txt
+405.0 vs 400.0 -> 1.0125
+Processing test case: RCmax/instancias100a120/141.txt
+303.0 vs 300.0 -> 1.01
+Processing test case: RCmax/instancias100a120/142.txt
+303.0 vs 300.0 -> 1.01
+Processing test case: RCmax/instancias100a120/143.txt
+304.0 vs 300.0 -> 1.0133333333333334
+Processing test case: RCmax/instancias100a120/144.txt
+305.0 vs 300.0 -> 1.0166666666666666
+Processing test case: RCmax/instancias100a120/145.txt
+305.0 vs 300.0 -> 1.0166666666666666
+Processing test case: RCmax/instancias100a120/146.txt
+303.0 vs 300.0 -> 1.01
+Processing test case: RCmax/instancias100a120/147.txt
+303.0 vs 300.0 -> 1.01
+Processing test case: RCmax/instancias100a120/148.txt
+304.0 vs 300.0 -> 1.0133333333333334
+Processing test case: RCmax/instancias100a120/149.txt
+304.0 vs 300.0 -> 1.0133333333333334
+Processing test case: RCmax/instancias100a120/150.txt
+305.0 vs 300.0 -> 1.0166666666666666
+Processing test case: RCmax/instancias100a120/151.txt
+302.0 vs 201.0 -> 1.5024875621890548
+Processing test case: RCmax/instancias100a120/152.txt
+301.0 vs 202.0 -> 1.49009900990099
+Processing test case: RCmax/instancias100a120/153.txt
+304.0 vs 201.0 -> 1.5124378109452736
+Processing test case: RCmax/instancias100a120/154.txt
+303.0 vs 202.0 -> 1.5
+Processing test case: RCmax/instancias100a120/155.txt
+302.0 vs 202.0 -> 1.495049504950495
+Processing test case: RCmax/instancias100a120/156.txt
+302.0 vs 202.0 -> 1.495049504950495
+Processing test case: RCmax/instancias100a120/157.txt
+303.0 vs 202.0 -> 1.5
+Processing test case: RCmax/instancias100a120/158.txt
+303.0 vs 202.0 -> 1.5
+Processing test case: RCmax/instancias100a120/159.txt
+303.0 vs 202.0 -> 1.5
+Processing test case: RCmax/instancias100a120/160.txt
+301.0 vs 201.0 -> 1.4975124378109452
+Processing test case: RCmax/instancias100a120/211.txt
+2130.0 vs 2031.0 -> 1.048744460856721
+Processing test case: RCmax/instancias100a120/212.txt
+2123.0 vs 2030.0 -> 1.0458128078817734
+Processing test case: RCmax/instancias100a120/213.txt
+2133.0 vs 2036.0 -> 1.0476424361493124
+Processing test case: RCmax/instancias100a120/214.txt
+2122.0 vs 2028.0 -> 1.0463510848126232
+Processing test case: RCmax/instancias100a120/215.txt
+2135.0 vs 2037.0 -> 1.0481099656357389
+Processing test case: RCmax/instancias100a120/216.txt
+2130.0 vs 2028.0 -> 1.0502958579881656
+Processing test case: RCmax/instancias100a120/217.txt
+2134.0 vs 2031.0 -> 1.050713934022649
+Processing test case: RCmax/instancias100a120/218.txt
+2124.0 vs 2030.0 -> 1.0463054187192118
+Processing test case: RCmax/instancias100a120/219.txt
+2130.0 vs 2034.0 -> 1.047197640117994
+Processing test case: RCmax/instancias100a120/220.txt
+2123.0 vs 2029.0 -> 1.0463282405125678
+Processing test case: RCmax/instancias100a120/221.txt
+1106.0 vs 1007.0 -> 1.0983118172790467
+Processing test case: RCmax/instancias100a120/222.txt
+1106.0 vs 1008.0 -> 1.0972222222222223
+Processing test case: RCmax/instancias100a120/223.txt
+1106.0 vs 1008.0 -> 1.0972222222222223
+Processing test case: RCmax/instancias100a120/224.txt
+1106.0 vs 1007.0 -> 1.0983118172790467
+Processing test case: RCmax/instancias100a120/225.txt
+1107.0 vs 1008.0 -> 1.0982142857142858
+Processing test case: RCmax/instancias100a120/226.txt
+1109.0 vs 1007.0 -> 1.1012909632571997
+Processing test case: RCmax/instancias100a120/227.txt
+1106.0 vs 1009.0 -> 1.0961347869177402
+Processing test case: RCmax/instancias100a120/228.txt
+1106.0 vs 1007.0 -> 1.0983118172790467
+Processing test case: RCmax/instancias100a120/229.txt
+1106.0 vs 1008.0 -> 1.0972222222222223
+Processing test case: RCmax/instancias100a120/230.txt
+1105.0 vs 1007.0 -> 1.0973187686196624
+Processing test case: RCmax/instancias100a120/231.txt
+704.0 vs 701.0 -> 1.0042796005706134
+Processing test case: RCmax/instancias100a120/232.txt
+706.0 vs 702.0 -> 1.0056980056980056
+Processing test case: RCmax/instancias100a120/233.txt
+705.0 vs 702.0 -> 1.0042735042735043
+Processing test case: RCmax/instancias100a120/234.txt
+705.0 vs 701.0 -> 1.005706134094151
+Processing test case: RCmax/instancias100a120/235.txt
+709.0 vs 702.0 -> 1.0099715099715099
+Processing test case: RCmax/instancias100a120/236.txt
+706.0 vs 702.0 -> 1.0056980056980056
+Processing test case: RCmax/instancias100a120/237.txt
+705.0 vs 702.0 -> 1.0042735042735043
+Processing test case: RCmax/instancias100a120/238.txt
+704.0 vs 702.0 -> 1.002849002849003
+Processing test case: RCmax/instancias100a120/239.txt
+705.0 vs 701.0 -> 1.005706134094151
+Processing test case: RCmax/instancias100a120/240.txt
+705.0 vs 703.0 -> 1.0028449502133712
+Processing test case: RCmax/instancias100a120/241.txt
+602.0 vs 503.0 -> 1.1968190854870775
+Processing test case: RCmax/instancias100a120/242.txt
+602.0 vs 504.0 -> 1.1944444444444444
+Processing test case: RCmax/instancias100a120/243.txt
+601.0 vs 503.0 -> 1.194831013916501
+Processing test case: RCmax/instancias100a120/244.txt
+602.0 vs 502.0 -> 1.199203187250996
+Processing test case: RCmax/instancias100a120/245.txt
+601.0 vs 502.0 -> 1.197211155378486
+Processing test case: RCmax/instancias100a120/246.txt
+601.0 vs 503.0 -> 1.194831013916501
+Processing test case: RCmax/instancias100a120/247.txt
+602.0 vs 503.0 -> 1.1968190854870775
+Processing test case: RCmax/instancias100a120/248.txt
+602.0 vs 502.0 -> 1.199203187250996
+Processing test case: RCmax/instancias100a120/249.txt
+601.0 vs 502.0 -> 1.197211155378486
+Processing test case: RCmax/instancias100a120/250.txt
+601.0 vs 503.0 -> 1.194831013916501
+Processing test case: RCmax/instancias100a120/251.txt
+502.0 vs 401.0 -> 1.2518703241895262
+Processing test case: RCmax/instancias100a120/252.txt
+519.0 vs 402.0 -> 1.291044776119403
+Processing test case: RCmax/instancias100a120/253.txt
+502.0 vs 403.0 -> 1.2456575682382134
+Processing test case: RCmax/instancias100a120/254.txt
+502.0 vs 402.0 -> 1.2487562189054726
+Processing test case: RCmax/instancias100a120/255.txt
+501.0 vs 402.0 -> 1.2462686567164178
+Processing test case: RCmax/instancias100a120/256.txt
+501.0 vs 402.0 -> 1.2462686567164178
+Processing test case: RCmax/instancias100a120/257.txt
+502.0 vs 402.0 -> 1.2487562189054726
+Processing test case: RCmax/instancias100a120/258.txt
+501.0 vs 402.0 -> 1.2462686567164178
+Processing test case: RCmax/instancias100a120/259.txt
+502.0 vs 403.0 -> 1.2456575682382134
+Processing test case: RCmax/instancias100a120/260.txt
+510.0 vs 402.0 -> 1.2686567164179106
+Processing test case: RCmax/instancias100a120/511.txt
+5173.0 vs 5076.0 -> 1.0191095350669819
+Processing test case: RCmax/instancias100a120/512.txt
+5171.0 vs 5074.0 -> 1.019117067402444
+Processing test case: RCmax/instancias100a120/513.txt
+5179.0 vs 5080.0 -> 1.019488188976378
+Processing test case: RCmax/instancias100a120/514.txt
+5166.0 vs 5080.0 -> 1.0169291338582678
+Processing test case: RCmax/instancias100a120/515.txt
+5177.0 vs 5081.0 -> 1.0188939185199763
+Processing test case: RCmax/instancias100a120/516.txt
+5082.0 vs 5074.0 -> 1.001576665352779
+Processing test case: RCmax/instancias100a120/517.txt
+5158.0 vs 5072.0 -> 1.0169558359621451
+Processing test case: RCmax/instancias100a120/518.txt
+5167.0 vs 5072.0 -> 1.0187302839116719
+Processing test case: RCmax/instancias100a120/519.txt
+5168.0 vs 5074.0 -> 1.0185258178951517
+Processing test case: RCmax/instancias100a120/520.txt
+5160.0 vs 5072.0 -> 1.0173501577287065
+Processing test case: RCmax/instancias100a120/521.txt
+2616.0 vs 2517.0 -> 1.0393325387365913
+Processing test case: RCmax/instancias100a120/522.txt
+2615.0 vs 2513.0 -> 1.0405889375248707
+Processing test case: RCmax/instancias100a120/523.txt
+2616.0 vs 2516.0 -> 1.039745627980922
+Processing test case: RCmax/instancias100a120/524.txt
+2617.0 vs 2515.0 -> 1.0405566600397613
+Processing test case: RCmax/instancias100a120/525.txt
+2617.0 vs 2516.0 -> 1.0401430842607313
+Processing test case: RCmax/instancias100a120/526.txt
+2615.0 vs 2516.0 -> 1.0393481717011128
+Processing test case: RCmax/instancias100a120/527.txt
+2618.0 vs 2516.0 -> 1.0405405405405406
+Processing test case: RCmax/instancias100a120/528.txt
+2611.0 vs 2514.0 -> 1.0385839299920445
+Processing test case: RCmax/instancias100a120/529.txt
+2617.0 vs 2516.0 -> 1.0401430842607313
+Processing test case: RCmax/instancias100a120/530.txt
+2618.0 vs 2517.0 -> 1.0401271354787445
+Processing test case: RCmax/instancias100a120/531.txt
+1712.0 vs 1702.0 -> 1.0058754406580495
+Processing test case: RCmax/instancias100a120/532.txt
+1708.0 vs 1702.0 -> 1.0035252643948296
+Processing test case: RCmax/instancias100a120/533.txt
+1712.0 vs 1702.0 -> 1.0058754406580495
+Processing test case: RCmax/instancias100a120/534.txt
+1712.0 vs 1702.0 -> 1.0058754406580495
+Processing test case: RCmax/instancias100a120/535.txt
+1708.0 vs 1702.0 -> 1.0035252643948296
+Processing test case: RCmax/instancias100a120/536.txt
+1710.0 vs 1702.0 -> 1.0047003525264395
+Processing test case: RCmax/instancias100a120/537.txt
+1708.0 vs 1703.0 -> 1.0029359953024075
+Processing test case: RCmax/instancias100a120/538.txt
+1710.0 vs 1704.0 -> 1.0035211267605635
+Processing test case: RCmax/instancias100a120/539.txt
+1711.0 vs 1702.0 -> 1.0052878965922445
+Processing test case: RCmax/instancias100a120/540.txt
+1707.0 vs 1705.0 -> 1.0011730205278593
+Processing test case: RCmax/instancias100a120/541.txt
+1306.0 vs 1302.0 -> 1.0030721966205838
+Processing test case: RCmax/instancias100a120/542.txt
+1304.0 vs 1302.0 -> 1.001536098310292
+Processing test case: RCmax/instancias100a120/543.txt
+1305.0 vs 1300.0 -> 1.0038461538461538
+Processing test case: RCmax/instancias100a120/544.txt
+1306.0 vs 1300.0 -> 1.0046153846153847
+Processing test case: RCmax/instancias100a120/545.txt
+1305.0 vs 1300.0 -> 1.0038461538461538
+Processing test case: RCmax/instancias100a120/546.txt
+1304.0 vs 1300.0 -> 1.003076923076923
+Processing test case: RCmax/instancias100a120/547.txt
+1308.0 vs 1303.0 -> 1.0038372985418265
+Processing test case: RCmax/instancias100a120/548.txt
+1306.0 vs 1301.0 -> 1.0038431975403537
+Processing test case: RCmax/instancias100a120/549.txt
+1307.0 vs 1302.0 -> 1.0038402457757296
+Processing test case: RCmax/instancias100a120/550.txt
+1305.0 vs 1303.0 -> 1.0015349194167307
+Processing test case: RCmax/instancias100a120/551.txt
+1102.0 vs 1003.0 -> 1.098703888334995
+Processing test case: RCmax/instancias100a120/552.txt
+1102.0 vs 1003.0 -> 1.098703888334995
+Processing test case: RCmax/instancias100a120/553.txt
+1101.0 vs 1003.0 -> 1.0977068793619142
+Processing test case: RCmax/instancias100a120/554.txt
+1102.0 vs 1002.0 -> 1.0998003992015968
+Processing test case: RCmax/instancias100a120/555.txt
+1103.0 vs 1003.0 -> 1.0997008973080757
+Processing test case: RCmax/instancias100a120/556.txt
+1101.0 vs 1002.0 -> 1.098802395209581
+Processing test case: RCmax/instancias100a120/557.txt
+1101.0 vs 1002.0 -> 1.098802395209581
+Processing test case: RCmax/instancias100a120/558.txt
+1103.0 vs 1003.0 -> 1.0997008973080757
+Processing test case: RCmax/instancias100a120/559.txt
+1101.0 vs 1003.0 -> 1.0977068793619142
+Processing test case: RCmax/instancias100a120/560.txt
+1101.0 vs 1002.0 -> 1.098802395209581
+Processing test case: RCmax/instancias100a200/1011.txt
+10991.0 vs 10880.0 -> 1.010202205882353
+Processing test case: RCmax/instancias100a200/1012.txt
+10856.0 vs 10805.0 -> 1.004720037019898
+Processing test case: RCmax/instancias100a200/1013.txt
+10957.0 vs 10880.0 -> 1.007077205882353
+Processing test case: RCmax/instancias100a200/1014.txt
+10948.0 vs 10861.0 -> 1.0080103121259552
+Processing test case: RCmax/instancias100a200/1015.txt
+10933.0 vs 10867.0 -> 1.0060734333302659
+Processing test case: RCmax/instancias100a200/1016.txt
+10895.0 vs 10873.0 -> 1.0020233606180446
+Processing test case: RCmax/instancias100a200/1017.txt
+10921.0 vs 10845.0 -> 1.0070078377132319
+Processing test case: RCmax/instancias100a200/1018.txt
+10990.0 vs 10894.0 -> 1.0088121901964384
+Processing test case: RCmax/instancias100a200/1019.txt
+10944.0 vs 10841.0 -> 1.009500968545337
+Processing test case: RCmax/instancias100a200/1020.txt
+10984.0 vs 10888.0 -> 1.008817046289493
+Processing test case: RCmax/instancias100a200/1021.txt
+5297.0 vs 5215.0 -> 1.0157238734419942
+Processing test case: RCmax/instancias100a200/1022.txt
+5305.0 vs 5222.0 -> 1.0158942933741861
+Processing test case: RCmax/instancias100a200/1023.txt
+5291.0 vs 5210.0 -> 1.0155470249520153
+Processing test case: RCmax/instancias100a200/1024.txt
+5319.0 vs 5221.0 -> 1.0187703505075656
+Processing test case: RCmax/instancias100a200/1025.txt
+5317.0 vs 5229.0 -> 1.0168292216484986
+Processing test case: RCmax/instancias100a200/1026.txt
+5325.0 vs 5222.0 -> 1.0197242435848335
+Processing test case: RCmax/instancias100a200/1027.txt
+5316.0 vs 5236.0 -> 1.0152788388082505
+Processing test case: RCmax/instancias100a200/1028.txt
+5327.0 vs 5229.0 -> 1.0187416331994645
+Processing test case: RCmax/instancias100a200/1029.txt
+5320.0 vs 5223.0 -> 1.0185717020869232
+Processing test case: RCmax/instancias100a200/1030.txt
+5321.0 vs 5214.0 -> 1.0205216724204067
+Processing test case: RCmax/instancias100a200/1031.txt
+3520.0 vs 3460.0 -> 1.0173410404624277
+Processing test case: RCmax/instancias100a200/1032.txt
+3534.0 vs 3467.0 -> 1.019325064897606
+Processing test case: RCmax/instancias100a200/1033.txt
+3515.0 vs 3462.0 -> 1.0153090699017908
+Processing test case: RCmax/instancias100a200/1034.txt
+3514.0 vs 3457.0 -> 1.016488284639861
+Processing test case: RCmax/instancias100a200/1035.txt
+3507.0 vs 3462.0 -> 1.0129982668977469
+Processing test case: RCmax/instancias100a200/1036.txt
+3506.0 vs 3462.0 -> 1.0127094165222414
+Processing test case: RCmax/instancias100a200/1037.txt
+3529.0 vs 3459.0 -> 1.0202370627348945
+Processing test case: RCmax/instancias100a200/1038.txt
+3529.0 vs 3454.0 -> 1.0217139548349738
+Processing test case: RCmax/instancias100a200/1039.txt
+3534.0 vs 3460.0 -> 1.0213872832369941
+Processing test case: RCmax/instancias100a200/1040.txt
+3526.0 vs 3456.0 -> 1.0202546296296295
+Processing test case: RCmax/instancias100a200/1041.txt
+2658.0 vs 2552.0 -> 1.04153605015674
+Processing test case: RCmax/instancias100a200/1042.txt
+2649.0 vs 2551.0 -> 1.0384163073304586
+Processing test case: RCmax/instancias100a200/1043.txt
+2651.0 vs 2555.0 -> 1.037573385518591
+Processing test case: RCmax/instancias100a200/1044.txt
+2653.0 vs 2553.0 -> 1.0391696043869958
+Processing test case: RCmax/instancias100a200/1045.txt
+2654.0 vs 2555.0 -> 1.0387475538160469
+Processing test case: RCmax/instancias100a200/1046.txt
+2656.0 vs 2552.0 -> 1.0407523510971788
+Processing test case: RCmax/instancias100a200/1047.txt
+2651.0 vs 2555.0 -> 1.037573385518591
+Processing test case: RCmax/instancias100a200/1048.txt
+2652.0 vs 2553.0 -> 1.0387779083431257
+Processing test case: RCmax/instancias100a200/1049.txt
+2652.0 vs 2554.0 -> 1.038371182458888
+Processing test case: RCmax/instancias100a200/1050.txt
+2651.0 vs 2552.0 -> 1.0387931034482758
+Processing test case: RCmax/instancias100a200/1051.txt
+2132.0 vs 2036.0 -> 1.0471512770137525
+Processing test case: RCmax/instancias100a200/1052.txt
+2132.0 vs 2033.0 -> 1.0486965076242007
+Processing test case: RCmax/instancias100a200/1053.txt
+2132.0 vs 2033.0 -> 1.0486965076242007
+Processing test case: RCmax/instancias100a200/1054.txt
+2133.0 vs 2034.0 -> 1.0486725663716814
+Processing test case: RCmax/instancias100a200/1055.txt
+2130.0 vs 2034.0 -> 1.047197640117994
+Processing test case: RCmax/instancias100a200/1056.txt
+2134.0 vs 2034.0 -> 1.0491642084562438
+Processing test case: RCmax/instancias100a200/1057.txt
+2131.0 vs 2035.0 -> 1.047174447174447
+Processing test case: RCmax/instancias100a200/1058.txt
+2139.0 vs 2054.0 -> 1.0413826679649465
+Processing test case: RCmax/instancias100a200/1059.txt
+2136.0 vs 2037.0 -> 1.04860088365243
+Processing test case: RCmax/instancias100a200/1060.txt
+2130.0 vs 2035.0 -> 1.0466830466830468
+Processing test case: RCmax/instancias100a200/111.txt
+1206.0 vs 1111.0 -> 1.0855085508550855
+Processing test case: RCmax/instancias100a200/112.txt
+1174.0 vs 1083.0 -> 1.0840258541089567
+Processing test case: RCmax/instancias100a200/113.txt
+1179.0 vs 1094.0 -> 1.0776965265082268
+Processing test case: RCmax/instancias100a200/114.txt
+1184.0 vs 1111.0 -> 1.0657065706570656
+Processing test case: RCmax/instancias100a200/115.txt
+1192.0 vs 1100.0 -> 1.0836363636363637
+Processing test case: RCmax/instancias100a200/116.txt
+1181.0 vs 1095.0 -> 1.078538812785388
+Processing test case: RCmax/instancias100a200/117.txt
+1217.0 vs 1109.0 -> 1.097385031559964
+Processing test case: RCmax/instancias100a200/118.txt
+1120.0 vs 1106.0 -> 1.0126582278481013
+Processing test case: RCmax/instancias100a200/119.txt
+1115.0 vs 1108.0 -> 1.006317689530686
+Processing test case: RCmax/instancias100a200/120.txt
+1206.0 vs 1095.0 -> 1.1013698630136985
+Processing test case: RCmax/instancias100a200/121.txt
+629.0 vs 529.0 -> 1.1890359168241966
+Processing test case: RCmax/instancias100a200/122.txt
+634.0 vs 540.0 -> 1.174074074074074
+Processing test case: RCmax/instancias100a200/123.txt
+643.0 vs 529.0 -> 1.2155009451795842
+Processing test case: RCmax/instancias100a200/124.txt
+626.0 vs 532.0 -> 1.1766917293233083
+Processing test case: RCmax/instancias100a200/125.txt
+634.0 vs 541.0 -> 1.1719038817005545
+Processing test case: RCmax/instancias100a200/126.txt
+618.0 vs 537.0 -> 1.1508379888268156
+Processing test case: RCmax/instancias100a200/127.txt
+630.0 vs 533.0 -> 1.1819887429643527
+Processing test case: RCmax/instancias100a200/128.txt
+629.0 vs 529.0 -> 1.1890359168241966
+Processing test case: RCmax/instancias100a200/129.txt
+624.0 vs 536.0 -> 1.164179104477612
+Processing test case: RCmax/instancias100a200/130.txt
+638.0 vs 530.0 -> 1.2037735849056603
+Processing test case: RCmax/instancias100a200/131.txt
+425.0 vs 406.0 -> 1.0467980295566504
+Processing test case: RCmax/instancias100a200/132.txt
+434.0 vs 408.0 -> 1.0637254901960784
+Processing test case: RCmax/instancias100a200/133.txt
+424.0 vs 406.0 -> 1.0443349753694582
+Processing test case: RCmax/instancias100a200/134.txt
+417.0 vs 408.0 -> 1.0220588235294117
+Processing test case: RCmax/instancias100a200/135.txt
+430.0 vs 407.0 -> 1.0565110565110565
+Processing test case: RCmax/instancias100a200/136.txt
+438.0 vs 406.0 -> 1.0788177339901477
+Processing test case: RCmax/instancias100a200/137.txt
+421.0 vs 407.0 -> 1.0343980343980343
+Processing test case: RCmax/instancias100a200/138.txt
+448.0 vs 404.0 -> 1.108910891089109
+Processing test case: RCmax/instancias100a200/139.txt
+426.0 vs 405.0 -> 1.0518518518518518
+Processing test case: RCmax/instancias100a200/140.txt
+429.0 vs 404.0 -> 1.061881188118812
+Processing test case: RCmax/instancias100a200/141.txt
+319.0 vs 304.0 -> 1.049342105263158
+Processing test case: RCmax/instancias100a200/142.txt
+318.0 vs 305.0 -> 1.042622950819672
+Processing test case: RCmax/instancias100a200/143.txt
+319.0 vs 305.0 -> 1.0459016393442624
+Processing test case: RCmax/instancias100a200/144.txt
+310.0 vs 304.0 -> 1.019736842105263
+Processing test case: RCmax/instancias100a200/145.txt
+316.0 vs 304.0 -> 1.0394736842105263
+Processing test case: RCmax/instancias100a200/146.txt
+317.0 vs 305.0 -> 1.039344262295082
+Processing test case: RCmax/instancias100a200/147.txt
+315.0 vs 305.0 -> 1.0327868852459017
+Processing test case: RCmax/instancias100a200/148.txt
+329.0 vs 306.0 -> 1.0751633986928104
+Processing test case: RCmax/instancias100a200/149.txt
+329.0 vs 305.0 -> 1.0786885245901638
+Processing test case: RCmax/instancias100a200/150.txt
+321.0 vs 303.0 -> 1.0594059405940595
+Processing test case: RCmax/instancias100a200/151.txt
+313.0 vs 208.0 -> 1.5048076923076923
+Processing test case: RCmax/instancias100a200/152.txt
+316.0 vs 212.0 -> 1.490566037735849
+Processing test case: RCmax/instancias100a200/153.txt
+313.0 vs 212.0 -> 1.4764150943396226
+Processing test case: RCmax/instancias100a200/154.txt
+311.0 vs 210.0 -> 1.480952380952381
+Processing test case: RCmax/instancias100a200/155.txt
+310.0 vs 210.0 -> 1.4761904761904763
+Processing test case: RCmax/instancias100a200/156.txt
+310.0 vs 210.0 -> 1.4761904761904763
+Processing test case: RCmax/instancias100a200/157.txt
+310.0 vs 209.0 -> 1.4832535885167464
+Processing test case: RCmax/instancias100a200/158.txt
+311.0 vs 211.0 -> 1.4739336492890995
+Processing test case: RCmax/instancias100a200/159.txt
+313.0 vs 211.0 -> 1.4834123222748816
+Processing test case: RCmax/instancias100a200/160.txt
+309.0 vs 209.0 -> 1.4784688995215312
+Processing test case: RCmax/instancias100a200/211.txt
+2289.0 vs 2195.0 -> 1.0428246013667426
+Processing test case: RCmax/instancias100a200/212.txt
+2284.0 vs 2189.0 -> 1.0433988122430333
+Processing test case: RCmax/instancias100a200/213.txt
+2278.0 vs 2183.0 -> 1.043518094365552
+Processing test case: RCmax/instancias100a200/214.txt
+2191.0 vs 2177.0 -> 1.0064308681672025
+Processing test case: RCmax/instancias100a200/215.txt
+2251.0 vs 2200.0 -> 1.0231818181818182
+Processing test case: RCmax/instancias100a200/216.txt
+2268.0 vs 2169.0 -> 1.045643153526971
+Processing test case: RCmax/instancias100a200/217.txt
+2230.0 vs 2174.0 -> 1.0257589696412144
+Processing test case: RCmax/instancias100a200/218.txt
+2272.0 vs 2181.0 -> 1.041723979825768
+Processing test case: RCmax/instancias100a200/219.txt
+2265.0 vs 2180.0 -> 1.0389908256880733
+Processing test case: RCmax/instancias100a200/220.txt
+2287.0 vs 2193.0 -> 1.0428636570907432
+Processing test case: RCmax/instancias100a200/221.txt
+1146.0 vs 1050.0 -> 1.0914285714285714
+Processing test case: RCmax/instancias100a200/222.txt
+1146.0 vs 1053.0 -> 1.0883190883190883
+Processing test case: RCmax/instancias100a200/223.txt
+1137.0 vs 1046.0 -> 1.0869980879541108
+Processing test case: RCmax/instancias100a200/224.txt
+1147.0 vs 1056.0 -> 1.0861742424242424
+Processing test case: RCmax/instancias100a200/225.txt
+1146.0 vs 1049.0 -> 1.092469018112488
+Processing test case: RCmax/instancias100a200/226.txt
+1151.0 vs 1054.0 -> 1.0920303605313093
+Processing test case: RCmax/instancias100a200/227.txt
+1159.0 vs 1052.0 -> 1.1017110266159695
+Processing test case: RCmax/instancias100a200/228.txt
+1146.0 vs 1054.0 -> 1.0872865275142316
+Processing test case: RCmax/instancias100a200/229.txt
+1148.0 vs 1054.0 -> 1.0891840607210626
+Processing test case: RCmax/instancias100a200/230.txt
+1146.0 vs 1047.0 -> 1.0945558739255015
+Processing test case: RCmax/instancias100a200/231.txt
+738.0 vs 728.0 -> 1.0137362637362637
+Processing test case: RCmax/instancias100a200/232.txt
+743.0 vs 716.0 -> 1.0377094972067038
+Processing test case: RCmax/instancias100a200/233.txt
+731.0 vs 716.0 -> 1.020949720670391
+Processing test case: RCmax/instancias100a200/234.txt
+743.0 vs 729.0 -> 1.01920438957476
+Processing test case: RCmax/instancias100a200/235.txt
+739.0 vs 713.0 -> 1.0364656381486677
+Processing test case: RCmax/instancias100a200/236.txt
+731.0 vs 731.0 -> 1.0
+Processing test case: RCmax/instancias100a200/237.txt
+741.0 vs 731.0 -> 1.0136798905608755
+Processing test case: RCmax/instancias100a200/238.txt
+733.0 vs 716.0 -> 1.0237430167597765
+Processing test case: RCmax/instancias100a200/239.txt
+758.0 vs 716.0 -> 1.058659217877095
+Processing test case: RCmax/instancias100a200/240.txt
+751.0 vs 717.0 -> 1.0474198047419805
+Processing test case: RCmax/instancias100a200/241.txt
+615.0 vs 515.0 -> 1.1941747572815533
+Processing test case: RCmax/instancias100a200/242.txt
+613.0 vs 518.0 -> 1.1833976833976834
+Processing test case: RCmax/instancias100a200/243.txt
+611.0 vs 514.0 -> 1.188715953307393
+Processing test case: RCmax/instancias100a200/244.txt
+621.0 vs 514.0 -> 1.2081712062256809
+Processing test case: RCmax/instancias100a200/245.txt
+615.0 vs 519.0 -> 1.1849710982658959
+Processing test case: RCmax/instancias100a200/246.txt
+616.0 vs 517.0 -> 1.1914893617021276
+Processing test case: RCmax/instancias100a200/247.txt
+613.0 vs 515.0 -> 1.1902912621359223
+Processing test case: RCmax/instancias100a200/248.txt
+614.0 vs 524.0 -> 1.1717557251908397
+Processing test case: RCmax/instancias100a200/249.txt
+617.0 vs 512.0 -> 1.205078125
+Processing test case: RCmax/instancias100a200/250.txt
+618.0 vs 517.0 -> 1.195357833655706
+Processing test case: RCmax/instancias100a200/251.txt
+512.0 vs 411.0 -> 1.245742092457421
+Processing test case: RCmax/instancias100a200/252.txt
+511.0 vs 417.0 -> 1.225419664268585
+Processing test case: RCmax/instancias100a200/253.txt
+509.0 vs 411.0 -> 1.2384428223844282
+Processing test case: RCmax/instancias100a200/254.txt
+512.0 vs 411.0 -> 1.245742092457421
+Processing test case: RCmax/instancias100a200/255.txt
+510.0 vs 413.0 -> 1.234866828087167
+Processing test case: RCmax/instancias100a200/256.txt
+512.0 vs 411.0 -> 1.245742092457421
+Processing test case: RCmax/instancias100a200/257.txt
+512.0 vs 413.0 -> 1.2397094430992737
+Processing test case: RCmax/instancias100a200/258.txt
+508.0 vs 411.0 -> 1.2360097323600974
+Processing test case: RCmax/instancias100a200/259.txt
+510.0 vs 413.0 -> 1.234866828087167
+Processing test case: RCmax/instancias100a200/260.txt
+513.0 vs 412.0 -> 1.2451456310679612
+Processing test case: RCmax/instancias100a200/511.txt
+5537.0 vs 5456.0 -> 1.0148460410557185
+Processing test case: RCmax/instancias100a200/512.txt
+5503.0 vs 5439.0 -> 1.0117668689097261
+Processing test case: RCmax/instancias100a200/513.txt
+5516.0 vs 5455.0 -> 1.0111824014665445
+Processing test case: RCmax/instancias100a200/514.txt
+5498.0 vs 5423.0 -> 1.0138299834040199
+Processing test case: RCmax/instancias100a200/515.txt
+5564.0 vs 5456.0 -> 1.0197947214076246
+Processing test case: RCmax/instancias100a200/516.txt
+5512.0 vs 5453.0 -> 1.010819732257473
+Processing test case: RCmax/instancias100a200/517.txt
+5465.0 vs 5414.0 -> 1.009420022164758
+Processing test case: RCmax/instancias100a200/518.txt
+5480.0 vs 5421.0 -> 1.0108836008116584
+Processing test case: RCmax/instancias100a200/519.txt
+5525.0 vs 5448.0 -> 1.0141336270190895
+Processing test case: RCmax/instancias100a200/520.txt
+5508.0 vs 5437.0 -> 1.013058672061799
+Processing test case: RCmax/instancias100a200/521.txt
+2706.0 vs 2613.0 -> 1.0355912743972446
+Processing test case: RCmax/instancias100a200/522.txt
+2695.0 vs 2612.0 -> 1.0317764165390506
+Processing test case: RCmax/instancias100a200/523.txt
+2716.0 vs 2618.0 -> 1.0374331550802138
+Processing test case: RCmax/instancias100a200/524.txt
+2691.0 vs 2618.0 -> 1.0278838808250572
+Processing test case: RCmax/instancias100a200/525.txt
+2715.0 vs 2624.0 -> 1.0346798780487805
+Processing test case: RCmax/instancias100a200/526.txt
+2698.0 vs 2613.0 -> 1.032529659395331
+Processing test case: RCmax/instancias100a200/527.txt
+2698.0 vs 2610.0 -> 1.0337164750957855
+Processing test case: RCmax/instancias100a200/528.txt
+2712.0 vs 2613.0 -> 1.0378874856486797
+Processing test case: RCmax/instancias100a200/529.txt
+2708.0 vs 2618.0 -> 1.0343773873185638
+Processing test case: RCmax/instancias100a200/530.txt
+2700.0 vs 2603.0 -> 1.0372646945831732
+Processing test case: RCmax/instancias100a200/531.txt
+1774.0 vs 1738.0 -> 1.0207134637514383
+Processing test case: RCmax/instancias100a200/532.txt
+1768.0 vs 1742.0 -> 1.0149253731343284
+Processing test case: RCmax/instancias100a200/533.txt
+1764.0 vs 1744.0 -> 1.011467889908257
+Processing test case: RCmax/instancias100a200/534.txt
+1769.0 vs 1739.0 -> 1.0172512938470386
+Processing test case: RCmax/instancias100a200/535.txt
+1790.0 vs 1738.0 -> 1.0299194476409665
+Processing test case: RCmax/instancias100a200/536.txt
+1785.0 vs 1736.0 -> 1.028225806451613
+Processing test case: RCmax/instancias100a200/537.txt
+1764.0 vs 1736.0 -> 1.0161290322580645
+Processing test case: RCmax/instancias100a200/538.txt
+1779.0 vs 1738.0 -> 1.023590333716916
+Processing test case: RCmax/instancias100a200/539.txt
+1765.0 vs 1734.0 -> 1.0178777393310265
+Processing test case: RCmax/instancias100a200/540.txt
+1780.0 vs 1740.0 -> 1.0229885057471264
+Processing test case: RCmax/instancias100a200/541.txt
+1339.0 vs 1322.0 -> 1.01285930408472
+Processing test case: RCmax/instancias100a200/542.txt
+1332.0 vs 1323.0 -> 1.0068027210884354
+Processing test case: RCmax/instancias100a200/543.txt
+1345.0 vs 1316.0 -> 1.0220364741641337
+Processing test case: RCmax/instancias100a200/544.txt
+1342.0 vs 1318.0 -> 1.0182094081942337
+Processing test case: RCmax/instancias100a200/545.txt
+1353.0 vs 1320.0 -> 1.025
+Processing test case: RCmax/instancias100a200/546.txt
+1339.0 vs 1318.0 -> 1.0159332321699546
+Processing test case: RCmax/instancias100a200/547.txt
+1341.0 vs 1316.0 -> 1.0189969604863223
+Processing test case: RCmax/instancias100a200/548.txt
+1345.0 vs 1324.0 -> 1.0158610271903323
+Processing test case: RCmax/instancias100a200/549.txt
+1354.0 vs 1318.0 -> 1.0273141122913505
+Processing test case: RCmax/instancias100a200/550.txt
+1365.5646158503214 vs 1318.0 -> 1.036088479400851
+Processing test case: RCmax/instancias100a200/551.txt
+1117.0 vs 1019.0 -> 1.0961727183513248
+Processing test case: RCmax/instancias100a200/552.txt
+1117.0 vs 1021.0 -> 1.0940254652301664
+Processing test case: RCmax/instancias100a200/553.txt
+1120.0 vs 1019.0 -> 1.099116781157998
+Processing test case: RCmax/instancias100a200/554.txt
+1121.0 vs 1020.0 -> 1.0990196078431373
+Processing test case: RCmax/instancias100a200/555.txt
+1117.0 vs 1024.0 -> 1.0908203125
+Processing test case: RCmax/instancias100a200/556.txt
+1119.0 vs 1021.0 -> 1.0959843290891282
+Processing test case: RCmax/instancias100a200/557.txt
+1117.0 vs 1021.0 -> 1.0940254652301664
+Processing test case: RCmax/instancias100a200/558.txt
+1116.0 vs 1020.0 -> 1.0941176470588236
+Processing test case: RCmax/instancias100a200/559.txt
+1118.0 vs 1019.0 -> 1.0971540726202158
+Processing test case: RCmax/instancias100a200/560.txt
+1118.0 vs 1020.0 -> 1.0960784313725491
+Processing test case: RCmax/Instanciasde1000a1100/1011.txt
+101740.0 vs 100820.0 -> 1.0091251735766713
+Processing test case: RCmax/Instanciasde1000a1100/1012.txt
+101657.0 vs 100876.0 -> 1.0077421785161982
+Processing test case: RCmax/Instanciasde1000a1100/1013.txt
+101869.0 vs 100922.0 -> 1.0093834842749847
+Processing test case: RCmax/Instanciasde1000a1100/1014.txt
+101848.0 vs 100908.0 -> 1.0093154160225155
+Processing test case: RCmax/Instanciasde1000a1100/1015.txt
+101875.0 vs 100897.0 -> 1.0096930533117932
+Processing test case: RCmax/Instanciasde1000a1100/1016.txt
+101826.0 vs 100881.0 -> 1.0093674725666875
+Processing test case: RCmax/Instanciasde1000a1100/1017.txt
+101842.0 vs 100867.0 -> 1.0096661940971774
+Processing test case: RCmax/Instanciasde1000a1100/1018.txt
+101868.0 vs 100913.0 -> 1.0094635973561386
+Processing test case: RCmax/Instanciasde1000a1100/1019.txt
+101891.0 vs 100921.0 -> 1.0096114782849952
+Processing test case: RCmax/Instanciasde1000a1100/1020.txt
+101896.0 vs 100894.0 -> 1.0099312149384503
+Processing test case: RCmax/Instanciasde1000a1100/1021.txt
+51222.0 vs 50231.0 -> 1.0197288527005235
+Processing test case: RCmax/Instanciasde1000a1100/1022.txt
+51217.0 vs 50229.0 -> 1.019669911803938
+Processing test case: RCmax/Instanciasde1000a1100/1023.txt
+51224.0 vs 50245.0 -> 1.019484525823465
+Processing test case: RCmax/Instanciasde1000a1100/1024.txt
+51198.0 vs 50211.0 -> 1.0196570472605604
+Processing test case: RCmax/Instanciasde1000a1100/1025.txt
+51214.0 vs 50224.0 -> 1.0197116916215354
+Processing test case: RCmax/Instanciasde1000a1100/1026.txt
+51212.0 vs 50238.0 -> 1.0193877144790795
+Processing test case: RCmax/Instanciasde1000a1100/1027.txt
+51221.0 vs 50225.0 -> 1.0198307615729219
+Processing test case: RCmax/Instanciasde1000a1100/1028.txt
+51224.0 vs 50236.0 -> 1.0196671709531013
+Processing test case: RCmax/Instanciasde1000a1100/1029.txt
+51205.0 vs 50225.0 -> 1.0195121951219512
+Processing test case: RCmax/Instanciasde1000a1100/1030.txt
+51210.0 vs 50224.0 -> 1.0196320484230648
+Processing test case: RCmax/Instanciasde1000a1100/1031.txt
+34138.0 vs 34060.0 -> 1.002290076335878
+Processing test case: RCmax/Instanciasde1000a1100/1032.txt
+34151.0 vs 34056.0 -> 1.0027895231383603
+Processing test case: RCmax/Instanciasde1000a1100/1033.txt
+34124.0 vs 34061.0 -> 1.0018496227356801
+Processing test case: RCmax/Instanciasde1000a1100/1034.txt
+34123.0 vs 34059.0 -> 1.0018790921635985
+Processing test case: RCmax/Instanciasde1000a1100/1035.txt
+34123.0 vs 34068.0 -> 1.0016144182223787
+Processing test case: RCmax/Instanciasde1000a1100/1036.txt
+34132.0 vs 34052.0 -> 1.0023493480559145
+Processing test case: RCmax/Instanciasde1000a1100/1037.txt
+34132.0 vs 34060.0 -> 1.0021139166177333
+Processing test case: RCmax/Instanciasde1000a1100/1038.txt
+34138.0 vs 34059.0 -> 1.002319504389442
+Processing test case: RCmax/Instanciasde1000a1100/1039.txt
+34134.0 vs 34066.0 -> 1.0019961251687899
+Processing test case: RCmax/Instanciasde1000a1100/1040.txt
+34137.0 vs 34062.0 -> 1.0022018671833715
+Processing test case: RCmax/Instanciasde1000a1100/1041.txt
+26060.0 vs 25060.0 -> 1.0399042298483638
+Processing test case: RCmax/Instanciasde1000a1100/1042.txt
+26056.0 vs 25058.0 -> 1.0398275999680742
+Processing test case: RCmax/Instanciasde1000a1100/1043.txt
+26055.0 vs 25058.0 -> 1.0397876925532763
+Processing test case: RCmax/Instanciasde1000a1100/1044.txt
+26049.0 vs 25058.0 -> 1.0395482480644904
+Processing test case: RCmax/Instanciasde1000a1100/1045.txt
+26057.0 vs 25056.0 -> 1.0399505108556832
+Processing test case: RCmax/Instanciasde1000a1100/1046.txt
+26053.0 vs 25058.0 -> 1.039707877723681
+Processing test case: RCmax/Instanciasde1000a1100/1047.txt
+26056.0 vs 25060.0 -> 1.0397446129289705
+Processing test case: RCmax/Instanciasde1000a1100/1048.txt
+26054.0 vs 25060.0 -> 1.0396648044692738
+Processing test case: RCmax/Instanciasde1000a1100/1049.txt
+26060.0 vs 25067.0 -> 1.039613834922408
+Processing test case: RCmax/Instanciasde1000a1100/1050.txt
+26060.0 vs 25059.0 -> 1.039945728081727
+Processing test case: RCmax/Instanciasde1000a1100/1051.txt
+21037.0 vs 20040.0 -> 1.049750499001996
+Processing test case: RCmax/Instanciasde1000a1100/1052.txt
+21030.0 vs 20035.0 -> 1.049663089593212
+Processing test case: RCmax/Instanciasde1000a1100/1053.txt
+21041.0 vs 20039.0 -> 1.0500024951344877
+Processing test case: RCmax/Instanciasde1000a1100/1054.txt
+21030.0 vs 20038.0 -> 1.0495059387164387
+Processing test case: RCmax/Instanciasde1000a1100/1055.txt
+21036.0 vs 20038.0 -> 1.049805369797385
+Processing test case: RCmax/Instanciasde1000a1100/1056.txt
+21033.0 vs 20044.0 -> 1.0493414488126123
+Processing test case: RCmax/Instanciasde1000a1100/1057.txt
+21040.0 vs 20035.0 -> 1.050162216121787
+Processing test case: RCmax/Instanciasde1000a1100/1058.txt
+21031.0 vs 20040.0 -> 1.0494510978043912
+Processing test case: RCmax/Instanciasde1000a1100/1059.txt
+21035.0 vs 20041.0 -> 1.0495983234369541
+Processing test case: RCmax/Instanciasde1000a1100/1060.txt
+21034.0 vs 20037.0 -> 1.0497579477965764
+Processing test case: RCmax/Instanciasde1000a1100/111.txt
+11096.0 vs 10092.0 -> 1.0994847403884265
+Processing test case: RCmax/Instanciasde1000a1100/112.txt
+11083.0 vs 10078.0 -> 1.0997221670966462
+Processing test case: RCmax/Instanciasde1000a1100/113.txt
+11072.0 vs 10108.0 -> 1.0953700039572616
+Processing test case: RCmax/Instanciasde1000a1100/114.txt
+11101.0 vs 10112.0 -> 1.0978045886075949
+Processing test case: RCmax/Instanciasde1000a1100/115.txt
+11128.0 vs 10105.0 -> 1.1012370113805048
+Processing test case: RCmax/Instanciasde1000a1100/116.txt
+11101.0 vs 10102.0 -> 1.0988913086517522
+Processing test case: RCmax/Instanciasde1000a1100/117.txt
+11098.0 vs 10121.0 -> 1.0965319632447386
+Processing test case: RCmax/Instanciasde1000a1100/118.txt
+11104.0 vs 10110.0 -> 1.098318496538081
+Processing test case: RCmax/Instanciasde1000a1100/119.txt
+11078.0 vs 10097.0 -> 1.0971575715559077
+Processing test case: RCmax/Instanciasde1000a1100/120.txt
+11100.0 vs 10097.0 -> 1.0993364365653164
+Processing test case: RCmax/Instanciasde1000a1100/121.txt
+6029.0 vs 5028.0 -> 1.199085123309467
+Processing test case: RCmax/Instanciasde1000a1100/122.txt
+6030.0 vs 5038.0 -> 1.1969035331480746
+Processing test case: RCmax/Instanciasde1000a1100/123.txt
+6020.0 vs 5036.0 -> 1.1953931691818904
+Processing test case: RCmax/Instanciasde1000a1100/124.txt
+6024.0 vs 5037.0 -> 1.1959499702203693
+Processing test case: RCmax/Instanciasde1000a1100/125.txt
+6029.0 vs 5037.0 -> 1.1969426245781218
+Processing test case: RCmax/Instanciasde1000a1100/126.txt
+6020.0 vs 5035.0 -> 1.195630585898709
+Processing test case: RCmax/Instanciasde1000a1100/127.txt
+6030.0 vs 5035.0 -> 1.1976166832174777
+Processing test case: RCmax/Instanciasde1000a1100/128.txt
+6024.0 vs 5036.0 -> 1.1961874503574266
+Processing test case: RCmax/Instanciasde1000a1100/129.txt
+6041.0 vs 5035.0 -> 1.199801390268123
+Processing test case: RCmax/Instanciasde1000a1100/130.txt
+6032.0 vs 5033.0 -> 1.1984899662229287
+Processing test case: RCmax/Instanciasde1000a1100/131.txt
+4029.0 vs 4008.0 -> 1.0052395209580838
+Processing test case: RCmax/Instanciasde1000a1100/132.txt
+4031.0 vs 4006.0 -> 1.0062406390414378
+Processing test case: RCmax/Instanciasde1000a1100/133.txt
+4026.0 vs 4006.0 -> 1.0049925112331504
+Processing test case: RCmax/Instanciasde1000a1100/134.txt
+4023.0 vs 4007.0 -> 1.0039930122286
+Processing test case: RCmax/Instanciasde1000a1100/135.txt
+4015.0 vs 4006.0 -> 1.0022466300549175
+Processing test case: RCmax/Instanciasde1000a1100/136.txt
+4027.0 vs 4007.0 -> 1.00499126528575
+Processing test case: RCmax/Instanciasde1000a1100/137.txt
+4024.0 vs 4007.0 -> 1.0042425754928874
+Processing test case: RCmax/Instanciasde1000a1100/138.txt
+4033.0 vs 4010.0 -> 1.0057356608478802
+Processing test case: RCmax/Instanciasde1000a1100/139.txt
+4019.0 vs 4008.0 -> 1.002744510978044
+Processing test case: RCmax/Instanciasde1000a1100/140.txt
+4025.0 vs 4007.0 -> 1.004492138757175
+Processing test case: RCmax/Instanciasde1000a1100/141.txt
+3020.0 vs 3005.0 -> 1.004991680532446
+Processing test case: RCmax/Instanciasde1000a1100/142.txt
+3027.0 vs 3006.0 -> 1.0069860279441119
+Processing test case: RCmax/Instanciasde1000a1100/143.txt
+3025.0 vs 3005.0 -> 1.0066555740432612
+Processing test case: RCmax/Instanciasde1000a1100/144.txt
+3020.0 vs 3005.0 -> 1.004991680532446
+Processing test case: RCmax/Instanciasde1000a1100/145.txt
+3017.0 vs 3006.0 -> 1.0036593479707252
+Processing test case: RCmax/Instanciasde1000a1100/146.txt
+3022.0 vs 3005.0 -> 1.005657237936772
+Processing test case: RCmax/Instanciasde1000a1100/147.txt
+3017.0 vs 3004.0 -> 1.0043275632490014
+Processing test case: RCmax/Instanciasde1000a1100/148.txt
+3021.0 vs 3005.0 -> 1.005324459234609
+Processing test case: RCmax/Instanciasde1000a1100/149.txt
+3020.0 vs 3005.0 -> 1.004991680532446
+Processing test case: RCmax/Instanciasde1000a1100/150.txt
+3016.0 vs 3005.0 -> 1.0036605657237936
+Processing test case: RCmax/Instanciasde1000a1100/151.txt
+3007.0 vs 2013.0 -> 1.4937903626428217
+Processing test case: RCmax/Instanciasde1000a1100/152.txt
+3010.0 vs 2010.0 -> 1.4975124378109452
+Processing test case: RCmax/Instanciasde1000a1100/153.txt
+3011.0 vs 2012.0 -> 1.496520874751491
+Processing test case: RCmax/Instanciasde1000a1100/154.txt
+3009.0 vs 2026.0 -> 1.485192497532083
+Processing test case: RCmax/Instanciasde1000a1100/155.txt
+3009.0 vs 2010.0 -> 1.4970149253731344
+Processing test case: RCmax/Instanciasde1000a1100/156.txt
+3008.0 vs 2014.0 -> 1.493545183714002
+Processing test case: RCmax/Instanciasde1000a1100/157.txt
+3011.0 vs 2009.0 -> 1.498755599800896
+Processing test case: RCmax/Instanciasde1000a1100/158.txt
+3012.0 vs 2011.0 -> 1.497762307309796
+Processing test case: RCmax/Instanciasde1000a1100/159.txt
+3012.0 vs 2015.0 -> 1.494789081885856
+Processing test case: RCmax/Instanciasde1000a1100/160.txt
+3007.0 vs 2012.0 -> 1.4945328031809144
+Processing test case: RCmax/Instanciasde1000a1100/211.txt
+21144.0 vs 20193.0 -> 1.0470955281533205
+Processing test case: RCmax/Instanciasde1000a1100/212.txt
+21172.0 vs 20182.0 -> 1.0490536121296206
+Processing test case: RCmax/Instanciasde1000a1100/213.txt
+21146.0 vs 20177.0 -> 1.0480249789364127
+Processing test case: RCmax/Instanciasde1000a1100/214.txt
+21187.0 vs 20188.0 -> 1.0494848424806815
+Processing test case: RCmax/Instanciasde1000a1100/215.txt
+21174.0 vs 20182.0 -> 1.0491527103359428
+Processing test case: RCmax/Instanciasde1000a1100/216.txt
+21190.0 vs 20197.0 -> 1.0491657176808438
+Processing test case: RCmax/Instanciasde1000a1100/217.txt
+21187.0 vs 20191.0 -> 1.0493289089198157
+Processing test case: RCmax/Instanciasde1000a1100/218.txt
+21184.0 vs 20195.0 -> 1.0489725179499876
+Processing test case: RCmax/Instanciasde1000a1100/219.txt
+21167.0 vs 20177.0 -> 1.0490657679536106
+Processing test case: RCmax/Instanciasde1000a1100/220.txt
+21169.0 vs 20179.0 -> 1.0490609049011348
+Processing test case: RCmax/Instanciasde1000a1100/221.txt
+11064.0 vs 10056.0 -> 1.100238663484487
+Processing test case: RCmax/Instanciasde1000a1100/222.txt
+11054.0 vs 10050.0 -> 1.0999004975124378
+Processing test case: RCmax/Instanciasde1000a1100/223.txt
+11057.0 vs 10050.0 -> 1.1001990049751245
+Processing test case: RCmax/Instanciasde1000a1100/224.txt
+11053.0 vs 10055.0 -> 1.0992541024365987
+Processing test case: RCmax/Instanciasde1000a1100/225.txt
+11049.0 vs 10052.0 -> 1.099184241941902
+Processing test case: RCmax/Instanciasde1000a1100/226.txt
+11051.0 vs 10054.0 -> 1.0991645116371593
+Processing test case: RCmax/Instanciasde1000a1100/227.txt
+11062.0 vs 10058.0 -> 1.0998210379797175
+Processing test case: RCmax/Instanciasde1000a1100/228.txt
+11045.0 vs 10051.0 -> 1.0988956322753956
+Processing test case: RCmax/Instanciasde1000a1100/229.txt
+11043.0 vs 10055.0 -> 1.0982595723520636
+Processing test case: RCmax/Instanciasde1000a1100/230.txt
+11052.0 vs 10048.0 -> 1.0999203821656052
+Processing test case: RCmax/Instanciasde1000a1100/231.txt
+7033.0 vs 7034.0 -> 0.9998578333807222
+Processing test case: RCmax/Instanciasde1000a1100/232.txt
+7047.0 vs 7025.0 -> 1.0031316725978647
+Processing test case: RCmax/Instanciasde1000a1100/233.txt
+7032.0 vs 7020.0 -> 1.0017094017094017
+Processing test case: RCmax/Instanciasde1000a1100/234.txt
+7045.0 vs 7032.0 -> 1.0018486916951082
+Processing test case: RCmax/Instanciasde1000a1100/235.txt
+7037.0 vs 7039.0 -> 0.9997158687313539
+Processing test case: RCmax/Instanciasde1000a1100/236.txt
+7037.0 vs 7019.0 -> 1.0025644678729164
+Processing test case: RCmax/Instanciasde1000a1100/237.txt
+7038.0 vs 7031.0 -> 1.000995590954345
+Processing test case: RCmax/Instanciasde1000a1100/238.txt
+7027.0 vs 7020.0 -> 1.000997150997151
+Processing test case: RCmax/Instanciasde1000a1100/239.txt
+7033.0 vs 7038.0 -> 0.999289570900824
+Processing test case: RCmax/Instanciasde1000a1100/240.txt
+7049.0 vs 7018.0 -> 1.0044172128811628
+Processing test case: RCmax/Instanciasde1000a1100/241.txt
+6014.0 vs 5016.0 -> 1.1989633173843701
+Processing test case: RCmax/Instanciasde1000a1100/242.txt
+6019.0 vs 5019.0 -> 1.1992428770671448
+Processing test case: RCmax/Instanciasde1000a1100/243.txt
+6013.0 vs 5018.0 -> 1.1982861697887606
+Processing test case: RCmax/Instanciasde1000a1100/244.txt
+6019.0 vs 5033.0 -> 1.1959070137095171
+Processing test case: RCmax/Instanciasde1000a1100/245.txt
+6011.0 vs 5014.0 -> 1.1988432389309933
+Processing test case: RCmax/Instanciasde1000a1100/246.txt
+6017.0 vs 5020.0 -> 1.198605577689243
+Processing test case: RCmax/Instanciasde1000a1100/247.txt
+6014.0 vs 5028.0 -> 1.196101829753381
+Processing test case: RCmax/Instanciasde1000a1100/248.txt
+6021.0 vs 5018.0 -> 1.1998804304503787
+Processing test case: RCmax/Instanciasde1000a1100/249.txt
+6016.0 vs 5016.0 -> 1.1993620414673045
+Processing test case: RCmax/Instanciasde1000a1100/250.txt
+6019.0 vs 5017.0 -> 1.1997209487741678
+Processing test case: RCmax/Instanciasde1000a1100/251.txt
+5010.0 vs 4012.0 -> 1.2487537387836491
+Processing test case: RCmax/Instanciasde1000a1100/252.txt
+5010.0 vs 4015.0 -> 1.2478206724782068
+Processing test case: RCmax/Instanciasde1000a1100/253.txt
+5014.0 vs 4015.0 -> 1.2488169364881694
+Processing test case: RCmax/Instanciasde1000a1100/254.txt
+5013.0 vs 4012.0 -> 1.2495014955134596
+Processing test case: RCmax/Instanciasde1000a1100/255.txt
+5010.0 vs 4014.0 -> 1.2481315396113601
+Processing test case: RCmax/Instanciasde1000a1100/256.txt
+5011.0 vs 4013.0 -> 1.2486917518066285
+Processing test case: RCmax/Instanciasde1000a1100/257.txt
+5014.0 vs 4012.0 -> 1.2497507477567298
+Processing test case: RCmax/Instanciasde1000a1100/258.txt
+5013.0 vs 4012.0 -> 1.2495014955134596
+Processing test case: RCmax/Instanciasde1000a1100/259.txt
+5017.0 vs 4013.0 -> 1.2501868925990531
+Processing test case: RCmax/Instanciasde1000a1100/260.txt
+5015.0 vs 4015.0 -> 1.2490660024906601
+Processing test case: RCmax/Instanciasde1000a1100/511.txt
+51421.0 vs 50431.0 -> 1.0196307826535267
+Processing test case: RCmax/Instanciasde1000a1100/512.txt
+51399.0 vs 50438.0 -> 1.0190530948887744
+Processing test case: RCmax/Instanciasde1000a1100/513.txt
+51419.0 vs 50440.0 -> 1.0194091990483742
+Processing test case: RCmax/Instanciasde1000a1100/514.txt
+51447.0 vs 50466.0 -> 1.019438830103436
+Processing test case: RCmax/Instanciasde1000a1100/515.txt
+51378.0 vs 50415.0 -> 1.0191014578994346
+Processing test case: RCmax/Instanciasde1000a1100/516.txt
+51381.0 vs 50459.0 -> 1.018272260647258
+Processing test case: RCmax/Instanciasde1000a1100/517.txt
+51411.0 vs 50420.0 -> 1.0196548988496628
+Processing test case: RCmax/Instanciasde1000a1100/518.txt
+50496.0 vs 50407.0 -> 1.001765627789791
+Processing test case: RCmax/Instanciasde1000a1100/519.txt
+51416.0 vs 50437.0 -> 1.0194103535103198
+Processing test case: RCmax/Instanciasde1000a1100/520.txt
+50503.0 vs 50442.0 -> 1.0012093097022323
+Processing test case: RCmax/Instanciasde1000a1100/521.txt
+26107.0 vs 25116.0 -> 1.0394569198917025
+Processing test case: RCmax/Instanciasde1000a1100/522.txt
+26112.0 vs 25113.0 -> 1.0397801935252657
+Processing test case: RCmax/Instanciasde1000a1100/523.txt
+26101.0 vs 25116.0 -> 1.039218028348463
+Processing test case: RCmax/Instanciasde1000a1100/524.txt
+26107.0 vs 25126.0 -> 1.039043222160312
+Processing test case: RCmax/Instanciasde1000a1100/525.txt
+26110.0 vs 25115.0 -> 1.0396177583117658
+Processing test case: RCmax/Instanciasde1000a1100/526.txt
+26109.0 vs 25121.0 -> 1.0393296445205207
+Processing test case: RCmax/Instanciasde1000a1100/527.txt
+26114.0 vs 25115.0 -> 1.0397770256818635
+Processing test case: RCmax/Instanciasde1000a1100/528.txt
+26117.0 vs 25120.0 -> 1.0396894904458598
+Processing test case: RCmax/Instanciasde1000a1100/529.txt
+26114.0 vs 25121.0 -> 1.039528681183074
+Processing test case: RCmax/Instanciasde1000a1100/530.txt
+26114.0 vs 25120.0 -> 1.0395700636942675
+Processing test case: RCmax/Instanciasde1000a1100/531.txt
+17069.0 vs 17041.0 -> 1.0016430960624376
+Processing test case: RCmax/Instanciasde1000a1100/532.txt
+17070.0 vs 17044.0 -> 1.0015254635062192
+Processing test case: RCmax/Instanciasde1000a1100/533.txt
+17052.0 vs 17043.0 -> 1.0005280760429502
+Processing test case: RCmax/Instanciasde1000a1100/534.txt
+17067.0 vs 17046.0 -> 1.0012319605772615
+Processing test case: RCmax/Instanciasde1000a1100/535.txt
+17062.0 vs 17046.0 -> 1.0009386366302946
+Processing test case: RCmax/Instanciasde1000a1100/536.txt
+17080.0 vs 17051.0 -> 1.0017007800129025
+Processing test case: RCmax/Instanciasde1000a1100/537.txt
+17088.0 vs 17047.0 -> 1.0024051152695488
+Processing test case: RCmax/Instanciasde1000a1100/538.txt
+17070.0 vs 17049.0 -> 1.0012317437972902
+Processing test case: RCmax/Instanciasde1000a1100/539.txt
+17076.0 vs 17044.0 -> 1.0018774935461159
+Processing test case: RCmax/Instanciasde1000a1100/540.txt
+17067.0 vs 17050.0 -> 1.0009970674486803
+Processing test case: RCmax/Instanciasde1000a1100/541.txt
+13040.0 vs 13018.0 -> 1.0016899677369795
+Processing test case: RCmax/Instanciasde1000a1100/542.txt
+13051.0 vs 13026.0 -> 1.0019192384461846
+Processing test case: RCmax/Instanciasde1000a1100/543.txt
+13051.0 vs 13024.0 -> 1.002073095823096
+Processing test case: RCmax/Instanciasde1000a1100/544.txt
+13048.0 vs 13026.0 -> 1.0016889298326423
+Processing test case: RCmax/Instanciasde1000a1100/545.txt
+13050.0 vs 13024.0 -> 1.0019963144963144
+Processing test case: RCmax/Instanciasde1000a1100/546.txt
+13058.0 vs 13018.0 -> 1.00307266861269
+Processing test case: RCmax/Instanciasde1000a1100/547.txt
+13046.0 vs 13022.0 -> 1.001843034864076
+Processing test case: RCmax/Instanciasde1000a1100/548.txt
+13046.0 vs 13018.0 -> 1.002150868028883
+Processing test case: RCmax/Instanciasde1000a1100/549.txt
+13041.0 vs 13020.0 -> 1.0016129032258065
+Processing test case: RCmax/Instanciasde1000a1100/550.txt
+13040.0 vs 13021.0 -> 1.0014591813224791
+Processing test case: RCmax/Instanciasde1000a1100/551.txt
+11018.0 vs 10024.0 -> 1.0991620111731844
+Processing test case: RCmax/Instanciasde1000a1100/552.txt
+11019.0 vs 10025.0 -> 1.099152119700748
+Processing test case: RCmax/Instanciasde1000a1100/553.txt
+11020.0 vs 10024.0 -> 1.0993615323224262
+Processing test case: RCmax/Instanciasde1000a1100/554.txt
+11018.0 vs 10020.0 -> 1.0996007984031937
+Processing test case: RCmax/Instanciasde1000a1100/555.txt
+11022.0 vs 10020.0 -> 1.1
+Processing test case: RCmax/Instanciasde1000a1100/556.txt
+11017.0 vs 10022.0 -> 1.0992815805228497
+Processing test case: RCmax/Instanciasde1000a1100/557.txt
+11017.0 vs 10023.0 -> 1.0991719046193755
+Processing test case: RCmax/Instanciasde1000a1100/558.txt
+11019.0 vs 10022.0 -> 1.099481141488725
+Processing test case: RCmax/Instanciasde1000a1100/559.txt
+11021.0 vs 10021.0 -> 1.0997904400758407
+Processing test case: RCmax/Instanciasde1000a1100/560.txt
+11020.0 vs 10025.0 -> 1.0992518703241896
+Processing test case: RCmax/JobsCorre/1011.txt
+5551.0 vs 5485.0 -> 1.0120328167730173
+Processing test case: RCmax/JobsCorre/1012.txt
+5345.0 vs 5291.0 -> 1.0102060102060102
+Processing test case: RCmax/JobsCorre/1013.txt
+5271.0 vs 5223.0 -> 1.009190120620333
+Processing test case: RCmax/JobsCorre/1014.txt
+5474.0 vs 5401.0 -> 1.0135160155526755
+Processing test case: RCmax/JobsCorre/1015.txt
+5320.0 vs 5257.0 -> 1.0119840213049267
+Processing test case: RCmax/JobsCorre/1016.txt
+5405.0 vs 5339.0 -> 1.0123618655178872
+Processing test case: RCmax/JobsCorre/1017.txt
+5275.0 vs 5208.0 -> 1.0128648233486943
+Processing test case: RCmax/JobsCorre/1018.txt
+5408.0 vs 5336.0 -> 1.0134932533733134
+Processing test case: RCmax/JobsCorre/1019.txt
+5292.0 vs 5237.0 -> 1.010502195913691
+Processing test case: RCmax/JobsCorre/1020.txt
+5192.0 vs 5146.0 -> 1.0089389817333851
+Processing test case: RCmax/JobsCorre/1021.txt
+2654.0 vs 2604.0 -> 1.0192012288786483
+Processing test case: RCmax/JobsCorre/1022.txt
+2650.0 vs 2581.0 -> 1.0267338240991863
+Processing test case: RCmax/JobsCorre/1023.txt
+2568.0 vs 2523.0 -> 1.0178359096313911
+Processing test case: RCmax/JobsCorre/1024.txt
+2691.0 vs 2622.0 -> 1.0263157894736843
+Processing test case: RCmax/JobsCorre/1025.txt
+2637.0 vs 2555.0 -> 1.0320939334637964
+Processing test case: RCmax/JobsCorre/1026.txt
+2672.0 vs 2608.0 -> 1.0245398773006136
+Processing test case: RCmax/JobsCorre/1027.txt
+2728.0 vs 2659.0 -> 1.0259496051147048
+Processing test case: RCmax/JobsCorre/1028.txt
+2640.0 vs 2577.0 -> 1.0244470314318976
+Processing test case: RCmax/JobsCorre/1029.txt
+2695.0 vs 2615.0 -> 1.0305927342256214
+Processing test case: RCmax/JobsCorre/1030.txt
+2616.0 vs 2535.0 -> 1.0319526627218936
+Processing test case: RCmax/JobsCorre/1031.txt
+1805.0 vs 1734.0 -> 1.0409457900807382
+Processing test case: RCmax/JobsCorre/1032.txt
+1807.0 vs 1744.0 -> 1.036123853211009
+Processing test case: RCmax/JobsCorre/1033.txt
+1753.0 vs 1695.0 -> 1.0342182890855458
+Processing test case: RCmax/JobsCorre/1034.txt
+1817.0 vs 1735.0 -> 1.0472622478386167
+Processing test case: RCmax/JobsCorre/1035.txt
+1769.0 vs 1712.0 -> 1.0332943925233644
+Processing test case: RCmax/JobsCorre/1036.txt
+1760.0 vs 1707.0 -> 1.0310486233157587
+Processing test case: RCmax/JobsCorre/1037.txt
+1763.0 vs 1697.0 -> 1.0388921626399528
+Processing test case: RCmax/JobsCorre/1038.txt
+1832.0 vs 1761.0 -> 1.0403180011357183
+Processing test case: RCmax/JobsCorre/1039.txt
+1789.0 vs 1717.0 -> 1.0419336051252184
+Processing test case: RCmax/JobsCorre/1040.txt
+1782.0 vs 1715.0 -> 1.039067055393586
+Processing test case: RCmax/JobsCorre/1041.txt
+1399.0 vs 1332.0 -> 1.0503003003003002
+Processing test case: RCmax/JobsCorre/1042.txt
+1402.0 vs 1336.0 -> 1.0494011976047903
+Processing test case: RCmax/JobsCorre/1043.txt
+1316.0 vs 1261.0 -> 1.0436161776367963
+Processing test case: RCmax/JobsCorre/1044.txt
+1402.0 vs 1334.0 -> 1.050974512743628
+Processing test case: RCmax/JobsCorre/1045.txt
+1349.0 vs 1269.0 -> 1.0630417651694248
+Processing test case: RCmax/JobsCorre/1046.txt
+1322.0 vs 1248.0 -> 1.0592948717948718
+Processing test case: RCmax/JobsCorre/1047.txt
+1386.0 vs 1316.0 -> 1.053191489361702
+Processing test case: RCmax/JobsCorre/1048.txt
+1388.0 vs 1318.0 -> 1.0531107738998482
+Processing test case: RCmax/JobsCorre/1049.txt
+1383.0 vs 1314.0 -> 1.052511415525114
+Processing test case: RCmax/JobsCorre/1050.txt
+1356.0 vs 1288.0 -> 1.0527950310559007
+Processing test case: RCmax/JobsCorre/1051.txt
+1095.0 vs 1024.0 -> 1.0693359375
+Processing test case: RCmax/JobsCorre/1052.txt
+1116.0 vs 1032.0 -> 1.0813953488372092
+Processing test case: RCmax/JobsCorre/1053.txt
+1103.0 vs 1032.0 -> 1.068798449612403
+Processing test case: RCmax/JobsCorre/1054.txt
+1071.0 vs 1002.0 -> 1.0688622754491017
+Processing test case: RCmax/JobsCorre/1055.txt
+1086.0 vs 1019.0 -> 1.0657507360157017
+Processing test case: RCmax/JobsCorre/1056.txt
+1085.0 vs 1025.0 -> 1.0585365853658537
+Processing test case: RCmax/JobsCorre/1057.txt
+1125.0 vs 1063.0 -> 1.0583254938852305
+Processing test case: RCmax/JobsCorre/1058.txt
+1088.0 vs 1029.0 -> 1.0573372206025267
+Processing test case: RCmax/JobsCorre/1059.txt
+1116.0 vs 1050.0 -> 1.062857142857143
+Processing test case: RCmax/JobsCorre/1060.txt
+1095.0 vs 1031.0 -> 1.0620756547041708
+Processing test case: RCmax/JobsCorre/111.txt
+559.0 vs 505.0 -> 1.106930693069307
+Processing test case: RCmax/JobsCorre/112.txt
+568.0 vs 516.0 -> 1.1007751937984496
+Processing test case: RCmax/JobsCorre/113.txt
+609.0 vs 554.0 -> 1.0992779783393503
+Processing test case: RCmax/JobsCorre/114.txt
+607.0 vs 553.0 -> 1.0976491862567812
+Processing test case: RCmax/JobsCorre/115.txt
+622.0 vs 562.0 -> 1.106761565836299
+Processing test case: RCmax/JobsCorre/116.txt
+570.0 vs 508.0 -> 1.1220472440944882
+Processing test case: RCmax/JobsCorre/117.txt
+565.0 vs 506.0 -> 1.116600790513834
+Processing test case: RCmax/JobsCorre/118.txt
+581.0 vs 508.0 -> 1.1437007874015748
+Processing test case: RCmax/JobsCorre/119.txt
+626.0 vs 529.0 -> 1.1833648393194707
+Processing test case: RCmax/JobsCorre/120.txt
+557.0 vs 490.0 -> 1.136734693877551
+Processing test case: RCmax/JobsCorre/121.txt
+320.0 vs 258.0 -> 1.2403100775193798
+Processing test case: RCmax/JobsCorre/122.txt
+322.0 vs 258.0 -> 1.248062015503876
+Processing test case: RCmax/JobsCorre/123.txt
+337.0 vs 272.0 -> 1.2389705882352942
+Processing test case: RCmax/JobsCorre/124.txt
+356.0 vs 292.0 -> 1.2191780821917808
+Processing test case: RCmax/JobsCorre/125.txt
+366.0 vs 287.0 -> 1.2752613240418118
+Processing test case: RCmax/JobsCorre/126.txt
+330.0 vs 263.0 -> 1.2547528517110267
+Processing test case: RCmax/JobsCorre/127.txt
+358.0 vs 272.0 -> 1.3161764705882353
+Processing test case: RCmax/JobsCorre/128.txt
+355.0 vs 286.0 -> 1.2412587412587412
+Processing test case: RCmax/JobsCorre/129.txt
+337.0 vs 272.0 -> 1.2389705882352942
+Processing test case: RCmax/JobsCorre/130.txt
+285.0 vs 234.0 -> 1.2179487179487178
+Processing test case: RCmax/JobsCorre/131.txt
+249.0 vs 179.0 -> 1.3910614525139664
+Processing test case: RCmax/JobsCorre/132.txt
+240.0 vs 176.0 -> 1.3636363636363635
+Processing test case: RCmax/JobsCorre/133.txt
+268.0 vs 184.0 -> 1.4565217391304348
+Processing test case: RCmax/JobsCorre/134.txt
+247.0 vs 175.0 -> 1.4114285714285715
+Processing test case: RCmax/JobsCorre/135.txt
+220.0 vs 170.0 -> 1.2941176470588236
+Processing test case: RCmax/JobsCorre/136.txt
+227.0 vs 165.0 -> 1.3757575757575757
+Processing test case: RCmax/JobsCorre/137.txt
+254.0 vs 173.0 -> 1.4682080924855492
+Processing test case: RCmax/JobsCorre/138.txt
+252.0 vs 171.0 -> 1.4736842105263157
+Processing test case: RCmax/JobsCorre/139.txt
+269.0 vs 187.0 -> 1.4385026737967914
+Processing test case: RCmax/JobsCorre/140.txt
+261.0 vs 182.0 -> 1.434065934065934
+Processing test case: RCmax/JobsCorre/141.txt
+214.0 vs 147.0 -> 1.4557823129251701
+Processing test case: RCmax/JobsCorre/142.txt
+212.0 vs 132.0 -> 1.606060606060606
+Processing test case: RCmax/JobsCorre/143.txt
+226.0 vs 153.0 -> 1.477124183006536
+Processing test case: RCmax/JobsCorre/144.txt
+213.0 vs 142.0 -> 1.5
+Processing test case: RCmax/JobsCorre/145.txt
+206.0 vs 142.0 -> 1.4507042253521127
+Processing test case: RCmax/JobsCorre/146.txt
+234.0 vs 144.0 -> 1.625
+Processing test case: RCmax/JobsCorre/147.txt
+200.0 vs 126.0 -> 1.5873015873015872
+Processing test case: RCmax/JobsCorre/148.txt
+208.0 vs 140.0 -> 1.4857142857142858
+Processing test case: RCmax/JobsCorre/149.txt
+215.0 vs 128.0 -> 1.6796875
+Processing test case: RCmax/JobsCorre/150.txt
+219.0 vs 135.0 -> 1.6222222222222222
+Processing test case: RCmax/JobsCorre/151.txt
+174.0 vs 104.0 -> 1.6730769230769231
+Processing test case: RCmax/JobsCorre/152.txt
+198.0 vs 113.0 -> 1.752212389380531
+Processing test case: RCmax/JobsCorre/153.txt
+189.0 vs 118.0 -> 1.6016949152542372
+Processing test case: RCmax/JobsCorre/154.txt
+176.0 vs 116.0 -> 1.5172413793103448
+Processing test case: RCmax/JobsCorre/155.txt
+196.0 vs 105.0 -> 1.8666666666666667
+Processing test case: RCmax/JobsCorre/156.txt
+192.0 vs 115.0 -> 1.6695652173913043
+Processing test case: RCmax/JobsCorre/157.txt
+203.0 vs 127.0 -> 1.5984251968503937
+Processing test case: RCmax/JobsCorre/158.txt
+197.0 vs 116.0 -> 1.6982758620689655
+Processing test case: RCmax/JobsCorre/159.txt
+189.0 vs 109.0 -> 1.7339449541284404
+Processing test case: RCmax/JobsCorre/160.txt
+189.0 vs 106.0 -> 1.7830188679245282
+Processing test case: RCmax/JobsCorre/211.txt
+1184.0 vs 1121.0 -> 1.056199821587868
+Processing test case: RCmax/JobsCorre/212.txt
+1137.0 vs 1063.0 -> 1.0696142991533395
+Processing test case: RCmax/JobsCorre/213.txt
+1096.0 vs 1095.0 -> 1.0009132420091325
+Processing test case: RCmax/JobsCorre/214.txt
+1168.0 vs 1100.0 -> 1.0618181818181818
+Processing test case: RCmax/JobsCorre/215.txt
+1052.0 vs 1014.0 -> 1.0374753451676528
+Processing test case: RCmax/JobsCorre/216.txt
+1166.0 vs 1071.0 -> 1.0887021475256768
+Processing test case: RCmax/JobsCorre/217.txt
+1050.0 vs 970.0 -> 1.0824742268041236
+Processing test case: RCmax/JobsCorre/218.txt
+1161.0 vs 1104.0 -> 1.0516304347826086
+Processing test case: RCmax/JobsCorre/219.txt
+1085.0 vs 1039.0 -> 1.0442733397497594
+Processing test case: RCmax/JobsCorre/220.txt
+1117.0 vs 1087.0 -> 1.0275988960441582
+Processing test case: RCmax/JobsCorre/221.txt
+570.0 vs 515.0 -> 1.1067961165048543
+Processing test case: RCmax/JobsCorre/222.txt
+569.0 vs 518.0 -> 1.0984555984555984
+Processing test case: RCmax/JobsCorre/223.txt
+633.0 vs 560.0 -> 1.1303571428571428
+Processing test case: RCmax/JobsCorre/224.txt
+651.0 vs 569.0 -> 1.1441124780316345
+Processing test case: RCmax/JobsCorre/225.txt
+643.0 vs 560.0 -> 1.1482142857142856
+Processing test case: RCmax/JobsCorre/226.txt
+615.689189315667 vs 534.0 -> 1.1529760099544326
+Processing test case: RCmax/JobsCorre/227.txt
+590.0 vs 510.0 -> 1.1568627450980393
+Processing test case: RCmax/JobsCorre/228.txt
+615.0 vs 525.0 -> 1.1714285714285715
+Processing test case: RCmax/JobsCorre/229.txt
+557.0 vs 502.0 -> 1.1095617529880477
+Processing test case: RCmax/JobsCorre/230.txt
+598.0 vs 524.0 -> 1.1412213740458015
+Processing test case: RCmax/JobsCorre/231.txt
+433.0 vs 353.0 -> 1.226628895184136
+Processing test case: RCmax/JobsCorre/232.txt
+442.0 vs 355.0 -> 1.2450704225352112
+Processing test case: RCmax/JobsCorre/233.txt
+404.0 vs 337.0 -> 1.198813056379822
+Processing test case: RCmax/JobsCorre/234.txt
+406.0 vs 357.0 -> 1.1372549019607843
+Processing test case: RCmax/JobsCorre/235.txt
+396.0 vs 320.0 -> 1.2375
+Processing test case: RCmax/JobsCorre/236.txt
+399.0 vs 348.0 -> 1.146551724137931
+Processing test case: RCmax/JobsCorre/237.txt
+447.0 vs 360.0 -> 1.2416666666666667
+Processing test case: RCmax/JobsCorre/238.txt
+419.0 vs 358.0 -> 1.170391061452514
+Processing test case: RCmax/JobsCorre/239.txt
+433.0 vs 348.0 -> 1.2442528735632183
+Processing test case: RCmax/JobsCorre/240.txt
+420.0 vs 341.0 -> 1.2316715542521994
+Processing test case: RCmax/JobsCorre/241.txt
+327.0 vs 251.0 -> 1.302788844621514
+Processing test case: RCmax/JobsCorre/242.txt
+337.0 vs 262.0 -> 1.286259541984733
+Processing test case: RCmax/JobsCorre/243.txt
+348.0 vs 258.0 -> 1.3488372093023255
+Processing test case: RCmax/JobsCorre/244.txt
+334.0 vs 267.0 -> 1.250936329588015
+Processing test case: RCmax/JobsCorre/245.txt
+348.0 vs 264.0 -> 1.3181818181818181
+Processing test case: RCmax/JobsCorre/246.txt
+350.0 vs 266.0 -> 1.3157894736842106
+Processing test case: RCmax/JobsCorre/247.txt
+318.0 vs 272.0 -> 1.1691176470588236
+Processing test case: RCmax/JobsCorre/248.txt
+342.0 vs 251.0 -> 1.3625498007968126
+Processing test case: RCmax/JobsCorre/249.txt
+338.0 vs 259.0 -> 1.305019305019305
+Processing test case: RCmax/JobsCorre/250.txt
+314.0 vs 242.0 -> 1.2975206611570247
+Processing test case: RCmax/JobsCorre/251.txt
+295.0 vs 225.0 -> 1.3111111111111111
+Processing test case: RCmax/JobsCorre/252.txt
+283.0 vs 213.0 -> 1.3286384976525822
+Processing test case: RCmax/JobsCorre/253.txt
+307.0 vs 218.0 -> 1.408256880733945
+Processing test case: RCmax/JobsCorre/254.txt
+301.0 vs 214.0 -> 1.4065420560747663
+Processing test case: RCmax/JobsCorre/255.txt
+275.0 vs 203.0 -> 1.354679802955665
+Processing test case: RCmax/JobsCorre/256.txt
+251.0 vs 194.0 -> 1.2938144329896908
+Processing test case: RCmax/JobsCorre/257.txt
+295.0 vs 225.0 -> 1.3111111111111111
+Processing test case: RCmax/JobsCorre/258.txt
+274.0 vs 208.0 -> 1.3173076923076923
+Processing test case: RCmax/JobsCorre/259.txt
+272.0 vs 205.0 -> 1.326829268292683
+Processing test case: RCmax/JobsCorre/260.txt
+293.0 vs 228.0 -> 1.2850877192982457
+Processing test case: RCmax/JobsCorre/511.txt
+2683.0 vs 2602.0 -> 1.031129900076864
+Processing test case: RCmax/JobsCorre/512.txt
+2724.0 vs 2643.0 -> 1.0306469920544836
+Processing test case: RCmax/JobsCorre/513.txt
+2766.0 vs 2680.0 -> 1.032089552238806
+Processing test case: RCmax/JobsCorre/514.txt
+2815.0 vs 2753.0 -> 1.0225208863058481
+Processing test case: RCmax/JobsCorre/515.txt
+2645.0 vs 2597.0 -> 1.018482864844051
+Processing test case: RCmax/JobsCorre/516.txt
+2649.0 vs 2612.0 -> 1.0141653905053598
+Processing test case: RCmax/JobsCorre/517.txt
+2570.0 vs 2522.0 -> 1.0190325138778746
+Processing test case: RCmax/JobsCorre/518.txt
+2715.0 vs 2639.0 -> 1.028798787419477
+Processing test case: RCmax/JobsCorre/519.txt
+2715.0 vs 2711.0 -> 1.0014754703061601
+Processing test case: RCmax/JobsCorre/520.txt
+2720.0 vs 2631.0 -> 1.0338274420372482
+Processing test case: RCmax/JobsCorre/521.txt
+1341.0 vs 1274.0 -> 1.0525902668759812
+Processing test case: RCmax/JobsCorre/522.txt
+1349.0 vs 1296.0 -> 1.040895061728395
+Processing test case: RCmax/JobsCorre/523.txt
+1390.0 vs 1323.0 -> 1.0506424792139077
+Processing test case: RCmax/JobsCorre/524.txt
+1424.0 vs 1358.0 -> 1.04860088365243
+Processing test case: RCmax/JobsCorre/525.txt
+1400.0 vs 1330.0 -> 1.0526315789473684
+Processing test case: RCmax/JobsCorre/526.txt
+1362.0 vs 1286.0 -> 1.0590979782270606
+Processing test case: RCmax/JobsCorre/527.txt
+1407.0 vs 1336.0 -> 1.0531437125748504
+Processing test case: RCmax/JobsCorre/528.txt
+1363.0 vs 1293.0 -> 1.054137664346481
+Processing test case: RCmax/JobsCorre/529.txt
+1350.0 vs 1278.0 -> 1.056338028169014
+Processing test case: RCmax/JobsCorre/530.txt
+1358.0 vs 1284.0 -> 1.057632398753894
+Processing test case: RCmax/JobsCorre/531.txt
+960.0 vs 889.0 -> 1.079865016872891
+Processing test case: RCmax/JobsCorre/532.txt
+926.0 vs 838.0 -> 1.1050119331742243
+Processing test case: RCmax/JobsCorre/533.txt
+924.0 vs 867.0 -> 1.065743944636678
+Processing test case: RCmax/JobsCorre/534.txt
+938.0 vs 860.0 -> 1.0906976744186045
+Processing test case: RCmax/JobsCorre/535.txt
+979.0 vs 898.0 -> 1.0902004454342984
+Processing test case: RCmax/JobsCorre/536.txt
+945.0 vs 885.0 -> 1.0677966101694916
+Processing test case: RCmax/JobsCorre/537.txt
+928.0 vs 844.0 -> 1.099526066350711
+Processing test case: RCmax/JobsCorre/538.txt
+898.0 vs 839.0 -> 1.0703218116805722
+Processing test case: RCmax/JobsCorre/539.txt
+932.0 vs 865.0 -> 1.0774566473988438
+Processing test case: RCmax/JobsCorre/540.txt
+939.0 vs 869.0 -> 1.0805523590333717
+Processing test case: RCmax/JobsCorre/541.txt
+720.0 vs 661.0 -> 1.0892586989409985
+Processing test case: RCmax/JobsCorre/542.txt
+722.0 vs 660.0 -> 1.093939393939394
+Processing test case: RCmax/JobsCorre/543.txt
+716.0 vs 643.0 -> 1.1135303265940901
+Processing test case: RCmax/JobsCorre/544.txt
+727.0 vs 655.0 -> 1.1099236641221375
+Processing test case: RCmax/JobsCorre/545.txt
+754.0 vs 679.0 -> 1.1104565537555229
+Processing test case: RCmax/JobsCorre/546.txt
+717.0 vs 652.0 -> 1.0996932515337423
+Processing test case: RCmax/JobsCorre/547.txt
+746.0 vs 670.0 -> 1.1134328358208956
+Processing test case: RCmax/JobsCorre/548.txt
+719.0 vs 641.0 -> 1.1216848673946958
+Processing test case: RCmax/JobsCorre/549.txt
+705.0 vs 629.0 -> 1.1208267090620032
+Processing test case: RCmax/JobsCorre/550.txt
+686.0 vs 623.0 -> 1.101123595505618
+Processing test case: RCmax/JobsCorre/551.txt
+590.0 vs 511.0 -> 1.1545988258317026
+Processing test case: RCmax/JobsCorre/552.txt
+598.0 vs 533.0 -> 1.1219512195121952
+Processing test case: RCmax/JobsCorre/553.txt
+616.0 vs 527.0 -> 1.1688804554079697
+Processing test case: RCmax/JobsCorre/554.txt
+608.0 vs 520.0 -> 1.1692307692307693
+Processing test case: RCmax/JobsCorre/555.txt
+601.0 vs 540.0 -> 1.112962962962963
+Processing test case: RCmax/JobsCorre/556.txt
+594.0 vs 528.0 -> 1.125
+Processing test case: RCmax/JobsCorre/557.txt
+588.0 vs 518.0 -> 1.135135135135135
+Processing test case: RCmax/JobsCorre/558.txt
+613.0 vs 536.0 -> 1.1436567164179106
+Processing test case: RCmax/JobsCorre/559.txt
+611.0 vs 532.0 -> 1.1484962406015038
+Processing test case: RCmax/JobsCorre/560.txt
+587.0 vs 521.0 -> 1.126679462571977
+Processing test case: RCmax/MaqCorre/1011.txt
+2564.0 vs 2546.0 -> 1.007069913589945
+Processing test case: RCmax/MaqCorre/1012.txt
+3578.0 vs 3537.0 -> 1.011591744416172
+Processing test case: RCmax/MaqCorre/1013.txt
+2085.0 vs 2040.0 -> 1.0220588235294117
+Processing test case: RCmax/MaqCorre/1014.txt
+4386.0 vs 4313.0 -> 1.0169255738465106
+Processing test case: RCmax/MaqCorre/1015.txt
+2730.0 vs 2649.0 -> 1.030577576443941
+Processing test case: RCmax/MaqCorre/1016.txt
+6301.0 vs 6286.0 -> 1.0023862551702196
+Processing test case: RCmax/MaqCorre/1017.txt
+3651.0 vs 3582.0 -> 1.0192629815745393
+Processing test case: RCmax/MaqCorre/1018.txt
+2825.0 vs 2822.0 -> 1.0010630758327428
+Processing test case: RCmax/MaqCorre/1019.txt
+3048.0 vs 3037.0 -> 1.0036219953901877
+Processing test case: RCmax/MaqCorre/1020.txt
+5717.0 vs 5672.0 -> 1.0079337094499294
+Processing test case: RCmax/MaqCorre/1021.txt
+1072.0 vs 1045.0 -> 1.0258373205741627
+Processing test case: RCmax/MaqCorre/1022.txt
+1048.0 vs 985.0 -> 1.063959390862944
+Processing test case: RCmax/MaqCorre/1023.txt
+2104.0 vs 2044.0 -> 1.0293542074363993
+Processing test case: RCmax/MaqCorre/1024.txt
+1084.0 vs 1051.0 -> 1.0313986679352998
+Processing test case: RCmax/MaqCorre/1025.txt
+1729.0 vs 1682.0 -> 1.0279429250891796
+Processing test case: RCmax/MaqCorre/1026.txt
+1329.0 vs 1274.0 -> 1.043171114599686
+Processing test case: RCmax/MaqCorre/1027.txt
+871.0 vs 858.0 -> 1.0151515151515151
+Processing test case: RCmax/MaqCorre/1028.txt
+1265.0 vs 1237.0 -> 1.0226354082457558
+Processing test case: RCmax/MaqCorre/1029.txt
+2634.0 vs 2582.0 -> 1.0201394268009296
+Processing test case: RCmax/MaqCorre/1030.txt
+1265.0 vs 1235.0 -> 1.0242914979757085
+Processing test case: RCmax/MaqCorre/1031.txt
+1318.0 vs 1265.0 -> 1.041897233201581
+Processing test case: RCmax/MaqCorre/1032.txt
+984.0 vs 901.0 -> 1.0921198668146503
+Processing test case: RCmax/MaqCorre/1033.txt
+804.0 vs 752.0 -> 1.0691489361702127
+Processing test case: RCmax/MaqCorre/1034.txt
+1249.0 vs 1197.0 -> 1.0434419381787803
+Processing test case: RCmax/MaqCorre/1035.txt
+1062.0 vs 1004.0 -> 1.0577689243027888
+Processing test case: RCmax/MaqCorre/1036.txt
+794.0 vs 721.0 -> 1.10124826629681
+Processing test case: RCmax/MaqCorre/1037.txt
+705.0 vs 674.0 -> 1.045994065281899
+Processing test case: RCmax/MaqCorre/1038.txt
+1024.0 vs 952.0 -> 1.0756302521008403
+Processing test case: RCmax/MaqCorre/1039.txt
+580.0 vs 530.0 -> 1.0943396226415094
+Processing test case: RCmax/MaqCorre/1040.txt
+854.0 vs 786.0 -> 1.0865139949109415
+Processing test case: RCmax/MaqCorre/1041.txt
+820.0 vs 760.0 -> 1.0789473684210527
+Processing test case: RCmax/MaqCorre/1042.txt
+863.0 vs 830.0 -> 1.0397590361445783
+Processing test case: RCmax/MaqCorre/1043.txt
+944.0 vs 880.0 -> 1.0727272727272728
+Processing test case: RCmax/MaqCorre/1044.txt
+682.0 vs 616.0 -> 1.1071428571428572
+Processing test case: RCmax/MaqCorre/1045.txt
+702.0 vs 660.0 -> 1.0636363636363637
+Processing test case: RCmax/MaqCorre/1046.txt
+612.0 vs 561.0 -> 1.0909090909090908
+Processing test case: RCmax/MaqCorre/1047.txt
+917.0 vs 855.0 -> 1.0725146198830409
+Processing test case: RCmax/MaqCorre/1048.txt
+647.0 vs 595.0 -> 1.0873949579831932
+Processing test case: RCmax/MaqCorre/1049.txt
+1016.0 vs 945.0 -> 1.0751322751322752
+Processing test case: RCmax/MaqCorre/1050.txt
+647.0 vs 580.0 -> 1.1155172413793104
+Processing test case: RCmax/MaqCorre/1051.txt
+912.0 vs 840.0 -> 1.0857142857142856
+Processing test case: RCmax/MaqCorre/1052.txt
+592.0 vs 536.0 -> 1.1044776119402986
+Processing test case: RCmax/MaqCorre/1053.txt
+568.0 vs 514.0 -> 1.105058365758755
+Processing test case: RCmax/MaqCorre/1054.txt
+768.0 vs 719.0 -> 1.0681502086230876
+Processing test case: RCmax/MaqCorre/1055.txt
+463.0 vs 385.0 -> 1.2025974025974027
+Processing test case: RCmax/MaqCorre/1056.txt
+454.0 vs 393.0 -> 1.1552162849872774
+Processing test case: RCmax/MaqCorre/1057.txt
+452.0 vs 380.0 -> 1.1894736842105262
+Processing test case: RCmax/MaqCorre/1058.txt
+527.0 vs 470.0 -> 1.1212765957446809
+Processing test case: RCmax/MaqCorre/1059.txt
+590.0 vs 507.0 -> 1.1637080867850098
+Processing test case: RCmax/MaqCorre/1060.txt
+617.0 vs 570.0 -> 1.0824561403508772
+Processing test case: RCmax/MaqCorre/111.txt
+458.0 vs 443.0 -> 1.0338600451467268
+Processing test case: RCmax/MaqCorre/112.txt
+476.0 vs 425.0 -> 1.12
+Processing test case: RCmax/MaqCorre/113.txt
+325.0 vs 300.0 -> 1.0833333333333333
+Processing test case: RCmax/MaqCorre/114.txt
+363.0 vs 356.0 -> 1.0196629213483146
+Processing test case: RCmax/MaqCorre/115.txt
+364.0 vs 326.0 -> 1.116564417177914
+Processing test case: RCmax/MaqCorre/116.txt
+183.0 vs 164.0 -> 1.1158536585365855
+Processing test case: RCmax/MaqCorre/117.txt
+583.0 vs 514.0 -> 1.1342412451361867
+Processing test case: RCmax/MaqCorre/118.txt
+279.0 vs 266.0 -> 1.0488721804511278
+Processing test case: RCmax/MaqCorre/119.txt
+403.0 vs 359.0 -> 1.1225626740947074
+Processing test case: RCmax/MaqCorre/120.txt
+387.0 vs 314.0 -> 1.232484076433121
+Processing test case: RCmax/MaqCorre/121.txt
+183.0 vs 106.0 -> 1.7264150943396226
+Processing test case: RCmax/MaqCorre/122.txt
+185.0 vs 143.0 -> 1.2937062937062938
+Processing test case: RCmax/MaqCorre/123.txt
+154.0 vs 120.0 -> 1.2833333333333334
+Processing test case: RCmax/MaqCorre/124.txt
+119.0 vs 85.0 -> 1.4
+Processing test case: RCmax/MaqCorre/125.txt
+229.0 vs 176.0 -> 1.3011363636363635
+Processing test case: RCmax/MaqCorre/126.txt
+170.0 vs 102.0 -> 1.6666666666666667
+Processing test case: RCmax/MaqCorre/127.txt
+294.0 vs 221.0 -> 1.330316742081448
+Processing test case: RCmax/MaqCorre/128.txt
+197.0 vs 157.0 -> 1.2547770700636942
+Processing test case: RCmax/MaqCorre/129.txt
+150.0 vs 122.0 -> 1.2295081967213115
+Processing test case: RCmax/MaqCorre/130.txt
+276.0 vs 208.0 -> 1.3269230769230769
+Processing test case: RCmax/MaqCorre/131.txt
+136.0 vs 78.0 -> 1.7435897435897436
+Processing test case: RCmax/MaqCorre/132.txt
+160.0 vs 98.0 -> 1.6326530612244898
+Processing test case: RCmax/MaqCorre/133.txt
+177.0 vs 101.0 -> 1.7524752475247525
+Processing test case: RCmax/MaqCorre/134.txt
+186.0 vs 132.0 -> 1.4090909090909092
+Processing test case: RCmax/MaqCorre/135.txt
+135.0 vs 76.0 -> 1.7763157894736843
+Processing test case: RCmax/MaqCorre/136.txt
+169.0 vs 132.0 -> 1.2803030303030303
+Processing test case: RCmax/MaqCorre/137.txt
+199.0 vs 142.0 -> 1.4014084507042253
+Processing test case: RCmax/MaqCorre/138.txt
+183.0 vs 122.0 -> 1.5
+Processing test case: RCmax/MaqCorre/139.txt
+155.0 vs 112.0 -> 1.3839285714285714
+Processing test case: RCmax/MaqCorre/140.txt
+187.0 vs 122.0 -> 1.5327868852459017
+Processing test case: RCmax/MaqCorre/141.txt
+108.0 vs 67.0 -> 1.6119402985074627
+Processing test case: RCmax/MaqCorre/142.txt
+127.0 vs 73.0 -> 1.7397260273972603
+Processing test case: RCmax/MaqCorre/143.txt
+89.0 vs 75.0 -> 1.1866666666666668
+Processing test case: RCmax/MaqCorre/144.txt
+192.0 vs 111.0 -> 1.7297297297297298
+Processing test case: RCmax/MaqCorre/145.txt
+170.0 vs 95.0 -> 1.7894736842105263
+Processing test case: RCmax/MaqCorre/146.txt
+158.0 vs 88.0 -> 1.7954545454545454
+Processing test case: RCmax/MaqCorre/147.txt
+106.0 vs 73.0 -> 1.452054794520548
+Processing test case: RCmax/MaqCorre/148.txt
+116.0 vs 72.0 -> 1.6111111111111112
+Processing test case: RCmax/MaqCorre/149.txt
+171.0 vs 98.0 -> 1.7448979591836735
+Processing test case: RCmax/MaqCorre/150.txt
+149.0 vs 87.0 -> 1.7126436781609196
+Processing test case: RCmax/MaqCorre/151.txt
+140.0 vs 77.0 -> 1.8181818181818181
+Processing test case: RCmax/MaqCorre/152.txt
+120.0 vs 66.0 -> 1.8181818181818181
+Processing test case: RCmax/MaqCorre/153.txt
+111.0 vs 62.0 -> 1.7903225806451613
+Processing test case: RCmax/MaqCorre/154.txt
+143.0 vs 79.0 -> 1.8101265822784811
+Processing test case: RCmax/MaqCorre/155.txt
+126.0 vs 74.0 -> 1.7027027027027026
+Processing test case: RCmax/MaqCorre/156.txt
+119.0 vs 66.0 -> 1.803030303030303
+Processing test case: RCmax/MaqCorre/157.txt
+127.0 vs 74.0 -> 1.7162162162162162
+Processing test case: RCmax/MaqCorre/158.txt
+134.0 vs 78.0 -> 1.7179487179487178
+Processing test case: RCmax/MaqCorre/159.txt
+91.0 vs 69.0 -> 1.318840579710145
+Processing test case: RCmax/MaqCorre/160.txt
+103.0 vs 58.0 -> 1.7758620689655173
+Processing test case: RCmax/MaqCorre/211.txt
+517.0 vs 515.0 -> 1.003883495145631
+Processing test case: RCmax/MaqCorre/212.txt
+519.0 vs 473.0 -> 1.0972515856236786
+Processing test case: RCmax/MaqCorre/213.txt
+863.0 vs 822.0 -> 1.0498783454987834
+Processing test case: RCmax/MaqCorre/214.txt
+804.0 vs 785.0 -> 1.024203821656051
+Processing test case: RCmax/MaqCorre/215.txt
+594.0 vs 587.0 -> 1.0119250425894377
+Processing test case: RCmax/MaqCorre/216.txt
+1151.0 vs 1138.0 -> 1.0114235500878734
+Processing test case: RCmax/MaqCorre/217.txt
+655.0 vs 578.0 -> 1.1332179930795847
+Processing test case: RCmax/MaqCorre/218.txt
+875.0 vs 830.0 -> 1.0542168674698795
+Processing test case: RCmax/MaqCorre/219.txt
+561.0 vs 535.0 -> 1.0485981308411214
+Processing test case: RCmax/MaqCorre/220.txt
+684.0 vs 654.0 -> 1.0458715596330275
+Processing test case: RCmax/MaqCorre/221.txt
+489.0 vs 422.0 -> 1.1587677725118484
+Processing test case: RCmax/MaqCorre/222.txt
+493.0 vs 428.0 -> 1.1518691588785046
+Processing test case: RCmax/MaqCorre/223.txt
+242.0 vs 178.0 -> 1.3595505617977528
+Processing test case: RCmax/MaqCorre/224.txt
+411.0 vs 378.0 -> 1.0873015873015872
+Processing test case: RCmax/MaqCorre/225.txt
+400.0 vs 352.0 -> 1.1363636363636365
+Processing test case: RCmax/MaqCorre/226.txt
+405.0 vs 355.0 -> 1.1408450704225352
+Processing test case: RCmax/MaqCorre/227.txt
+347.0 vs 305.0 -> 1.137704918032787
+Processing test case: RCmax/MaqCorre/228.txt
+430.0 vs 376.0 -> 1.1436170212765957
+Processing test case: RCmax/MaqCorre/229.txt
+417.0 vs 387.0 -> 1.0775193798449612
+Processing test case: RCmax/MaqCorre/230.txt
+403.0 vs 363.0 -> 1.1101928374655647
+Processing test case: RCmax/MaqCorre/231.txt
+296.0 vs 240.0 -> 1.2333333333333334
+Processing test case: RCmax/MaqCorre/232.txt
+221.0 vs 160.0 -> 1.38125
+Processing test case: RCmax/MaqCorre/233.txt
+263.0 vs 213.0 -> 1.2347417840375587
+Processing test case: RCmax/MaqCorre/234.txt
+252.0 vs 209.0 -> 1.2057416267942584
+Processing test case: RCmax/MaqCorre/235.txt
+307.0 vs 279.0 -> 1.1003584229390682
+Processing test case: RCmax/MaqCorre/236.txt
+277.0 vs 195.0 -> 1.4205128205128206
+Processing test case: RCmax/MaqCorre/237.txt
+396.0 vs 348.0 -> 1.1379310344827587
+Processing test case: RCmax/MaqCorre/238.txt
+221.0 vs 159.0 -> 1.389937106918239
+Processing test case: RCmax/MaqCorre/239.txt
+209.0 vs 160.0 -> 1.30625
+Processing test case: RCmax/MaqCorre/240.txt
+308.0 vs 246.0 -> 1.2520325203252032
+Processing test case: RCmax/MaqCorre/241.txt
+191.0 vs 129.0 -> 1.4806201550387597
+Processing test case: RCmax/MaqCorre/242.txt
+243.0 vs 176.0 -> 1.3806818181818181
+Processing test case: RCmax/MaqCorre/243.txt
+207.0 vs 150.0 -> 1.38
+Processing test case: RCmax/MaqCorre/244.txt
+168.0 vs 125.0 -> 1.344
+Processing test case: RCmax/MaqCorre/245.txt
+192.0 vs 158.0 -> 1.2151898734177216
+Processing test case: RCmax/MaqCorre/246.txt
+203.0 vs 170.0 -> 1.1941176470588235
+Processing test case: RCmax/MaqCorre/247.txt
+238.0 vs 199.0 -> 1.1959798994974875
+Processing test case: RCmax/MaqCorre/248.txt
+202.0 vs 141.0 -> 1.4326241134751774
+Processing test case: RCmax/MaqCorre/249.txt
+196.0 vs 153.0 -> 1.2810457516339868
+Processing test case: RCmax/MaqCorre/250.txt
+195.0 vs 157.0 -> 1.2420382165605095
+Processing test case: RCmax/MaqCorre/251.txt
+195.0 vs 148.0 -> 1.3175675675675675
+Processing test case: RCmax/MaqCorre/252.txt
+197.0 vs 124.0 -> 1.5887096774193548
+Processing test case: RCmax/MaqCorre/253.txt
+195.0 vs 164.0 -> 1.1890243902439024
+Processing test case: RCmax/MaqCorre/254.txt
+139.0 vs 75.0 -> 1.8533333333333333
+Processing test case: RCmax/MaqCorre/255.txt
+193.0 vs 124.0 -> 1.5564516129032258
+Processing test case: RCmax/MaqCorre/256.txt
+166.0 vs 119.0 -> 1.3949579831932772
+Processing test case: RCmax/MaqCorre/257.txt
+201.0 vs 120.0 -> 1.675
+Processing test case: RCmax/MaqCorre/258.txt
+204.0 vs 116.0 -> 1.7586206896551724
+Processing test case: RCmax/MaqCorre/259.txt
+178.0 vs 144.0 -> 1.2361111111111112
+Processing test case: RCmax/MaqCorre/260.txt
+191.0 vs 102.0 -> 1.8725490196078431
+Processing test case: RCmax/MaqCorre/511.txt
+1314.0 vs 1279.0 -> 1.0273651290070367
+Processing test case: RCmax/MaqCorre/512.txt
+2639.0 vs 2610.0 -> 1.011111111111111
+Processing test case: RCmax/MaqCorre/513.txt
+1982.0 vs 1912.0 -> 1.036610878661088
+Processing test case: RCmax/MaqCorre/514.txt
+1281.0 vs 1255.0 -> 1.0207171314741035
+Processing test case: RCmax/MaqCorre/515.txt
+2329.0 vs 2298.0 -> 1.0134899912967799
+Processing test case: RCmax/MaqCorre/516.txt
+2124.0 vs 2116.0 -> 1.003780718336484
+Processing test case: RCmax/MaqCorre/517.txt
+2422.0 vs 2374.0 -> 1.0202190395956192
+Processing test case: RCmax/MaqCorre/518.txt
+2627.0 vs 2603.0 -> 1.0092201306185171
+Processing test case: RCmax/MaqCorre/519.txt
+1185.0 vs 1146.0 -> 1.0340314136125655
+Processing test case: RCmax/MaqCorre/520.txt
+1262.0 vs 1248.0 -> 1.0112179487179487
+Processing test case: RCmax/MaqCorre/521.txt
+700.0 vs 661.0 -> 1.059001512859304
+Processing test case: RCmax/MaqCorre/522.txt
+811.0 vs 734.0 -> 1.1049046321525886
+Processing test case: RCmax/MaqCorre/523.txt
+875.0 vs 829.0 -> 1.0554885404101326
+Processing test case: RCmax/MaqCorre/524.txt
+658.0 vs 611.0 -> 1.0769230769230769
+Processing test case: RCmax/MaqCorre/525.txt
+1217.0 vs 1140.0 -> 1.067543859649123
+Processing test case: RCmax/MaqCorre/526.txt
+1292.0 vs 1275.0 -> 1.0133333333333334
+Processing test case: RCmax/MaqCorre/527.txt
+957.0 vs 882.0 -> 1.0850340136054422
+Processing test case: RCmax/MaqCorre/528.txt
+1170.0 vs 1150.0 -> 1.017391304347826
+Processing test case: RCmax/MaqCorre/529.txt
+506.0 vs 454.0 -> 1.1145374449339207
+Processing test case: RCmax/MaqCorre/530.txt
+495.0 vs 436.0 -> 1.135321100917431
+Processing test case: RCmax/MaqCorre/531.txt
+464.0 vs 418.0 -> 1.1100478468899522
+Processing test case: RCmax/MaqCorre/532.txt
+601.0 vs 534.0 -> 1.1254681647940075
+Processing test case: RCmax/MaqCorre/533.txt
+525.0 vs 486.0 -> 1.0802469135802468
+Processing test case: RCmax/MaqCorre/534.txt
+471.0 vs 429.0 -> 1.097902097902098
+Processing test case: RCmax/MaqCorre/535.txt
+500.0 vs 434.0 -> 1.152073732718894
+Processing test case: RCmax/MaqCorre/536.txt
+391.0 vs 366.0 -> 1.0683060109289617
+Processing test case: RCmax/MaqCorre/537.txt
+583.0 vs 528.0 -> 1.1041666666666667
+Processing test case: RCmax/MaqCorre/538.txt
+697.0 vs 642.0 -> 1.0856697819314642
+Processing test case: RCmax/MaqCorre/539.txt
+516.0 vs 462.0 -> 1.1168831168831168
+Processing test case: RCmax/MaqCorre/540.txt
+701.0 vs 638.0 -> 1.098746081504702
+Processing test case: RCmax/MaqCorre/541.txt
+372.0 vs 308.0 -> 1.2077922077922079
+Processing test case: RCmax/MaqCorre/542.txt
+368.0 vs 316.0 -> 1.1645569620253164
+Processing test case: RCmax/MaqCorre/543.txt
+444.0 vs 370.0 -> 1.2
+Processing test case: RCmax/MaqCorre/544.txt
+368.0 vs 312.0 -> 1.1794871794871795
+Processing test case: RCmax/MaqCorre/545.txt
+376.0 vs 306.0 -> 1.2287581699346406
+Processing test case: RCmax/MaqCorre/546.txt
+451.0 vs 394.0 -> 1.1446700507614214
+Processing test case: RCmax/MaqCorre/547.txt
+503.0 vs 424.0 -> 1.1863207547169812
+Processing test case: RCmax/MaqCorre/548.txt
+396.0 vs 325.0 -> 1.2184615384615385
+Processing test case: RCmax/MaqCorre/549.txt
+526.0 vs 460.0 -> 1.1434782608695653
+Processing test case: RCmax/MaqCorre/550.txt
+410.0 vs 355.0 -> 1.1549295774647887
+Processing test case: RCmax/MaqCorre/551.txt
+246.0 vs 180.0 -> 1.3666666666666667
+Processing test case: RCmax/MaqCorre/552.txt
+348.0 vs 294.0 -> 1.183673469387755
+Processing test case: RCmax/MaqCorre/553.txt
+356.0 vs 281.0 -> 1.2669039145907472
+Processing test case: RCmax/MaqCorre/554.txt
+302.0 vs 245.0 -> 1.2326530612244897
+Processing test case: RCmax/MaqCorre/555.txt
+389.0 vs 320.0 -> 1.215625
+Processing test case: RCmax/MaqCorre/556.txt
+227.0 vs 192.0 -> 1.1822916666666667
+Processing test case: RCmax/MaqCorre/557.txt
+396.0 vs 347.0 -> 1.1412103746397695
+Processing test case: RCmax/MaqCorre/558.txt
+368.0 vs 295.0 -> 1.2474576271186442
+Processing test case: RCmax/MaqCorre/559.txt
+294.0 vs 237.0 -> 1.240506329113924
+Processing test case: RCmax/MaqCorre/560.txt
+308.0 vs 252.0 -> 1.2222222222222223

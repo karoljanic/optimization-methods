@@ -1,0 +1,46 @@
+{
+    "test_series": [
+        {
+            "data_directory": "RCmax/instancias1a100",
+            "data_filename": "{index}.txt",
+            "solution_directory": "RCmax/TXT Cplex 2 horas log U(1,100)",
+            "solution_filename": "{index}CPLEX.txt"
+        },
+        {
+            "data_directory": "RCmax/instanciasde10a100",
+            "data_filename": "{index}.txt",
+            "solution_directory": "RCmax/TXT CPLEX 2 horas log U(10,100)",
+            "solution_filename": "{index}CPLEX.txt"
+        },
+        {
+            "data_directory": "RCmax/instancias100a120",
+            "data_filename": "{index}.txt",
+            "solution_directory": "RCmax/TXT Cplex 2 horas log U(100,120)",
+            "solution_filename": "{index}CPLEX.txt"
+        },
+        {
+            "data_directory": "RCmax/instancias100a200",
+            "data_filename": "{index}.txt",
+            "solution_directory": "RCmax/TXT Cplex 2 horas log U(100,200)",
+            "solution_filename": "{index}CPLEX.txt"
+        },
+        {
+            "data_directory": "RCmax/Instanciasde1000a1100",
+            "data_filename": "{index}.txt",
+            "solution_directory": "RCmax/TXT Cplex 2 horas log U(1000,1100)",
+            "solution_filename": "{index}CPLEX.txt"
+        },
+        {
+            "data_directory": "RCmax/JobsCorre",
+            "data_filename": "{index}.txt",
+            "solution_directory": "RCmax/TXT Cplex 2 horas log Jobs Corre",
+            "solution_filename": "{index}CPLEX.txt"
+        },
+        {
+            "data_directory": "RCmax/MaqCorre",
+            "data_filename": "{index}.txt",
+            "solution_directory": "RCmax/TXT Cplex 2 horas log Maq Corre",
+            "solution_filename": "{index}CPLEX.txt"
+        }
+    ]
+}
