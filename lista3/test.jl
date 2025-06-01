@@ -45,7 +45,7 @@ end
 
 function plot_results(x::Vector{String}, y1::Vector{Float64}, y2::Vector{Float64})
     ratio = y1 ./ y2
-
+    
     plot(x, ratio, 
         seriestype = :scatter,
         title="Współczynnik aproksymacji",
@@ -80,9 +80,9 @@ end
 #     push!(optimal, optimal_makespan)
 # end
 
-# @save "results.jld2" testcases approx optimal
+# @save "results2.jld2" testcases approx optimal
 
-@load "results.jld2" testcases approx optimal
+@load "results2.jld2" testcases approx optimal
 
 testcase_names = [replace(replace(testcase[1], "RCmax/" => ""), ".txt" => "")  for testcase in testcases]
 plot_results(testcase_names, approx, optimal)

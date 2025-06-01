@@ -35,7 +35,7 @@ end
 
 function create_lp_model(jobs_num::Int, machines_num::Int, processing_times::Matrix{Int}, T::Int)
     model = Model(HiGHS.Optimizer)
-    set_silent(model)
+    # set_silent(model)
 
     S_T_complement = [(i,j) for i in 1:jobs_num, j in 1:machines_num if processing_times[i, j] > T]
     S_T_i = [[j for j in 1:machines_num if processing_times[i, j] <= T] for i in 1:jobs_num]
