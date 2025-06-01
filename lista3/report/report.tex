@@ -16,6 +16,8 @@
 \usepackage{amsmath}
 \usepackage{amsfonts}
 
+\pgfplotsset{compat=1.18}
+
 \renewcommand\maketitlehooka{\null\mbox{}\vfill}
 \renewcommand\maketitlehookd{\vfill\null}
 
@@ -73,7 +75,7 @@ Otrzymane wyniki porównano z najlepszymi znanymi rozwiązaniami dla tych instan
 Na wykresie \ref{fig:results} przedstawiono ratio otrzymanych rozwiązań do najlepszych znanych rozwiązań dla każdej instancji problemu.
 Łatwo zauważyć, że dla każdej instancji otrzymane rozwiązanie jest co najwyżej dwukrotnie gorsze od najlepszego znanego rozwiązania, co wskazuje na poprawność algorytmu i jego 2-aproksymacyjność.
 
-\begin{figure}[h]
+\begin{figure}[ht]
     \centering
     \includegraphics[width=0.8\textwidth]{../approximation_ratio_plot.png}
     \caption{Wyniki eksperymentów - ratio otrzymanych rozwiązań do najlepszych znanych rozwiązań}
