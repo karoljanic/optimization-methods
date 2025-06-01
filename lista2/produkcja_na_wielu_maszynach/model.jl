@@ -68,7 +68,7 @@ end
 for m in 1:liczba_maszyn
     for z1 in zadania
         for z2 in zadania
-            if z1 != z2
+            if z1 < z2
                 @constraint(model, x[z1] + czasy_zadan[z1] <= x[z2] + M * (1 - y[m, z1, z2]) + M * (2 - a[m, z1] - a[m, z2]))
                 @constraint(model, x[z2] + czasy_zadan[z2] <= x[z1] + M * y[m, z1, z2] + M * (2 - a[m, z1] - a[m, z2]))
             end

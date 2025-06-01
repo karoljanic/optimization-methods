@@ -81,8 +81,9 @@ model = Model(GLPK.Optimizer)
 # Zmienne decyzyjne - liczba desek dla każdego rodzaju cięcia
 @variable(model, x[1:liczba_mozliwych_ciec] >= 0, Int)
 
-# Funkcja celu - minimalizacja liczby odpadów
-@objective(model, Min, sum(odpady[i] * x[i] for i in 1:liczba_mozliwych_ciec))
+# Funkcja celu - minimalizacja liczby odpadów - suma odpadów dla każdego cięcia pomnożona przez liczbę desek + liczba nadwyżek
+@objective(model, Min, sum(odpady[i] * x[i] for i in 1:liczba_mozliwych_ciec) + 
+    sum(szerokosc * (sum(mozliwe_ciecia[i][szerokosc] * x[i] for i in 1:liczba_mozliwych_ciec) - zadane_ilosci[szerokosc]) for szerokosc in zadane_szerokosci))
 
 # Ograniczenia - zapotrzebowanie na deski
 for szerokosc in zadane_szerokosci

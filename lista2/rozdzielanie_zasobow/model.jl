@@ -3,7 +3,7 @@
 
 using JSON
 using JuMP
-using GLPK
+using HiGHS
 using Plots
 
 
@@ -16,56 +16,97 @@ else
 end
 
 dane = JSON.parsefile(plik_danych)
-typy_zasobow::Vector{Int} = [z["typ"] for z in dane["zasoby"]]
+zasoby::Vector{Int} = [z["typ"] for z in dane["zasoby"]]
 limity_zasobow::Dict{Int, Int} = Dict(z["typ"] => z["limit"] for z in dane["zasoby"])
 zadania::Vector{Int} = [z["numer"] for z in dane["zadania"]]
 czasy_zadan::Dict{Int, Int} = Dict(z["numer"] => z["czas"] for z in dane["zadania"])
+zapotrzebowania_zadan::Dict{Int, Dict{Int, Int}} = Dict(z["numer"] => Dict(zs["zasob"] => zs["ilosc"] for zs in z["zapotrzebowanie"]) for z in dane["zadania"])
 poprzednicy_zadan::Dict{Int, Vector{Int}} = Dict(z["numer"] => z["poprzednicy"] for z in dane["zadania"])
 
 liczba_zadan::Int = length(zadania)
-liczba_zasobow::Int = length(typy_zasobow)
+liczba_zasobow::Int = length(zasoby)
 
-println("Typy zasobów: ", typy_zasobow)
+println("Typy zasobów: ", zasoby)
 println("Limity zasobów: ", limity_zasobow)
 println("Zadania: ", zadania)
 println("Czasy zadań: ", czasy_zadan)
+println("Zapotrzebowanie zadań: ", zapotrzebowania_zadan)
 println("Poprzednicy zadań: ", poprzednicy_zadan)
 println("Liczba zadań: ", liczba_zadan)
 println("Liczba zasobów: ", liczba_zasobow)
 
 M::Int = sum(values(czasy_zadan)) + 1
+println("M: ", M)
 
-Events = 1:2*liczba_zadan
-println("Events: ", Events)
+eventy = 1:liczba_zadan
 
-# Modelowanie problemu
-model = Model(GLPK.Optimizer)
+#model = Model(GLPK.Optimizer)
+model = Model(HiGHS.Optimizer)
+set_optimizer_attribute(model, "mip_feasibility_tolerance", 1e-10)
 
-# Zmienne decyzyjne - czasy eventów
-@variable(model, t[Events] >= 0)
+# Czas rozpoczęcia danego zadania
+@variable(model, x[1:liczba_zadan]>=0)
 
-# Zmienne decyzyjne - eventy będące rozpoczęciem zadań
-@variable(model, x[zadania, Events], Bin)
+# y[i,j] = 1, gdy i jest aktywne w momencie x[j]
+@variable(model, y[1:liczba_zadan,1:liczba_zadan], Bin)
 
-# Zmienne decyzyjne - eventy będące zakończeniem zadań
-@variable(model, y[zadania, Events], Bin)
+# Pomocnicze zmienne
+@variable(model, a[1:liczba_zadan,1:liczba_zadan], Bin)
+@variable(model, b[1:liczba_zadan,1:liczba_zadan], Bin)
 
-# Zmienne decyzyjne - aktywność zadań w trakcie eventów
-@variable(model, z[zadania, Events], Bin)
+@variable(model, c)
 
-# Funkcja celu - minimalizacja maksymalnego czasu zakończenia wszystkich zadań
-@objective(model, Min, t[2*liczba_zadan])
+@objective(model, Min, c)
+@constraint(model, [i in 1:liczba_zadan], x[i] + czasy_zadan[i] <= c)
 
-# Ograniczenie - każde zadanie musi być przypisane do jednego eventu rozpoczęcia i zakończenia
-for z in zadania
-    @constraint(model, sum(x[z, e] for e in Events) == 1)
-    @constraint(model, sum(y[z, e] for e in Events) == 1)
+# Wszystkie aktywne w danym momencie nie zużywają za dużo zasobów
+for z in zasoby
+    @constraint(model,
+    [i in 1:liczba_zadan],
+    limity_zasobow[z] >= sum(zapotrzebowania_zadan[j][z] * y[j,i] for j in 1:liczba_zadan)
+)
 end
 
-# Ograniczenie - czas nie maleje
-for e in 1:(2*liczba_zadan-1)
-    @constraint(model, t[e] <= t[e+1])
-end
+@constraint(model,
+    [i in 1:liczba_zadan,j in 1:liczba_zadan],
+    a[i,j] * M >= x[j] - x[i] + 1e-3
+)
 
-# Ograniczenie - pierwszy event musi być równy zeru
-@constraint(model, t[1] == 0)
+# b[i,j] = [[ x[i] + P[i] >= x[j] ]] = [[ x[i] + P[i] - x[j] >= 0 ]]
+@constraint(model,
+    [i in 1:liczba_zadan,j in 1:liczba_zadan],
+    b[i,j] * M >= x[i] + czasy_zadan[i] - x[j] + 1e-3
+)
+@constraint(model,
+    [i in 1:liczba_zadan,j in 1:liczba_zadan],
+    y[i,j] >= a[i,j] + b[i,j] - 1
+)
+
+# Spełniony jest graf
+@constraint(model, [i in 1:liczba_zadan, j in poprzednicy_zadan[i]], x[j] + czasy_zadan[j] <= x[i])
+
+# Uruchomienie modelu
+optimize!(model)
+
+# Rozwiązanie
+if termination_status(model) == MOI.OPTIMAL
+    println("Znaleziono optymalne rozwiązanie.")
+
+    println("Czas zakończenia: ", objective_value(model))
+    println("Czasy rozpoczęcia zadań: ")
+    for z in zadania
+        println("Zadanie $z: ", value(x[z]))
+    end
+
+    p = plot(xlabel="Czas", ylabel="", legend=false, title="Rozdzielanie zasobów", yticks=false)
+    for z in zadania
+        xs = [value(x[z]), value(x[z]) + czasy_zadan[z], value(x[z]) + czasy_zadan[z], value(x[z]), value(x[z])]
+        ys = [1.5 * z - 1.5, 1.5 * z - 1.5, 1.5 * z - 0.5, 1.5 * z - 0.5, 1.5 * z - 1.5]
+        plot!(p, xs, ys, seriestype = :shape, fillalpha = 0.4)
+        annotate!(p, value(x[z]) + czasy_zadan[z] / 2 , 1.5 * z - 1.0, text(z, :black, 15, :left))
+    end
+    savefig(p, "wynik.png")
+
+else
+    println("Nie znaleziono optymalnego rozwiązania.")
+end
