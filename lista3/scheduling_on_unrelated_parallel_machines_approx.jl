@@ -38,8 +38,8 @@ function create_lp_model(jobs_num::Int, machines_num::Int, processing_times::Mat
     set_silent(model)
 
     S_T_complement = [(i,j) for i in 1:jobs_num, j in 1:machines_num if processing_times[i, j] > T]
-    S_T_j = [[i for i in 1:jobs_num if processing_times[i, j] <= T] for j in 1:machines_num]
     S_T_i = [[j for j in 1:machines_num if processing_times[i, j] <= T] for i in 1:jobs_num]
+    S_T_j = [[i for i in 1:jobs_num if processing_times[i, j] <= T] for j in 1:machines_num]
 
     # x[i, j] = 1 if job i is assigned to machine j, 0 otherwise
     @variable(model, x[1:jobs_num, 1:machines_num] >= 0) # relaxation to allow fractional assignments
@@ -110,22 +110,27 @@ function resolve_fractional_assignments(jobs_num::Int, machines_num::Int, soluti
     feasible_solution = copy(solution)
 
     # process leaves
-    for j in 1:machines_num
-        # check if there is only one fractional assignment - leaf
-        if count(x -> 0 < x < 1, feasible_solution[:, j]) == 1
-            i = findfirst(x -> 0 < x < 1, feasible_solution[:, j])
-            for k in 1:machines_num
-                if k != j
-                    feasible_solution[i, k] = 0
-                else
-                    feasible_solution[i, k] = 1
+    leaves_possible = true
+    while leaves_possible
+        leaves_possible = false
+        for j in 1:machines_num
+            # check if there is only one fractional assignment - leaf
+            if count(x -> 0 < x < 1, feasible_solution[:, j]) == 1
+                i = findfirst(x -> 0 < x < 1, feasible_solution[:, j])
+                for k in 1:machines_num
+                    if k != j
+                        feasible_solution[i, k] = 0
+                    else
+                        feasible_solution[i, k] = 1
+                    end
                 end
+                leaves_possible = true
             end
         end
     end
 
     # proces cycles - select alternate edges of each cycle
-    for j in 1:machines_num
+    for j in 1:machines_num    
         for i in 1:jobs_num
             if 0 < feasible_solution[i, j] < 1
                 for k in 1:machines_num
@@ -136,7 +141,6 @@ function resolve_fractional_assignments(jobs_num::Int, machines_num::Int, soluti
                     end
                 end
             end
-            break
         end
     end
 
