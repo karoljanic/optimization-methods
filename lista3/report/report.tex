@@ -65,6 +65,7 @@ Algorytm 2-aproksymacyjny dla tego problemu składa się z kilku kroków. Piersz
 Następnie przy pomocy wyszukiwania binarnego i zrelaksowanego modelu programowania całkowitoliczbowego znajdujemy graniczną wartość makespanu $T^*$ oraz odpowiadające mu rozwiązanie.
 Ostatnim krokiem jest doprowadzenie rozwiązania do postaci całkowitoliczbowej poprzez iteracyjne przypisywanie zadań do maszyn, ponieważ zrelaksowany model może rozdzielać pojedyncze zadania pomiędzy kilka maszyn.
 Zrelaksowany model uruchamiany jest na ograniczonym przestrzeni rozwiązań - rozważane są tylko te maszyny i zadania, które mają czasy wykonania mniejsze niż $T$. Interesuje nas wyłącznie odpowiedź, czy istnieje rozwiązanie, które spełnia ograniczenia dla danego $T$.
+Przyporządkowanie jednego zadania do jednej maszyny jest możliwe, ponieważ w grafie otrzymanym na podstawie ułamkowych przyporządkowań zadań do maszyn istnieje perfect matching.
 
 \subsection{Dane}
 Eksperymenty przeprowadzono na zbiorach danych ze strony \texttt{http://soa.iti.es/problem-instances}. Składały się one z 7 grup problemów, z których każda zawierała 200 instancji problemu.

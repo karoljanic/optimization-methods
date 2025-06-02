@@ -35,7 +35,7 @@ end
 
 function create_lp_model(jobs_num::Int, machines_num::Int, processing_times::Matrix{Int}, T::Int)
     model = Model(HiGHS.Optimizer)
-    # set_silent(model)
+    set_silent(model)
 
     S_T_complement = [(i,j) for i in 1:jobs_num, j in 1:machines_num if processing_times[i, j] > T]
     S_T_i = [[j for j in 1:machines_num if processing_times[i, j] <= T] for i in 1:jobs_num]
@@ -110,36 +110,93 @@ function resolve_fractional_assignments(jobs_num::Int, machines_num::Int, soluti
     feasible_solution = copy(solution)
 
     # process leaves
-    leaves_possible = true
-    while leaves_possible
-        leaves_possible = false
-        for j in 1:machines_num
-            # check if there is only one fractional assignment - leaf
-            if count(x -> 0 < x < 1, feasible_solution[:, j]) == 1
-                i = findfirst(x -> 0 < x < 1, feasible_solution[:, j])
-                for k in 1:machines_num
-                    if k != j
-                        feasible_solution[i, k] = 0
-                    else
-                        feasible_solution[i, k] = 1
-                    end
+    leaf_queue = Vector{Tuple{Int, Int}}()
+    for j in 1:machines_num
+        if count(x -> 0 < x < 1, feasible_solution[:, j]) == 1
+            i = findfirst(x -> 0 < x < 1, feasible_solution[:, j])
+            push!(leaf_queue, (i, j))
+        end
+    end
+
+    while !isempty(leaf_queue)
+        (i, j) = popfirst!(leaf_queue)
+        
+        new_j = nothing    
+        for k in 1:machines_num
+            if 0 < feasible_solution[i, k] < 1
+                if k != j
+                    new_j = k
                 end
-                leaves_possible = true
+            end
+
+            if k != j
+                feasible_solution[i, k] = 0
+            else
+                feasible_solution[i, k] = 1
+            end
+        end
+
+        if new_j !== nothing
+            if count(x -> 0 < x < 1, feasible_solution[:, new_j]) == 1
+                new_i = findfirst(x -> 0 < x < 1, feasible_solution[:, new_j])
+                push!(leaf_queue, (new_i, new_j))
             end
         end
     end
 
     # proces cycles - select alternate edges of each cycle
-    for j in 1:machines_num    
-        for i in 1:jobs_num
-            if 0 < feasible_solution[i, j] < 1
-                for k in 1:machines_num
-                    if k != j
-                        feasible_solution[i, k] = 0
-                    else
-                        feasible_solution[i, k] = 1
-                    end
-                end
+    cycle = Vector{Tuple{Int, Int}}()
+    visited = falses(jobs_num, machines_num)
+
+    (prev, current) = (nothing, nothing)
+    for i in 1:jobs_num
+        for j in 1:machines_num
+            if 0 < feasible_solution[i, j] < 1 && !visited[i]
+                current = (i, j)
+                break
+            end
+        end
+        if current !== nothing
+            break
+        end
+    end
+
+    next = current
+    while next !== nothing
+        (current_i, current_j) = current
+        visited[current_i, current_j] = true
+
+        push!(cycle, current)
+
+        neighbors_i = findall(x -> 0 < x < 1, feasible_solution[:, current_j])
+        neighbors_j = findall(x -> 0 < x < 1, feasible_solution[current_i, :])
+        neighbors = Set{Tuple{Int, Int}}()
+        for ni in neighbors_i
+            push!(neighbors, (ni, current_j))
+        end
+        for nj in neighbors_j
+            push!(neighbors, (current_i, nj))
+        end
+
+        next = nothing
+        for neighbor in neighbors
+            if neighbor != current && neighbor != prev && !visited[neighbor...]
+                next = neighbor
+                break
+            end
+        end
+
+        prev = current
+        current = next
+    end
+
+    for i in 1:2:length(cycle)
+        (ci, cj) = cycle[i]
+        for k in 1:machines_num
+            if k != cj
+                feasible_solution[ci, k] = 0
+            else
+                feasible_solution[ci, k] = 1
             end
         end
     end

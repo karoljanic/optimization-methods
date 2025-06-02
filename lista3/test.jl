@@ -80,9 +80,9 @@ end
 #     push!(optimal, optimal_makespan)
 # end
 
-# @save "results2.jld2" testcases approx optimal
+# @save "results.jld2" testcases approx optimal
 
-@load "results2.jld2" testcases approx optimal
+@load "results.jld2" testcases approx optimal
 
 testcase_names = [replace(replace(testcase[1], "RCmax/" => ""), ".txt" => "")  for testcase in testcases]
 plot_results(testcase_names, approx, optimal)
