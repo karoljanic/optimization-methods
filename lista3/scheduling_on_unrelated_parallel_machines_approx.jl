@@ -109,6 +109,10 @@ end
 function resolve_fractional_assignments(jobs_num::Int, machines_num::Int, solution::Matrix{Float64})
     feasible_solution = copy(solution)
 
+    fractional_assignments = count(row -> any(x -> 0 < x < 1, row), eachrow(solution))
+    fractional_percentage = fractional_assignments / jobs_num
+    integral_percentage = 1 - fractional_percentage
+
     # process leaves
     leaf_queue = Vector{Tuple{Int, Int}}()
     for j in 1:machines_num
@@ -201,21 +205,20 @@ function resolve_fractional_assignments(jobs_num::Int, machines_num::Int, soluti
         end
     end
 
-    return feasible_solution
+    return feasible_solution, fractional_percentage, integral_percentage
 end
 
 function schedule_unrelated_parallel_machines(jobs_num::Int, machines_num::Int, processing_times::Matrix{Int})
     T, solution = find_target_makespan(jobs_num, machines_num, processing_times)
-    feasible_solution = resolve_fractional_assignments(jobs_num, machines_num, solution)
+    feasible_solution, fractional_percentage, integral_percentage = resolve_fractional_assignments(jobs_num, machines_num, solution)
 
     feasible_solution_T = maximum([sum(processing_times[i, j] * feasible_solution[i, j] for i in 1:jobs_num) for j in 1:machines_num])
     job_to_machine = [findfirst(x -> x > 0, feasible_solution[i, :]) for i in 1:jobs_num]
 
-    return feasible_solution_T, job_to_machine
+    return feasible_solution_T, job_to_machine, fractional_percentage, integral_percentage
 end
 
 function run_schedule_unrelated_parallel_machines(data_file::String)
     jobs_num, machines_num, processing_times = read_data(data_file)
-    T, job_to_machine_assignment = schedule_unrelated_parallel_machines(jobs_num, machines_num, processing_times)
-    return T, job_to_machine_assignment
+    return schedule_unrelated_parallel_machines(jobs_num, machines_num, processing_times)
 end

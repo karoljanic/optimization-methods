@@ -73,14 +73,83 @@ Wartości czasów wykonania zadań były losowane z rozkładu jednostajnego na p
 
 \subsection{Wyniki i wnioski}
 Otrzymane wyniki porównano z najlepszymi znanymi rozwiązaniami dla tych instancji. 
-Na wykresie \ref{fig:results} przedstawiono ratio otrzymanych rozwiązań do najlepszych znanych rozwiązań dla każdej instancji problemu.
+Na Wykresie \ref{fig:results} przedstawiono ratio otrzymanych rozwiązań do najlepszych znanych rozwiązań dla każdej instancji problemu.
 Łatwo zauważyć, że dla każdej instancji otrzymane rozwiązanie jest co najwyżej dwukrotnie gorsze od najlepszego znanego rozwiązania, co wskazuje na poprawność algorytmu i jego 2-aproksymacyjność.
+Ekstrema i wartości średnie poszczegółnych serii zawiera Tabela \ref{tab:approximation_ratios}.
+Dla dwóch instancji z serii \texttt{Instanciasde1000a1100} otrzymano rozwiązania, które były lepsze niż najlepsze znane rozwiązania - Tabela \ref{tab:approximation_ratios}.
+Wraz ze wzrostem rozmiaru instancji problemu, otrzymane rozwiązania stają się coraz bliższe rozwiązaniom optymalnym a liczba zadań przypisanych całkowicie do maszyn rośnie (Wykresy \ref{fig:group_instancias1a100} - \ref{fig:group_MaqCorre}).
 
-\begin{figure}[ht]
+\begin{figure}[h!]
     \centering
-    \includegraphics[width=0.8\textwidth]{../approximation_ratio_plot.png}
+    \includegraphics[width=0.5\textwidth]{../approximation_ratio_plot.png}
     \caption{Wyniki eksperymentów - ratio otrzymanych rozwiązań do najlepszych znanych rozwiązań}
     \label{fig:results}
+\end{figure}
+
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{l | c c c}
+        \textbf{Seria} & \textbf{Min} & \textbf{Max} & \textbf{Średnia} \\
+        \hline
+        instancias1a100 & 1.0145 & 1.9231 & 1.3399 \\
+        instanciasde10a100 & 1.0057 & 1.6329 & 1.1499 \\
+        instancias100a200 & 1.0047 & 1.5048 & 1.0879 \\
+        instancias100a120 & 1.0015 & 1.5124 & 1.0853 \\
+        Instanciasde1000a1100 & 0.9994 & 1.4988 & 1.0840 \\
+        JobsCorre & 1.0089 & 1.9135 & 1.1855 \\
+        MaqCorre & 1.0052 & 1.8725 & 1.2430 \\
+    \end{tabular}
+    \caption{Ekstrema i wartości średnie dla poszczególnych grup problemów}
+    \label{tab:approximation_ratios}
+\end{table}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{../approximation_ratio_group_instancias1a100.png}
+    \caption{Wyniki eksperymentów dla grupy instancias1a100}
+    \label{fig:group_instancias1a100}
+\end{figure}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{../approximation_ratio_group_instanciasde10a100.png}
+    \caption{Wyniki eksperymentów dla grupy instanciasde10a100}
+    \label{fig:group_instanciasde10a100}
+\end{figure}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{../approximation_ratio_group_instancias100a200.png}
+    \caption{Wyniki eksperymentów dla grupy instancias100a200}
+    \label{fig:group_instancias100a200}
+\end{figure}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{../approximation_ratio_group_instancias100a120.png}
+    \caption{Wyniki eksperymentów dla grupy instancias100a120}
+    \label{fig:group_instancias100a120}
+\end{figure}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{../approximation_ratio_group_instanciasde1000a1100.png}
+    \caption{Wyniki eksperymentów dla grupy instanciasde1000a1100}
+    \label{fig:group_instanciasde1000a1100}
+\end{figure}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{../approximation_ratio_group_JobsCorre.png}
+    \caption{Wyniki eksperymentów dla grupy JobsCorre}
+    \label{fig:group_JobsCorre}
+\end{figure}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{../approximation_ratio_group_MaqCorre.png}
+    \caption{Wyniki eksperymentów dla grupy MaqCorre}
+    \label{fig:group_MaqCorre}
 \end{figure}
 
 

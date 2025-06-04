@@ -11,6 +11,8 @@ else
     data_file = ARGS[1]
 end
 
-T, job_to_machine_assignment = run_schedule_unrelated_parallel_machines(data_file)
+T, job_to_machine_assignment, fractional_percentage, integral_percentage = run_schedule_unrelated_parallel_machines(data_file)
 println("Makespan: ", T)
 println("Job to machine assignment: ", job_to_machine_assignment)
+println("Fractional percentage after first stage: ", fractional_percentage)
+println("Integral percentage after second stage: ", integral_percentage)
